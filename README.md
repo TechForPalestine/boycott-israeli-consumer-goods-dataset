@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 # boycott-golden-source
 
 Collating all boycott and alternatives data into a single, golden-source, version-controlled repository. This can be consumed by software products and services.
