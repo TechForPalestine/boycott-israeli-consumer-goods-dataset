@@ -17,10 +17,9 @@ Example:
 
   # name: required, brand name
 - name: "Brand"
-  
+
   # website: optional, website of company, useful for alternatives to help users navigate to and shop from
   website:
-
   # image_url: optional, link to brand logo image
   image_url: |-
     https://1000logos.net/wp-content/uploads/2023/03/Whiskas-Logo-2003.png
@@ -30,18 +29,18 @@ Example:
 
   # parents: required, list of parents, since one brand can have different parent companies in a different country/region
   parents:
-  	# name: required, parent company name
+    # name: required, parent company name
   - name: "Parent Company"
   	
-  	# location: required, list of locations where this is the parent company of the brand
+    # location: required, list of locations where this is the parent company of the brand
     location: [global]
 
     # level: required, boycotting level, one of direct, alternative
     level: direct		
     
-	# details: optional - boycotting details, relevant for boycott brand, can be empty for alternative
-	#   reason: reason for boycotting (if applicable)
-	#   source_url: evidence for why this brand/parent should be boycotted
+    # details: optional - boycotting details, relevant for boycott brand, can be empty for alternative
+    #   reason: reason for boycotting (if applicable)
+    #   source_url: evidence for why this brand/parent should be boycotted
     details:			
       reason: |-
         **Wilson Partnership**
