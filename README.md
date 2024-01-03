@@ -55,7 +55,9 @@ Example:
 
 - high level location to country codes? https://www.iban.com/country-codes
 - update empty parents (manual?)
-- script to 
+- review the data + sanitize
+- validation script - read everything in data/companies, check for dupes, check required + optional fields etc.
+- script to read in data/companies in and generate full data in csv, json, yaml format + add timestamps. 
 
 
 
