@@ -1,0 +1,11 @@
+name: "PepsiCo, Inc."
+reason: |-
+  PepsiCo purchased the Israeli company SodaStream in August 2018.[^1] SodaStream has long been a BDS target due to 
+  their operation of factories on stolen land and their racial discrimination against Palestinian workers.[^2]
+  
+  [^1]: https://www.nasdaq.com/articles/sodastream-sells-out-price-too-low-2018-08-20
+  [^2]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide
+brands:
+  - name: SodaStream
+    slug: sodastream
+    alternatives: [drinkmate]
