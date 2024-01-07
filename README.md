@@ -2,7 +2,10 @@
 
 # boycott-golden-source
 
-Collating all boycott and alternatives data into a single, golden-source, version-controlled repository. This can be consumed by software products and services.
+Collating all consumer boycott and alternatives data into a single, golden-source, version-controlled repository. This can be consumed by software products and services.
+
+If you're a company looking for SaaS products to avoid, see [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset).
+
 
 Sources:
 
@@ -51,6 +54,13 @@ Example:
       source_url: |-
         https://deltagalil.com/brands/licensed-brands/default.aspx
 ```
+
+
+## Useful Resources & Links
+
+* [Who Profits Research Center](https://www.whoprofits.org/)
+* [BDS Movement guide to targeted consumer boycotts](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide)
+* [AFSC's list of companies profiting from Israel's 2023 attack on Gaza](https://afsc.org/companies-behind-2023-attack-gaza)
 
 
 ## TODO
