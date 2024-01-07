@@ -1,11 +1,15 @@
 type: object
+description: A company is an entity that owns more than one brand, or owns other companies.
 properties:
   name:
     type: string
+    description: Name of the company
   description:
     type: string
+    description: Description of the company, including why it is on the list
   status:
     type: string
+    description: Whether to support or avoid this company
     enum:
       - support
       - neutral
