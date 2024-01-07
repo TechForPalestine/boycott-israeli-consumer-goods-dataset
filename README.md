@@ -1,6 +1,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-# boycott-golden-source
+# boycott-israeli-consumer-goods-dataset
 
 Collating all consumer boycott and alternatives data into a single, golden-source, version-controlled repository. This can be consumed by software products and services.
 
