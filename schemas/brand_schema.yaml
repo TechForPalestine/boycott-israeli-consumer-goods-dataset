@@ -1,0 +1,76 @@
+type: object
+properties:
+  name:
+    type: string
+  description:
+    type: string
+  status:
+    type: string
+    enum:
+      - support
+      - neutral
+      - avoid
+  reasons:
+    type: array
+    items:
+      type: string
+      enum:
+        - operations_in_israel
+        - operations_in_settlements
+  countries:
+    type: array
+    items:
+      anyOf:
+        - type: string
+          enum: [global]
+        - type: string
+          pattern: "^[a-z]{2}$"
+  categories:
+    type: array
+    items:
+      type: string
+      enum: [food]
+  website:
+    type: string
+    format: uri
+    pattern: "^https?://"
+  logo_url:
+    type: string
+    format: uri
+    pattern: "^https?://"
+  alternatives:
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z][a-z-]+[a-z]$"
+  alternatives_text:
+    type: string
+  stakeholders:
+    type: array
+    items:
+      anyOf:
+        - type: object
+          properties:
+            id:
+              type: string
+              pattern: "^[a-z][a-z-]+[a-z]$"
+            type:
+              type: string
+              enum: [owner]
+            ownership_percent:
+              type: number
+              minimum: 10
+              maximum: 100
+  allOf:
+    if:
+      properties:
+        status:
+          const: avoid
+      required: [status]
+    then:
+      required: [reasons]
+required:
+  - name
+  - status
+  - description
+additionalProperties: false
