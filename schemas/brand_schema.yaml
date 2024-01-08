@@ -1,0 +1,92 @@
+type: object
+description: A brand is something that a consumer may search to know whether or not to purchase a product.
+properties:
+  name:
+    description: Name of the brand
+    type: string
+  description:
+    description: Explanation of why the brand is on this list.  Or, if it's not a brand to avoid, just a description of the brand.
+    type: string
+  status:
+    description: Whether to support or avoid this brand
+    type: string
+    enum:
+      - support
+      - neutral
+      - avoid
+  reasons:
+    description: A list of reasons for why consumers should avoid this brand.
+    type: array
+    items:
+      type: string
+      enum:
+        - operations_in_israel
+        - operations_in_settlements
+  countries:
+    description: |-
+      A list of countries (ISO alpha-2 country codes) that the brand operates in. 
+      Useful for filtering for brands that are relevant to a specific region.
+      "global" means it is available in all countries.
+    type: array
+    items:
+      anyOf:
+        - type: string
+          enum: [global]
+        - type: string
+          pattern: "^[a-z]{2}$"
+  categories:
+    type: array
+    items:
+      type: string
+      enum: [food]
+  website:
+    type: string
+    format: uri
+    pattern: "^https?://"
+  logo_url:
+    description: Logo should be at least 200x200 pixels
+    type: string
+    format: uri
+    pattern: "^https?://"
+  alternatives:
+    description: List of brands that would be an alternative option to purchasing from this brand.
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z][a-z-]+[a-z]$"
+  alternatives_text:
+    description: |-
+      Plain text description of alternatives.
+      Especially useful when alternatives are difficult to enumerate.
+    type: string
+  stakeholders:
+    description: |-
+      If useful, a list of stakeholders, such as companies who own this brand.
+    type: array
+    items:
+      anyOf:
+        - type: object
+          properties:
+            id:
+              type: string
+              pattern: "^[a-z][a-z-]+[a-z]$"
+            type:
+              type: string
+              enum: [owner]
+            ownership_percent:
+              type: number
+              minimum: 10
+              maximum: 100
+  allOf:
+    if:
+      properties:
+        status:
+          const: avoid
+      required: [status]
+    then:
+      required: [reasons]
+required:
+  - name
+  - status
+  - description
+additionalProperties: false
