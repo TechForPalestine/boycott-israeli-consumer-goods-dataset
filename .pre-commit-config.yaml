@@ -1,0 +1,9 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: export-yaml
+        name: Export YAML to CSV and JSON
+        language: python
+        entry: python export.py
+        additional_dependencies: ['pyaml']
+
