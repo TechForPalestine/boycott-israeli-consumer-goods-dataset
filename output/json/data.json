@@ -1,0 +1,121 @@
+{
+  "brands": {
+    "sabra": {
+      "id": "sabra",
+      "name": "Sabra",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_israel"
+      ],
+      "categories": [
+        "food"
+      ],
+      "website": "https://sabra.com/",
+      "description": "Sabra was an Isareli hummus company, and is now a joint venture between Pepsi and Strauss.  Strauss is an Israeli food company.",
+      "alternatives_text": "Most hummus is not Israeli.  Any non-Israeli hummus at your local grocery store is preferred over Sabra.",
+      "stakeholders": [
+        {
+          "id": "pepsico",
+          "type": "owner",
+          "percent": 50
+        },
+        {
+          "id": "strauss-group",
+          "type": "owner",
+          "percent": 50
+        }
+      ]
+    },
+    "sodastream": {
+      "id": "sodastream",
+      "name": "SodaStream",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_israel"
+      ],
+      "countries": [
+        "global"
+      ],
+      "website": "https://sodastream.com/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Soda_Stream_Logo.svg/2560px-Soda_Stream_Logo.svg.png",
+      "description": "SodaStream has long been a BDS target due to their operation of factories on stolen land and their racial discrimination against Palestinian workers.[^1]\n\n[^1]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide",
+      "alternatives": [
+        "drinkmate"
+      ],
+      "stakeholders": [
+        {
+          "id": "pepsi",
+          "type": "owner",
+          "percent": 50
+        },
+        {
+          "id": "strauss-group",
+          "type": "owner",
+          "percent": 50
+        }
+      ]
+    },
+    "puma": {
+      "id": "puma",
+      "name": "Puma",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_israel"
+      ],
+      "countries": [
+        "global"
+      ],
+      "description": "The Palestinian BDS National Committee has called for a boycott of Puma[^1] for several reasons, including their \nsponsorship of the Israeli Football Association (IFA), which includes teams in illegal settlements on occupied \nPalestinian land.\n\n[^1]: https://bdsmovement.net/boycott-puma"
+    },
+    "ahava": {
+      "id": "ahava",
+      "name": "Ahava",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_settlements",
+        "operations_in_israel"
+      ],
+      "countries": [
+        "global"
+      ],
+      "website": "https://www.ahava.com/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AhavaLogo.png",
+      "description": "Ahava is an Israeli cosmetics company which operates its main manufacturing plant and showroom in Mitzpe Shalem, \nan illegal settlement in the West Bank.[^1]\nThe Palestinian BDS National Committee has called for a boycott of Ahava.[^2]\n\n[^1]: https://en.wikipedia.org/wiki/Ahava\n[^2]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide"
+    },
+    "drinkmate": {
+      "id": "drinkmate",
+      "name": "Drinkmate",
+      "status": "neutral",
+      "countries": [
+        "us",
+        "ca",
+        "gb",
+        "eu",
+        "au",
+        "co",
+        "pe",
+        "ae",
+        "sa",
+        "jp",
+        "sg",
+        "tw"
+      ],
+      "website": "https://idrinkproducts.com/",
+      "description": "Drinkmate offers sparkling water and soda makers (also known as soda machines)."
+    }
+  },
+  "companies": {
+    "pepsico": {
+      "id": "pepsico",
+      "name": "PepsiCo, Inc.",
+      "status": "avoid",
+      "description": "PepsiCo purchased the Israeli company SodaStream in August 2018.[^1] SodaStream has long been a BDS target due to \ntheir operation of factories on stolen land and their racial discrimination against Palestinian workers.[^2]\n\nPepsi also owns 50% of Sabra, with the other 50% being owned by Israeli food company Strauss.\n\n[^1]: https://www.nasdaq.com/articles/sodastream-sells-out-price-too-low-2018-08-20\n[^2]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide"
+    },
+    "strauss-group": {
+      "id": "strauss-group",
+      "name": "Strauss Group Ltd.",
+      "status": "avoid",
+      "description": "Strauss Group is an Israeli manufacturer and marketer of consumer foods."
+    }
+  }
+}

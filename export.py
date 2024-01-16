@@ -2,74 +2,83 @@
 import yaml
 import csv
 import json
-
+import csv
+import os
 def read_yaml(file_path):
     with open(file_path, 'r') as file:
         data = yaml.safe_load(file)
     return data
 
-def export_to_csv(data, csv_file, delimiter=','):
-    if isinstance(data, list):
-        header = data[0].keys() if data else []
-        rows = []
-        for item in data:
-            item["parent name"]=item["parents"][0]["name"]
-            item["parent location"]=item["parents"][0]["location"]
-            item["parent level"]=item["parents"][0]["level"]
-            item["reason"]=item["parents"][0]["details"]["reason"]
-            item["source_url"]=item["parents"][0]["details"]["source_url"]
-            del item['parents']
-            row = list(item.values())
-            rows.append(row)
+def clean_value(value):
+    if isinstance(value, list):
+        return ', '.join(map(str, value))
+    else:
+        return value
+def export_to_csv(input_dir, output_csv, schema_file):
+    schema = read_yaml(schema_file)
 
+    with open(output_csv, 'w', newline='') as csvfile:
+        fieldnames = ['id'] +list(schema["properties"].keys())
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        # Write header based on the schema
+        writer.writeheader()
 
+        for yaml_file in os.listdir(input_dir):
+            if yaml_file.endswith(".yaml"):
+                yaml_file_path = os.path.join(input_dir, yaml_file)
+                with open(yaml_file_path, 'r') as file:
+                    data = yaml.safe_load(file)
 
-    with open(csv_file, 'w', newline='', encoding='utf-8') as csv_output:
-        csv_writer = csv.writer(csv_output, delimiter=delimiter)
-        csv_writer.writerow(header)
-        csv_writer.writerows(rows)
+                    cleaned_data = {key: clean_value(data.get(key, None)) for key in fieldnames}
+                    cleaned_data['id'] = os.path.splitext(yaml_file)[0]
+   
+                    writer.writerow(cleaned_data)
 
-def export_to_json(data, json_file):
-    with open(json_file, 'w') as file:
-        json.dump(data, file, indent=2)
+                    print(f"Converted {yaml_file} to CSV")
+def convert_yaml_to_json(directory_path, key):
+    data = {}
+    
+    for file_name in os.listdir(directory_path):
+        if file_name.endswith(".yaml"):
+            file_path = os.path.join(directory_path, file_name)
+            with open(file_path, 'r') as yaml_file:
+                yaml_data = {}
+            
+                yaml_data = yaml.safe_load(yaml_file)
+                
+                data[os.path.splitext(file_name)[0]] = {'id':os.path.splitext(file_name)[0], **yaml_data}
+    
+    return {key: data}
+
+def export_to_json(directory1, directory2, output_json):
+    brands_data = convert_yaml_to_json(directory1, 'brands')
+    companies_data = convert_yaml_to_json(directory2, 'companies')
+    
+    combined_data = {**brands_data, **companies_data}
+
+    with open(output_json, 'w') as json_file:
+        json.dump(combined_data, json_file, indent=2)
+
+        print(f"Converted data to JSON")
+
 
 if __name__ == "__main__":
-    yaml_all_boycott = 'output/yaml/all_boycott.yaml'
-    yaml_all = 'output/yaml/all.yaml'
-    yaml_alternatives = 'output/yaml/alternatives.yaml'
+    brands_yaml = 'data/brands'
+    companies_yaml = 'data/companies'
 
-    csv_all_boycott = 'output/csv/all_boycott.csv'
-    csv_all = 'output/csv/all.csv'
-    csv_alternatives = 'output/csv/alternatives.csv'
+    brands_csv_file = 'output/csv/brands.csv'
+    companies_csv_file = 'output/csv/companies.csv'
 
-    json_all_boycott = 'output/json/all_boycott.json'
-    json_all = 'output/json/all.json'
-    json_alternatives = 'output/json/alternatives.json'
+    data_json_file = 'output/json/data.json'
 
-    # Read YAML data
-    all_boycott_data = read_yaml(yaml_all_boycott)
-    all_data = read_yaml(yaml_all)
-    altenatives_data = read_yaml(yaml_alternatives)
+    brand_schema = 'schemas/brand_schema.yaml'
+    company_schema = 'schemas/company_schema.yaml'
 
-    # Export to JSON
-    export_to_json(all_boycott_data, json_all_boycott)
-    print(f'Data exported to {json_all_boycott}')
-
-    export_to_json(all_data, json_all)
-    print(f'Data exported to {json_all}')
-
-    export_to_json(altenatives_data, json_alternatives)
-    print(f'Data exported to {json_alternatives}')
-    # Export to CSV
-    export_to_csv(all_boycott_data["brands"], csv_all_boycott, delimiter=';')
-    print(f'Data exported to {csv_all_boycott}')
-
-    export_to_csv(all_data["brands"], csv_all, delimiter=';')
-    print(f'Data exported to {csv_all}')
-
-    export_to_csv(altenatives_data["brands"], csv_alternatives, delimiter=';')
-    print(f'Data exported to {csv_alternatives}')
-
+    export_to_csv(brands_yaml, brands_csv_file, brand_schema)
+    export_to_csv(companies_yaml, companies_csv_file, company_schema)
+    export_to_json(brands_yaml,companies_yaml,data_json_file)
+    
 
 
 

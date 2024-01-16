@@ -5,5 +5,5 @@ repos:
         name: Export YAML to CSV and JSON
         language: python
         entry: python export.py
-        additional_dependencies: ['pyaml']
+        additional_dependencies: ['pyyaml']
 
