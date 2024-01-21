@@ -28,7 +28,7 @@ def export_to_csv(input_dir, output_csv, schema_file):
         # Write header based on the schema
         writer.writeheader()
 
-        for yaml_file in os.listdir(input_dir):
+        for yaml_file in sorted(os.listdir(input_dir)):
             if yaml_file.endswith(".yaml"):
                 yaml_file_path = os.path.join(input_dir, yaml_file)
                 with open(yaml_file_path, 'r') as file:
@@ -43,7 +43,7 @@ def export_to_csv(input_dir, output_csv, schema_file):
 def convert_yaml_to_json(directory_path, key):
     data = {}
     
-    for file_name in os.listdir(directory_path):
+    for file_name in sorted(os.listdir(directory_path)):
         if file_name.endswith(".yaml"):
             file_path = os.path.join(directory_path, file_name)
             with open(file_path, 'r') as yaml_file:

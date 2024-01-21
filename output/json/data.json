@@ -1,5 +1,53 @@
 {
   "brands": {
+    "ahava": {
+      "id": "ahava",
+      "name": "Ahava",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_settlements",
+        "operations_in_israel"
+      ],
+      "countries": [
+        "global"
+      ],
+      "website": "https://www.ahava.com/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AhavaLogo.png",
+      "description": "Ahava is an Israeli cosmetics company which operates its main manufacturing plant and showroom in Mitzpe Shalem, \nan illegal settlement in the West Bank.[^1]\nThe Palestinian BDS National Committee has called for a boycott of Ahava.[^2]\n\n[^1]: https://en.wikipedia.org/wiki/Ahava\n[^2]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide"
+    },
+    "drinkmate": {
+      "id": "drinkmate",
+      "name": "Drinkmate",
+      "status": "neutral",
+      "countries": [
+        "us",
+        "ca",
+        "gb",
+        "eu",
+        "au",
+        "co",
+        "pe",
+        "ae",
+        "sa",
+        "jp",
+        "sg",
+        "tw"
+      ],
+      "website": "https://idrinkproducts.com/",
+      "description": "Drinkmate offers sparkling water and soda makers (also known as soda machines)."
+    },
+    "puma": {
+      "id": "puma",
+      "name": "Puma",
+      "status": "avoid",
+      "reasons": [
+        "operations_in_israel"
+      ],
+      "countries": [
+        "global"
+      ],
+      "description": "The Palestinian BDS National Committee has called for a boycott of Puma[^1] for several reasons, including their \nsponsorship of the Israeli Football Association (IFA), which includes teams in illegal settlements on occupied \nPalestinian land.\n\n[^1]: https://bdsmovement.net/boycott-puma"
+    },
     "sabra": {
       "id": "sabra",
       "name": "Sabra",
@@ -54,54 +102,6 @@
           "percent": 50
         }
       ]
-    },
-    "puma": {
-      "id": "puma",
-      "name": "Puma",
-      "status": "avoid",
-      "reasons": [
-        "operations_in_israel"
-      ],
-      "countries": [
-        "global"
-      ],
-      "description": "The Palestinian BDS National Committee has called for a boycott of Puma[^1] for several reasons, including their \nsponsorship of the Israeli Football Association (IFA), which includes teams in illegal settlements on occupied \nPalestinian land.\n\n[^1]: https://bdsmovement.net/boycott-puma"
-    },
-    "ahava": {
-      "id": "ahava",
-      "name": "Ahava",
-      "status": "avoid",
-      "reasons": [
-        "operations_in_settlements",
-        "operations_in_israel"
-      ],
-      "countries": [
-        "global"
-      ],
-      "website": "https://www.ahava.com/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AhavaLogo.png",
-      "description": "Ahava is an Israeli cosmetics company which operates its main manufacturing plant and showroom in Mitzpe Shalem, \nan illegal settlement in the West Bank.[^1]\nThe Palestinian BDS National Committee has called for a boycott of Ahava.[^2]\n\n[^1]: https://en.wikipedia.org/wiki/Ahava\n[^2]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide"
-    },
-    "drinkmate": {
-      "id": "drinkmate",
-      "name": "Drinkmate",
-      "status": "neutral",
-      "countries": [
-        "us",
-        "ca",
-        "gb",
-        "eu",
-        "au",
-        "co",
-        "pe",
-        "ae",
-        "sa",
-        "jp",
-        "sg",
-        "tw"
-      ],
-      "website": "https://idrinkproducts.com/",
-      "description": "Drinkmate offers sparkling water and soda makers (also known as soda machines)."
     }
   },
   "companies": {
