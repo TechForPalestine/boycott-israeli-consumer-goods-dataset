@@ -18,9 +18,13 @@ def export_to_csv(input_dir, output_csv, schema_file):
     schema = read_yaml(schema_file)
 
     with open(output_csv, 'w', newline='') as csvfile:
-        fieldnames = ['id'] +list(schema["properties"].keys())
+        schema_fields = list(schema['properties'].keys())
+        if 'stakeholders' in schema_fields:
+            # Haven't decided how to represent stakeholders in the CSV format, so just remove it for now.
+            schema_fields.remove('stakeholders')
+        fieldnames = ['id'] + schema_fields
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        
+
         # Write header based on the schema
         writer.writeheader()
 
