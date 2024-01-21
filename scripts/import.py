@@ -57,18 +57,21 @@ def parent_from_details(details):
                 return parse_for_parent[1]
     return ""
 
+
 # Custom representer for multiline strings
 def literal_presenter(dumper, data):
-    if '\n' in data or len(data)>30:
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-    if ' ' in data:
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='"')
+    if "\n" in data or len(data) > 30:
+        return dumper.represent_scalar("tag:yaml.org,2002:str", data, style="|")
+    if " " in data:
+        return dumper.represent_scalar("tag:yaml.org,2002:str", data, style='"')
     if not data or data == "":
-        return dumper.represent_scalar('tag:yaml.org,2002:null', '')
-    return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+        return dumper.represent_scalar("tag:yaml.org,2002:null", "")
+    return dumper.represent_scalar("tag:yaml.org,2002:str", data)
+
 
 def none_representer(dumper, data):
-    return dumper.represent_scalar('tag:yaml.org,2002:null', '')
+    return dumper.represent_scalar("tag:yaml.org,2002:null", "")
+
 
 # Apply the custom representer
 yaml.add_representer(str, literal_presenter)
@@ -90,18 +93,20 @@ def create_data_model(data, default_level=ALTERNATIVE):
         #     country = alternative.get('attributes').get('Market', None)
         #     categories_raw = alternative.get('attributes').get('tags')
         #     categories = categories.split(",") if categories_raw else [] #split_categories(categories_raw)
-        
-        brand_name = row.get('attributes').get('name')
-        reason = row.get('attributes').get('proof')
+
+        brand_name = row.get("attributes").get("name")
+        reason = row.get("attributes").get("proof")
         parent_name = parent_from_details(reason)
-        source_url = row.get('attributes').get('proofUrl')
-        image_url = row.get('attributes').get('imageUrl')
-        website = row.get('attributes').get('Website', '')
-        level = row.get('attributes').get('Level', default_level)
-        country = row.get('attributes').get('Market', None)
-        categories_raw = row.get('attributes').get('tags')
-        categories = categories.split(",") if categories_raw else [] #split_categories(categories_raw)
-        location = GLOBAL if not country or country == '' else country
+        source_url = row.get("attributes").get("proofUrl")
+        image_url = row.get("attributes").get("imageUrl")
+        website = row.get("attributes").get("Website", "")
+        level = row.get("attributes").get("Level", default_level)
+        country = row.get("attributes").get("Market", None)
+        categories_raw = row.get("attributes").get("tags")
+        categories = (
+            categories.split(",") if categories_raw else []
+        )  # split_categories(categories_raw)
+        location = GLOBAL if not country or country == "" else country
 
         if not brand_name:
             continue
@@ -111,44 +116,41 @@ def create_data_model(data, default_level=ALTERNATIVE):
                 NAME: parent_name,
                 LOCATION: location,
                 LEVEL: level,
-                DETAILS: {
-                    REASON: reason,
-                    SOURCE: source_url
-                }
+                DETAILS: {REASON: reason, SOURCE: source_url},
             }
             yaml_data[brand_name][PARENTS].append(new_parent)
         else:
             yaml_data[brand_name] = {
-                        NAME: brand_name,
-                        WEBSITE: website,
-                        IMAGE_URL: image_url,
-                        CATEGORIES: categories,
-                        PARENTS: [{
-                            NAME: parent_name,
-                            LOCATION: location,
-                            LEVEL: level,
-                            DETAILS: {
-                                REASON: reason,
-                                SOURCE: source_url
-                            }
-                        }]
+                NAME: brand_name,
+                WEBSITE: website,
+                IMAGE_URL: image_url,
+                CATEGORIES: categories,
+                PARENTS: [
+                    {
+                        NAME: parent_name,
+                        LOCATION: location,
+                        LEVEL: level,
+                        DETAILS: {REASON: reason, SOURCE: source_url},
+                    }
+                ],
             }
     return yaml_data
 
 
 def write_yaml(data, file_name):
     data_list = {"brands": list(data.values())}
-    with open(file_name, 'w', encoding='utf-8') as yaml_file:
+    with open(file_name, "w", encoding="utf-8") as yaml_file:
         yaml.dump(data_list, yaml_file, default_flow_style=False, sort_keys=False)
 
 
 def json_to_csv(json_file, output):
-    with open(json_file, encoding='utf-8') as fh:
+    with open(json_file, encoding="utf-8") as fh:
         data = json.load(fh)
         yaml_data = create_data_model(data)
         write_yaml(yaml_data, output)
 
     pdb.set_trace()
+
 
 if __name__ == "__main__":
     args = sys.argv[1:]
@@ -157,5 +159,3 @@ if __name__ == "__main__":
     output_yaml = args[1]
 
     json_to_csv(file_to_parse, output_yaml)
-
-
