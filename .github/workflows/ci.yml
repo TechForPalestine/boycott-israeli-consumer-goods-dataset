@@ -32,7 +32,7 @@ jobs:
       - name: Validate YAML
         run: |
           python --version
-          python validate_yaml.py
+          python scripts/validate_yaml.py
 
   if_merged:
     if: github.event.pull_request.merged == true
@@ -49,8 +49,7 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - run: |
           pip install -r requirements.txt
-          python validate_yaml.py
-          python generate_model.py
+          python scripts/validate_yaml.py
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

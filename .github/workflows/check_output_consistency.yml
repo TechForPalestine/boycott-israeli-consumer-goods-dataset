@@ -1,10 +1,10 @@
-name: Check YAML Consistency
+name: Check Output Consistency
 'on':
   pull_request:
     paths:
       - '**/*.yaml'
 jobs:
-  check_yaml:
+  check_output:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -17,5 +17,5 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run export and check consistency
         run: |
-          python export.py
+          python scripts/export.py
           git diff --exit-code

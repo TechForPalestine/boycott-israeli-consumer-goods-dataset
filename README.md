@@ -17,7 +17,7 @@ Output formats, such as CSV and JSON are in the `generated/` directory.
 
 Schemas for the YAML data can be found in the `schemas` directory, along with descriptions for each field.
 These schemas are in [JSON Schema](https://json-schema.org/) format, but represented in YAML for simplicity.
-The `validate_yaml.py` script validates all brands and companies using the schemas.
+The `scripts/validate_yaml.py` script validates all brands and companies using the schemas.
 
 ## Useful Resources & Links
 

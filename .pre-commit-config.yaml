@@ -1,9 +1,19 @@
 repos:
 -   repo: local
     hooks:
+    -   id: validate-yaml
+        name: Validate YAML against the schema
+        language: python
+        entry: python scripts/validate_yaml.py
+        pass_filenames: false
+        additional_dependencies: [pyyaml, jsonschema]
     -   id: export-yaml
         name: Export YAML to CSV and JSON
         language: python
-        entry: python export.py
-        additional_dependencies: ['pyyaml']
-
+        entry: python scripts/export.py
+        pass_filenames: false
+        additional_dependencies: [pyyaml]
+-   repo: https://github.com/psf/black
+    rev: 22.10.0
+    hooks:
+    -   id: black
