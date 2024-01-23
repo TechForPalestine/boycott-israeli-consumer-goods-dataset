@@ -1,0 +1,22 @@
+name: Microban
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://images.ctfassets.net/su3f4fxan0r6/6dej9HKh8udBRNGOhPwDVA/9bd44b80ad6d4408466cc4b2efcf7463/Microban_US_EN_Microban24-Protection-That-Lives-On.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

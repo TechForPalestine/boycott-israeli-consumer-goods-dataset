@@ -1,0 +1,22 @@
+name: "Bizim Mutfak"
+status: avoid
+description: |-
+  Owned by **Ajinomoto Group**.
+
+  **Ajinomoto Co.**, announced a partnership with Tel Aviv, Israel-based SuperMeat, a developer of poultry meat produced from animal cells.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.ajinomoto.com/cms_wp_ajnmt_global/wp-content/uploads/brands/png/img_brand_BizimMutfak.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Ajinomoto Group"
+  type: owner
+  ownership_percent: TBD

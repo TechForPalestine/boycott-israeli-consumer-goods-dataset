@@ -1,0 +1,21 @@
+name: "Network 10"
+status: avoid
+description: |-
+  Owned by **Paramount Global**.
+
+  **Paramount Global** stated, 'We stand with the people of Israel and the global Jewish community."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Paramount Global"
+  type: owner
+  ownership_percent: TBD

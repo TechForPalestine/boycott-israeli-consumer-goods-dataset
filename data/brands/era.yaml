@@ -1,0 +1,22 @@
+name: Era
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/c/cd/Era200x200.jpg/revision/latest?cb=20201205150122
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

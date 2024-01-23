@@ -1,0 +1,22 @@
+name: Zwitsal
+status: avoid
+description: |-
+  Owned by **Unilever**.
+
+  **Zwitsal** and Ben & Jerry's are owned by **Unilever**. When Ben & Jerry's decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://cdn.sanity.io/images/92ui5egz/production/18470457585f2a0423231ade79bb21745d0c0608-1080x1080.jpg?w=600&h=600&fit=crop&auto=format
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Unilever
+  type: owner
+  ownership_percent: TBD

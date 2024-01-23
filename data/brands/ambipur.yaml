@@ -1,0 +1,22 @@
+name: "Ambi Pur"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://seeklogo.com/images/A/ambi-pur-logo-9AD18672D4-seeklogo.com.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

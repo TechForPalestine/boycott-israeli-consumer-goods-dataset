@@ -1,0 +1,22 @@
+name: Fresca
+status: avoid
+description: |-
+  Owned by **The Coca-Cola Company**.
+
+  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://ih1.redbubble.net/image.1600955278.3658/st,small,507x507-pad,600x600,f8f8f8.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "The Coca-Cola Company"
+  type: owner
+  ownership_percent: TBD

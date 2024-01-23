@@ -1,0 +1,22 @@
+name: "The Habit Burger Grill"
+status: avoid
+description: |-
+  Owned by **Yum! Brands**.
+
+  **Yum! Brands** is an investor in Israeli start ups.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://logowik.com/content/uploads/images/t_the-habit-burger-grill1998.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Yum! Brands"
+  type: owner
+  ownership_percent: TBD

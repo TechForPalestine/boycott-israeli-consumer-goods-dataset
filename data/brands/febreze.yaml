@@ -1,0 +1,22 @@
+name: Febreze
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Febreze_Logo.svg/800px-Febreze_Logo.svg.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

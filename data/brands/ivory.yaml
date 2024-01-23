@@ -1,0 +1,22 @@
+name: Ivory
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/a/a2/Ivory_soap_logo_badge.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

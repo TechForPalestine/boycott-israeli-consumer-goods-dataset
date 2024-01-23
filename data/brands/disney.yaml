@@ -1,0 +1,22 @@
+name: Disney
+status: avoid
+description: |-
+  Owned by **The Walt Disney Company**.
+
+  **The Walt Disney Company** Donates To Support Humanitarian Relief Following Terrorist Attacks In Israel.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/02/Disney-Plus-logo-920x518.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "The Walt Disney Company"
+  type: owner
+  ownership_percent: TBD

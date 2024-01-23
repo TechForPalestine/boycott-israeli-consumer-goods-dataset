@@ -1,0 +1,22 @@
+name: Ninjamas
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://images.ctfassets.net/kpjl376cy4l0/5sNmHDOrOQCuYxNfAppqdd/1e4e436c499b6f79deff750940d41115/Ninjamas-NA_EN_Logo_Ninjamas-Logo_resized.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

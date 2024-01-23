@@ -1,0 +1,22 @@
+name: Vitalinea
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.grupodanone.com.mx/media/436326/vitalinea_logo.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Danone
+  type: owner
+  ownership_percent: TBD

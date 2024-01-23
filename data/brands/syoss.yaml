@@ -1,0 +1,20 @@
+name: Syoss
+status: avoid
+description: "Owned by **Henkel**.\n\n**Henkel** invests in Israeli technology namely\
+  \ by investing in Feelit. A company with its roots in Isra\xEBl."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.henkel.be/resource/image/35476/1x1/1000/1000/6095ce588d11650ef84c212a64e7566f/51ED2150AC7FB0DE697FF2F1C733F682/syoss-logo.webp
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Henkel
+  type: owner
+  ownership_percent: TBD

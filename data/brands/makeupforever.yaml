@@ -1,0 +1,22 @@
+name: "Make Up For Ever"
+status: avoid
+description: "**Make Up For Ever** is owned by **LVMH**.\n\nBernard Arnault, the chairman\
+  \ and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world\u2019s richest\
+  \ man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the\
+  \ **Israeli** maker of cloud security solutions for enterprises."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.makeupforever.com/on/demandware.static/Sites-MakeUpForEver-US-Site/-/default/dw21401164/fontsicons/images/logo-iframe.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: LVMH
+  type: owner
+  ownership_percent: TBD

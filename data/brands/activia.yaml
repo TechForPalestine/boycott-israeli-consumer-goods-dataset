@@ -1,0 +1,22 @@
+name: Activia
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://assets-us-01.kc-usercontent.com/f5a2b33b-f1c1-0070-ebd4-26269b6538af/3847198a-dd67-4f9d-972d-b45bd6cbe773/Logo%20Activia_1.png?fm=png&h=150&q=80
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Danone
+  type: owner
+  ownership_percent: TBD

@@ -1,0 +1,22 @@
+name: Evian
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evian_logo.svg/2560px-Evian_logo.svg.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Danone
+  type: owner
+  ownership_percent: TBD

@@ -1,0 +1,22 @@
+name: Cappy
+status: avoid
+description: |-
+  Owned by **The Coca-Cola Company**.
+
+  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://hu.coca-colahellenic.com/content/dam/cch/hu/images/our-24-7-portfolio_new/Cappy%20logo%202020%20V2.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "The Coca-Cola Company"
+  type: owner
+  ownership_percent: TBD

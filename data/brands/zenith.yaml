@@ -1,0 +1,22 @@
+name: Zenith
+status: avoid
+description: "**Zenith** is owned by **LVMH**.\n\nBernard Arnault, the chairman and\
+  \ **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world\u2019s richest\
+  \ man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the\
+  \ **Israeli** maker of cloud security solutions for enterprises."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zenith_logo.svg/2560px-Zenith_logo.svg.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: LVMH
+  type: owner
+  ownership_percent: TBD

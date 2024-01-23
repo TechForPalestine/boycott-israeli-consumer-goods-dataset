@@ -1,0 +1,22 @@
+name: Aveda
+status: avoid
+description: "Aveda is owned by **Est\xE9e Lauder**.\n\n**Ronald Lauder**, who together\
+  \ with his brother Leonard Lauder inherited the Estee Lauder company, is the president\
+  \ of the **World Jewish Congress**, and chairman of the Jewish National Fund, and\
+  \ is a **zionist** with extremist views and financially and politically supports\
+  \ **Israeli** occupation of Palestinian land."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Est\xE9e Lauder"
+  type: owner
+  ownership_percent: TBD

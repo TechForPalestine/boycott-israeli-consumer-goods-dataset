@@ -1,0 +1,19 @@
+name: Bonderite
+status: avoid
+description: "Owned by **Henkel**.\n\n**Henkel** invests in Israeli technology namely\
+  \ by investing in Feelit. A company with its roots in Isra\xEBl."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Henkel
+  type: owner
+  ownership_percent: TBD

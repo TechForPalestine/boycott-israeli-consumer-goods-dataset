@@ -1,0 +1,22 @@
+name: "Le Bon March\xE9 Rive Gauche"
+status: avoid
+description: "**Le Bon March\xE9 Rive Gauche** is owned by **LVMH**.\n\nBernard Arnault,\
+  \ the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world\u2019\
+  s richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**,\
+  \ the **Israeli** maker of cloud security solutions for enterprises."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://r.lvmh-static.com/uploads/2014/10/lbm_logo1.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: LVMH
+  type: owner
+  ownership_percent: TBD

@@ -1,0 +1,22 @@
+name: Orkid
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://images.ctfassets.net/y9nwmnerpusb/7By3EJLUlu0t1gya2KJdO1/362346cd2ee4cd2305b865f7fa5a8e97/ORKID_logo_OG_image.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

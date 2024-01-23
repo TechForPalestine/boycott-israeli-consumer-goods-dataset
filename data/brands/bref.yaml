@@ -1,0 +1,20 @@
+name: Bref
+status: avoid
+description: "Owned by **Henkel**.\n\n**Henkel** invests in Israeli technology namely\
+  \ by investing in Feelit. A company with its roots in Isra\xEBl."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.henkel.nl/resource/image/27604/1x1/1000/1000/234beff21f76c19b05039a10944fe4d9/33DA09224A039F8D22325C47CDE657D9/bref-logo.webp
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Henkel
+  type: owner
+  ownership_percent: TBD

@@ -1,0 +1,22 @@
+name: Aspirin
+status: avoid
+description: |-
+  Owned by **Bayer**.
+
+  There is a partnership between **Bayer** and the Israeli Innovation Authority. The Israel Innovation Authority (IIA) is the support arm of the Israeli government, charged with fostering the development of industrial research and development in the State of Israel.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Aspirin.svg/640px-Logo_Aspirin.svg.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Bayer
+  type: owner
+  ownership_percent: TBD

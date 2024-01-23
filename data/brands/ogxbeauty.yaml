@@ -1,0 +1,22 @@
+name: "OGX Beauty"
+status: avoid
+description: |-
+  Owned by **Johnson & Johnson**.
+
+  **Johnson & Johnson** owns companies in Israel, engaging in various sectors including healthcare, pharmaceuticals, and medical devices, furthering its global presence in these critical industries.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://youconnex.com/wp-content/uploads/2016/05/Logo-OGX.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Johnson & Johnson"
+  type: owner
+  ownership_percent: TBD

@@ -1,0 +1,22 @@
+name: "Snack a Jacks"
+status: avoid
+description: |-
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://www.snackajacks.nl/prod/s3fs-public/off_pack_purple_background_0.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: PepsiCo
+  type: owner
+  ownership_percent: TBD

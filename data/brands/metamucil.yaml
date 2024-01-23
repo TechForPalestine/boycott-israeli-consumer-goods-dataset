@@ -1,0 +1,22 @@
+name: "Meta Mucil"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/3/3a/Metamucil-2018.png/revision/latest/scale-to-width-down/250?cb=20221031000613
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

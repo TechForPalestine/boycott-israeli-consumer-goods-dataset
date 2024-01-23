@@ -1,0 +1,22 @@
+name: "O\xEEkos"
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://assets-us-01.kc-usercontent.com/f5a2b33b-f1c1-0070-ebd4-26269b6538af/0a89c810-8e03-44c4-88e7-a0aebbc0417c/Oikos%20LOGO%202020-02.jpg?fm=png&h=150&q=80
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Danone
+  type: owner
+  ownership_percent: TBD

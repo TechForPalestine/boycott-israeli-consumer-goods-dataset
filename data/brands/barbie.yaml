@@ -1,0 +1,20 @@
+name: Barbie
+status: avoid
+description: "Owned by **Mattel**.\n\n\"We unequivocally stand in solidarity with\
+  \ Israel in the global fight against terrorism,\u201D says a joint letter that was\
+  \ signed by 15 industry executives, including the CEO of **Mattel**."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Mattel
+  type: owner
+  ownership_percent: TBD

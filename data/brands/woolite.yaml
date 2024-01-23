@@ -1,0 +1,21 @@
+name: Woolite
+status: avoid
+description: |-
+  Owned by **Reckitt Benckiser**
+
+  **Reckitt Benckiser** signs a cooperation agreement with the Israel Innovation Authority.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Reckitt Benckiser"
+  type: owner
+  ownership_percent: TBD

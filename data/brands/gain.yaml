@@ -1,0 +1,22 @@
+name: Gain
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://images.ctfassets.net/oggad6svuzkv/2pavVZYAc8w04WcKq0KciY/fb096cda1c4996b79f2044d15be1861c/Gain.jpg
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Procter and Gamble"
+  type: owner
+  ownership_percent: TBD

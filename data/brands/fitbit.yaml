@@ -1,0 +1,23 @@
+name: Fitbit
+status: avoid
+description: "**Fitbit** is owned by **Google**\n\nAmazon and Google are working together\
+  \ on **Project Nimbus**. \n**Project Nimbus** is a $1.2bn contract to provide cloud\
+  \ services for the **Israeli military and government**. This technology allows for\
+  \ further surveillance of and **unlawful data collection** on Palestinians, and\
+  \ facilitates expansion of Israel\u2019s **illegal settlements** on Palestinian\
+  \ land."
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url:
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: Google
+  type: owner
+  ownership_percent: TBD

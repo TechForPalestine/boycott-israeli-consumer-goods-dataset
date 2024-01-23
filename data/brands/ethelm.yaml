@@ -1,0 +1,22 @@
+name: "Ethel M"
+status: avoid
+description: |-
+  Owned by **Mars Inc**.
+
+  **Mars** will support Israeli start-ups and the formation of companies, and will work together with leading Israeli academic institutions, such as the Hebrew University, the Weizmann Institute, the Technion, Migall and Tel Hai College, among others, to further Foodtech innovations.
+reasons:
+- TBD
+countries:
+- TBD
+categories:
+- TBD
+website: TBD
+logo_url: |-
+  https://assets.stickpng.com/images/60156f50a038420004234a82.png
+alternatives:
+- TBD
+alternatives_text: TBD
+stakeholders:
+- id: "Mars Inc"
+  type: owner
+  ownership_percent: TBD
