@@ -140,7 +140,7 @@ if __name__ == "__main__":
     args = sys.argv[1:]
 
     if len(args) != 1:
-        print('Usage: python3 import_into_data.py <path to JSON file to import>')
+        print('Usage: python3 import_new_schema.py <path to JSON file to import>')
         sys.exit(1)
 
     input_file = args[0]
