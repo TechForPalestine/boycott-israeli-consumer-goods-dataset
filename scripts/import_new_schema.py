@@ -24,7 +24,7 @@ TYPE = 'type'
 OWNERSHIP_PERCENT = 'ownership_percent'
 
 # path to the repo
-root_path = os.path.dirname(os.path.realpath(__file__))
+root_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 brands_path = os.path.join(root_path, 'data/brands/')
 companies_path = os.path.join(root_path, 'data/companies/')
 
