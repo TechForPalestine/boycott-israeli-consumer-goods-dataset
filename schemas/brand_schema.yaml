@@ -22,6 +22,7 @@ properties:
       enum:
         - operations_in_israel
         - operations_in_settlements
+        - other
   countries:
     description: |-
       A list of countries (ISO alpha-2 country codes) that the brand operates in. 
