@@ -6,18 +6,14 @@ description: "Owned by **Mondelez International, Inc.**\n\n**Mondelez Internatio
   \ said \u201Cbrings real, simple ingredients together to offer multi-textural, sensorial\
   \ experiences.\""
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://delikat-essen.at/wp-content/uploads/2019/11/Logo_Daim.jpg
 alternatives:
-- TBD
-alternatives_text: TBD
+- "\xDClker"
 stakeholders:
 - id: "Mondelez International, Inc"
   type: owner
-  ownership_percent: TBD

@@ -5,18 +5,13 @@ description: "**Maison Francis KurkDjian** is owned by **LVMH**.\n\nBernard Arna
   s richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**,\
   \ the **Israeli** maker of cloud security solutions for enterprises."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://bluebellgroup.com/wp-content/uploads/2018/01/Logo_MaisonFrancisKurkdjian_3lignes-FondTransparent-1024x409.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: LVMH
   type: owner
-  ownership_percent: TBD

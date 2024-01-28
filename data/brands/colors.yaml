@@ -5,17 +5,12 @@ description: |-
 
   **Paramount Global** stated, 'We stand with the people of Israel and the global Jewish community."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url:
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Paramount Global"
   type: owner
-  ownership_percent: TBD

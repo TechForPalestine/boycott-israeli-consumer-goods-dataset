@@ -5,18 +5,13 @@ description: |-
 
   **Marmite** and Ben & Jerry's are owned by **Unilever**. When Ben & Jerry's decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/75d6fcedd6a92ead68906c3f06cab14bc8a27470-280x280.png?w=600&h=600&fit=crop&auto=format
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: Unilever
   type: owner
-  ownership_percent: TBD

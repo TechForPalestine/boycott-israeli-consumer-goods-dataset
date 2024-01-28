@@ -9,18 +9,14 @@ description: "**Garnier** is owned by **L'Oreal.**\n\n**34.70%** of L\u2019Oreal
   \ center for snack foods next year in Sderot, a town in Israel's Negev desert, the\
   \ Maariv."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://1000logos.net/wp-content/uploads/2022/04/Garnier-Logo-2013.png
 alternatives:
-- TBD
-alternatives_text: TBD
+- Lush
 stakeholders:
 - id: L'Oreal
   type: owner
-  ownership_percent: TBD

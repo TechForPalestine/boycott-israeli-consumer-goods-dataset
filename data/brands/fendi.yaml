@@ -5,18 +5,13 @@ description: "Fendi is owned by **LVMH**.\n\nBernard Arnault, the chairman and *
   \ to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker\
   \ of cloud security solutions for enterprises."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://cdn.freebiesupply.com/images/large/2x/fendi-logo-png-transparent.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: LVMH
   type: owner
-  ownership_percent: TBD

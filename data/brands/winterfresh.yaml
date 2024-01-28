@@ -5,18 +5,13 @@ description: |-
 
   **Mars** will support Israeli start-ups and the formation of companies, and will work together with leading Israeli academic institutions, such as the Hebrew University, the Weizmann Institute, the Technion, Migall and Tel Hai College, among others, to further Foodtech innovations.
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://static.wikia.nocookie.net/logopedia/images/3/38/Winterfresh.svg/revision/latest/scale-to-width-down/300?cb=20221025103300
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Mars Inc"
   type: owner
-  ownership_percent: TBD

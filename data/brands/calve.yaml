@@ -5,18 +5,13 @@ description: "Owned by **Unilever**.\n\n**Calv\xE9** and Ben & Jerry's are owned
   \ **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent\
   \ their decision and to force Ben & Jerry's brand name to continue selling in Israel."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://logowik.com/content/uploads/images/898_calve.jpg
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: Unilever
   type: owner
-  ownership_percent: TBD

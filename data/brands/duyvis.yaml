@@ -5,18 +5,14 @@ description: |-
 
   **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://www.duyvis.nl/prod/s3fs-public/2022-03/s8.png
 alternatives:
-- TBD
-alternatives_text: TBD
+- "\xDClker"
 stakeholders:
 - id: PepsiCo
   type: owner
-  ownership_percent: TBD

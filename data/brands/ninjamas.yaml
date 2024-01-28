@@ -5,18 +5,13 @@ description: |-
 
   **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://images.ctfassets.net/kpjl376cy4l0/5sNmHDOrOQCuYxNfAppqdd/1e4e436c499b6f79deff750940d41115/Ninjamas-NA_EN_Logo_Ninjamas-Logo_resized.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Procter and Gamble"
   type: owner
-  ownership_percent: TBD

@@ -5,18 +5,13 @@ description: "**Officine Universelle Buly** is owned by **LVMH**.\n\nBernard Arn
   s richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**,\
   \ the **Israeli** maker of cloud security solutions for enterprises."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://www.buly1803.hk/themes/buly2018/img/logos/logo2020.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: LVMH
   type: owner
-  ownership_percent: TBD

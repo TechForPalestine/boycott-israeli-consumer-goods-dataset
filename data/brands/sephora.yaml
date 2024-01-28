@@ -5,18 +5,13 @@ description: "**Sephora** is owned by **LVMH**.\n\nBernard Arnault, the chairman
   \ man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the\
   \ **Israeli** maker of cloud security solutions for enterprises."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://1000logos.net/wp-content/uploads/2018/08/Sephora-Logo.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: LVMH
   type: owner
-  ownership_percent: TBD
