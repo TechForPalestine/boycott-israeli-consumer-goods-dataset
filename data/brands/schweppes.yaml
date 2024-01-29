@@ -1,12 +1,11 @@
 name: Schweppes
 status: avoid
-description: |+
+description: |-
   **Not applicable for these countries: Andorra, Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Hungary, Italy, Liechtenstein, Luxembourg, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Spain, Sweden, and Switzerland**.
 
   Owned by **The Coca-Cola Company**.
 
   **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
-
 reasons:
 - operations_in_settlements
 countries:

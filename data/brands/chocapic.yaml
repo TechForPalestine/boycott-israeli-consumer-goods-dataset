@@ -1,11 +1,9 @@
 name: Chocapic
 status: avoid
-description: "Owned by **Nestl\xE9**.\n\n**Nestl\xE9** is 100% owned by swiss. **Nestl\xE9\
-  ** began investing in Israel in 1995 by buying 10% of Israeli food maker Osem Investments,\
-  \ increasing its ownership to 50.1% two years later giving it the controlling share\
-  \ and now owns a 53.8 percent stake in Osem Swiss food giant **Nestl\xE9** will\
-  \ set up a global research and development centre for snack foods in Sderot, a town\
-  \ in Israel's Negev desert, the Maariv newspaper reported on Sunday. "
+description: |-
+  Owned by **Nestle**.
+
+  **Nestle** is 100% owned by swiss. **Nestle** began investing in Israel in 1995 by buying 10% of Israeli food maker Osem Investments, increasing its ownership to 50.1% two years later giving it the controlling share and now owns a 53.8 percent stake in Osem Swiss food giant **Nestle** will set up a global research and development centre for snack foods in Sderot, a town in Israel's Negev desert, the Maariv newspaper reported on Sunday.
 reasons:
 - operations_in_israel
 countries:
@@ -15,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/en/6/66/Chocapic_brand_logo.png
 alternatives: []
 stakeholders:
-- id: "Nestl\xE9"
+- id: Nestle
   type: owner

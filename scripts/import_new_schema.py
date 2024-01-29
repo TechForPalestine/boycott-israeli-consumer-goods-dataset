@@ -43,8 +43,14 @@ def parent_from_details(details):
             return match.group(1)
     return ""
 
+spaces_before_newline_regex = re.compile(r' +\n')
+
 # Custom representer for multiline strings
 def literal_presenter(dumper, data):
+    # Try and convert unicode characters that forces YAML to use the "" style instead of |.
+    # Also remove trailing whitespace for the same reason.
+    # Also remove whitespace before new lines for the same reason.
+    data = unidecode(spaces_before_newline_regex.sub('\n', data.strip()))
     if '\n' in data or len(data)>30:
         return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
     if ' ' in data:

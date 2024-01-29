@@ -1,10 +1,9 @@
 name: Kilian
 status: avoid
-description: "Kilian is owned by **Est\xE9e Lauder**.\n\n**Ronald Lauder**, who together\
-  \ with his brother Leonard Lauder inherited the Estee Lauder company, is the president\
-  \ of the **World Jewish Congress**, and chairman of the Jewish National Fund, and\
-  \ is a **zionist** with extremist views and financially and politically supports\
-  \ **Israeli** occupation of Palestinian land."
+description: |-
+  Kilian is owned by **Estee Lauder**.
+
+  **Ronald Lauder**, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the **World Jewish Congress**, and chairman of the Jewish National Fund, and is a **zionist** with extremist views and financially and politically supports **Israeli** occupation of Palestinian land.
 reasons:
 - operations_in_israel
 countries:
@@ -13,5 +12,5 @@ categories: []
 logo_url:
 alternatives: []
 stakeholders:
-- id: "Est\xE9e Lauder"
+- id: "Estee Lauder"
   type: owner

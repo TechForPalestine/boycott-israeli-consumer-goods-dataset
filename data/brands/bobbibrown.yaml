@@ -1,10 +1,9 @@
 name: "Bobbi Brown"
 status: avoid
-description: "Bobbi Brown is owned by **Est\xE9e Lauder**\n\n**Ronald Lauder**, who\
-  \ together with his brother Leonard Lauder inherited the Estee Lauder company, is\
-  \ the president of the **World Jewish Congress**, and chairman of the Jewish National\
-  \ Fund, and is a **zionist** with extremist views and financially and politically\
-  \ supports **Israeli** occupation of Palestinian land."
+description: |-
+  Bobbi Brown is owned by **Estee Lauder**
+
+  **Ronald Lauder**, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the **World Jewish Congress**, and chairman of the Jewish National Fund, and is a **zionist** with extremist views and financially and politically supports **Israeli** occupation of Palestinian land.
 reasons:
 - operations_in_israel
 countries:
@@ -14,5 +13,5 @@ logo_url: |-
   https://shop.brusselsairport.be/medias/Logo-Bobbi-Brown.png?context=bWFzdGVyfHJvb3R8MTEwMTd8aW1hZ2UvcG5nfGg4MC9oYjgvOTAzNDQyNDcxMzI0Ni9Mb2dvX0JvYmJpLUJyb3duLnBuZ3wxYzY0YWE0MzU4NTJkZWUxZTVlMjk1ZGZiMDY3NWI2MzdiYTI4OTY1ZjhhZmNkNDMyZWY4MWRiNDMwZGMzN2M5
 alternatives: []
 stakeholders:
-- id: "Est\xE9e Lauder"
+- id: "Estee Lauder"
   type: owner

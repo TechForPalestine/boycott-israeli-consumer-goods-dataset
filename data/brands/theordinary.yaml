@@ -1,10 +1,9 @@
 name: "The Ordinary"
 status: avoid
-description: "**The Ordinary** is owned by **Est\xE9e Lauder**.\n\n**Ronald Lauder**,\
-  \ who together with his brother Leonard Lauder inherited the Estee Lauder company,\
-  \ is the president of the **World Jewish Congress**, and chairman of the Jewish\
-  \ National Fund, and is a **zionist** with extremist views and financially and politically\
-  \ supports **Israeli** occupation of Palestinian land."
+description: |-
+  **The Ordinary** is owned by **Estee Lauder**.
+
+  **Ronald Lauder**, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the **World Jewish Congress**, and chairman of the Jewish National Fund, and is a **zionist** with extremist views and financially and politically supports **Israeli** occupation of Palestinian land.
 reasons:
 - operations_in_israel
 countries:
@@ -14,5 +13,5 @@ logo_url: |-
   https://logovectordl.com/wp-content/uploads/2020/12/the-ordinary-logo-vector.png
 alternatives: []
 stakeholders:
-- id: "Est\xE9e Lauder"
+- id: "Estee Lauder"
   type: owner

@@ -1,10 +1,9 @@
 name: "Club Social"
 status: avoid
-description: "Owned by **Mondelez International, Inc.**\n\n**Mondelez International\
-  \ Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early\
-  \ stage company based in Israel that has developed proprietary technology Mondelez\
-  \ said \u201Cbrings real, simple ingredients together to offer multi-textural, sensorial\
-  \ experiences.\""
+description: |-
+  Owned by **Mondelez International, Inc.**
+
+  **Mondelez International Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early stage company based in Israel that has developed proprietary technology Mondelez said "brings real, simple ingredients together to offer multi-textural, sensorial experiences."
 reasons:
 - operations_in_israel
 countries:
