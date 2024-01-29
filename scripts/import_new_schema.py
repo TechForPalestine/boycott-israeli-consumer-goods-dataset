@@ -3,7 +3,9 @@ import json
 import re
 import os
 from glob import glob
+from unidecode import unidecode
 import yaml
+import pdb 
 
 # brand/company fields
 NAME = "name"
@@ -58,15 +60,41 @@ def none_representer(dumper, _):
 yaml.add_representer(str, literal_presenter)
 yaml.add_representer(type(None), none_representer)
 
+def create_alternatives_data_models(data):
+    brands_yaml_data = {}
+    for row in data:
+        alternative = row.get('attributes').get('alternative').get('data')
+        if alternative:
+            brand_name = alternative.get('attributes').get('name')
+            image_url = alternative.get('attributes').get('imageUrl')
+
+            if not brand_name:
+                continue
+
+            # assume that if it has a parent it's a brand, otherwise it's a company
+            brands_yaml_data[brand_name] = {
+                NAME: brand_name,
+                STATUS: 'support',
+                COUNTRIES: [],
+                CATEGORIES: [],
+                LOGO_URL: image_url
+            }
+        
+    return brands_yaml_data
 
 def create_data_models(data):
     brands_yaml_data, companies_yaml_data = {}, {}
-
     for row in data:
         brand_name = row.get('attributes').get('name')
         proof = row.get('attributes').get('proof')
         parent_name = parent_from_details(proof)
         image_url = row.get('attributes').get('imageUrl')
+        reason = 'operations_in_settlements' if 'settlements' in proof.lower() else 'operations_in_israel' 
+
+        alternatives = []
+        alt_data = row.get('attributes').get('alternative').get('data')
+        if alt_data:
+            alternatives.append(alt_data.get('attributes').get('name'))
 
         if not brand_name:
             continue
@@ -77,18 +105,15 @@ def create_data_models(data):
                 NAME: brand_name,
                 STATUS: 'avoid',
                 DESCRIPTION: proof,
-                REASONS: ['TBD'],
-                COUNTRIES: ['TBD'],
-                CATEGORIES: ['TBD'],
-                WEBSITE: 'TBD',
+                REASONS: [reason],
+                COUNTRIES: ['global'],
+                CATEGORIES: [],
                 LOGO_URL: image_url,
-                ALTERNATIVES: ['TBD'],
-                ALTERNATIVES_TEXT: 'TBD',
+                ALTERNATIVES: alternatives,
                 STAKEHOLDERS: [
                     {
                         ID: parent_name,
                         TYPE: 'owner',
-                        OWNERSHIP_PERCENT: 'TBD'
                     }
                 ]
             }
@@ -113,13 +138,16 @@ def write_yaml_if_not_exists(file_path, data):
         return False
 
 def get_filename(name):
-    return "".join(x for x in name.lower() if x.isalnum()) + '.yaml'
+
+    return "".join(x for x in unidecode(name.lower()) if x.isalnum()) + '.yaml'
 
 def import_data(file_name):
     with open(file_name, encoding='utf-8') as fh:
         raw_data = json.load(fh)
 
-        brands, companies = create_data_models(raw_data)
+        boycott_brands, companies = create_data_models(raw_data)
+        alt_brands = create_alternatives_data_models(raw_data)
+        brands = boycott_brands | alt_brands
 
         files_written = 0
 

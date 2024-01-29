@@ -3,18 +3,13 @@ status: avoid
 description: "Owned by **Henkel**.\n\n**Henkel** invests in Israeli technology namely\
   \ by investing in Feelit. A company with its roots in Isra\xEBl."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://www.henkel.nl/resource/image/22598/1x1/1000/1000/a710b5a3f8f9d3e1aeedcf0fe7bf4433/2646E74A06742F88D5B6D2BF13FDEC25/teroson-logo.webp
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: Henkel
   type: owner
-  ownership_percent: TBD

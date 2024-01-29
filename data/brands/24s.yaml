@@ -5,18 +5,13 @@ description: "**24S** is owned by **LVMH**.\n\nBernard Arnault, the chairman and
   \ to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker\
   \ of cloud security solutions for enterprises."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/1115154/logo_mobile.png?1664809554
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: LVMH
   type: owner
-  ownership_percent: TBD

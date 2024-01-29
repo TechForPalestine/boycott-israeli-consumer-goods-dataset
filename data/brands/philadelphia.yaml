@@ -6,18 +6,13 @@ description: "Owned by **Mondelez International, Inc.**\n\n**Mondelez Internatio
   \ said \u201Cbrings real, simple ingredients together to offer multi-textural, sensorial\
   \ experiences.\""
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://www.bidfood.com.au/wp-content/uploads/New-Philadelphia_Logo-medium-e1632273723706.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Mondelez International, Inc"
   type: owner
-  ownership_percent: TBD

@@ -7,18 +7,13 @@ description: "Owned by **Nestl\xE9**.\n\n**Nestl\xE9** is 100% owned by swiss. *
   \ set up a global research and development centre for snack foods in Sderot, a town\
   \ in Israel's Negev desert, the Maariv newspaper reported on Sunday. "
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://assets.stickpng.com/images/601d81a5abab6a0004c7f020.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Nestl\xE9"
   type: owner
-  ownership_percent: TBD

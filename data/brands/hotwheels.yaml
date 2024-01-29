@@ -4,17 +4,12 @@ description: "Owned by **Mattel**.\n\n\"We unequivocally stand in solidarity wit
   \ Israel in the global fight against terrorism,\u201D says a joint letter that was\
   \ signed by 15 industry executives, including the CEO of **Mattel**."
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url:
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: Mattel
   type: owner
-  ownership_percent: TBD

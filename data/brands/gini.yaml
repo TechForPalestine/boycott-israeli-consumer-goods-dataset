@@ -12,18 +12,13 @@ description: "**Gini **is a French lemon soft drink created in 1971 by **Perrier
   \ foods in Sderot, a town in Israel's Negev desert, the Maariv newspaper reported\
   \ on Sunday. "
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://www.babylondrinks.be/wp-content/uploads/2021/01/Gini-24x33cl.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "Nestl\xE9"
   type: owner
-  ownership_percent: TBD

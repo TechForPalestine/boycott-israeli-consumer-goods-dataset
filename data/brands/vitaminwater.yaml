@@ -5,18 +5,13 @@ description: |-
 
   **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
 reasons:
-- TBD
+- operations_in_settlements
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_Glac%C3%A9au_vitaminwater.png
-alternatives:
-- TBD
-alternatives_text: TBD
+alternatives: []
 stakeholders:
 - id: "The Coca-Cola Company"
   type: owner
-  ownership_percent: TBD

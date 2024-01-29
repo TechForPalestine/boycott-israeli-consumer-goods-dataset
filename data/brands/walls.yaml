@@ -5,18 +5,14 @@ description: |-
 
   **Wall's** and Ben & Jerry's are owned by **Unilever**. When Ben & Jerry's decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.
 reasons:
-- TBD
+- operations_in_israel
 countries:
-- TBD
-categories:
-- TBD
-website: TBD
+- global
+categories: []
 logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/88537a9efbbd962b3ff2f063af7b7b6985c146bc-1080x1080.png?w=600&h=600&fit=crop&auto=format
 alternatives:
-- TBD
-alternatives_text: TBD
+- Eti
 stakeholders:
 - id: Unilever
   type: owner
-  ownership_percent: TBD
