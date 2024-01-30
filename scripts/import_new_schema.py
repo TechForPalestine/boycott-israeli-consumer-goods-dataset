@@ -89,7 +89,7 @@ def create_alternatives_data_models(data):
     return brands_yaml_data
 
 def name_to_id(name):
-    return "".join(x for x in unidecode(name.lower()) if x.isalnum())
+    return "".join(x for x in unidecode(name.lower().replace(' ', '-')) if x.isalnum() or x == '-')
 
 def create_data_models(data):
     brands_yaml_data, companies_yaml_data = {}, {}
