@@ -71,7 +71,7 @@ def create_alternatives_data_models(data):
     for row in data:
         alternative = row.get('attributes').get('alternative').get('data')
         if alternative:
-            brand_name = alternative.get('attributes').get('name')
+            brand_name = alternative.get('attributes').get('name').lower()
             image_url = alternative.get('attributes').get('imageUrl')
 
             if not brand_name:
@@ -88,19 +88,22 @@ def create_alternatives_data_models(data):
         
     return brands_yaml_data
 
+def name_to_id(name):
+    return "".join(x for x in unidecode(name.lower()) if x.isalnum())
+
 def create_data_models(data):
     brands_yaml_data, companies_yaml_data = {}, {}
     for row in data:
         brand_name = row.get('attributes').get('name')
         proof = row.get('attributes').get('proof')
-        parent_name = parent_from_details(proof)
+        parent_name = parent_from_details(proof).lower()
         image_url = row.get('attributes').get('imageUrl')
         reason = 'operations_in_settlements' if 'settlements' in proof.lower() else 'operations_in_israel' 
 
         alternatives = []
         alt_data = row.get('attributes').get('alternative').get('data')
         if alt_data:
-            alternatives.append(alt_data.get('attributes').get('name'))
+            alternatives.append(alt_data.get('attributes').get('name').lower())
 
         if not brand_name:
             continue
@@ -118,7 +121,7 @@ def create_data_models(data):
                 ALTERNATIVES: alternatives,
                 STAKEHOLDERS: [
                     {
-                        ID: parent_name,
+                        ID: name_to_id(parent_name),
                         TYPE: 'owner',
                     }
                 ]
