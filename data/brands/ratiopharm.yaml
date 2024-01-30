@@ -17,5 +17,5 @@ logo_url: |-
   https://media.licdn.com/dms/image/C4E0BAQHYEaHZSilvfg/company-logo_200_200/0/1674555567080/ratiopharm_logo?e=2147483647&v=beta&t=KAESg7vj02IJ_BteV3pVqlQZZ8Il7rvhxcyu4iOIMHc
 alternatives: []
 stakeholders:
-- id: Teva
+- id: teva
   type: owner

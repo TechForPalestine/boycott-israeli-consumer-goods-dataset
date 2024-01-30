@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wrigley%27s_5_Logo.jpg/180px-Wrigley%27s_5_Logo.jpg
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

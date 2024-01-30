@@ -13,5 +13,5 @@ logo_url: |-
   https://cdn.shopify.com/s/files/1/0250/9091/6405/files/knf_logo_large_for-hero.gif?v=1698351325
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

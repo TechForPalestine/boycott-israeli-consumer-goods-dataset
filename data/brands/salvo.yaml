@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Salvo_brand_detergent%2C_2020.jpg
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

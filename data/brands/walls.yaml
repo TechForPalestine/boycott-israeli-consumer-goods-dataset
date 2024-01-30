@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/88537a9efbbd962b3ff2f063af7b7b6985c146bc-1080x1080.png?w=600&h=600&fit=crop&auto=format
 alternatives:
-- Eti
+- eti
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

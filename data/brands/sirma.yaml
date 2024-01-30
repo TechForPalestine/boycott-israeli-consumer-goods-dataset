@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://logowik.com/content/uploads/images/718_sirma_logo.jpg
 alternatives:
-- Kizilay
+- kizilay
 stakeholders:
-- id: Danone
+- id: danone
   type: owner

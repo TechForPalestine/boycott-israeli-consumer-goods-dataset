@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/2560px-Coca-Cola_logo.svg.png
 alternatives:
-- Meysu
+- meysu
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

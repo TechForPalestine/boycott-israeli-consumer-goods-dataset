@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/en/c/c5/Bounty_logo.png
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

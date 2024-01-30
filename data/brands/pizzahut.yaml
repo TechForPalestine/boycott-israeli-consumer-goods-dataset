@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/1/17/Pizza_Hut_international_logo_2014.svg
 alternatives: []
 stakeholders:
-- id: "Yum! Brands"
+- id: yum-brands
   type: owner

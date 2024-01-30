@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Minute_Maid_Logo.svg/1280px-Minute_Maid_Logo.svg.png
 alternatives:
-- Meysu
+- meysu
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

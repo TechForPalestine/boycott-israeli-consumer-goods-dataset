@@ -13,5 +13,5 @@ logo_url: |-
   https://www.henkel.be/resource/image/26250/1x1/1000/1000/64c2c751c489f3424e650da983619623/5C9ABE2AFACD38B07FE93702B61F4870/pattex-logo.webp
 alternatives: []
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

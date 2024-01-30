@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.coca-cola.com/content/dam/onexp/be/nl/brands/fuze-tea/BE_fuzetea_logo_360x360_v1-01-svg.png
 alternatives:
-- Didi
+- didi
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

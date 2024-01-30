@@ -13,5 +13,5 @@ logo_url: |-
   https://www.henkel.be/resource/image/656276/1x1/1000/1000/91b5c67f851d9916797cc59fb24b9dc4/F9347DB8756FA957A4C6B5891569C238/fa-logo-be-png.webp
 alternatives: []
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

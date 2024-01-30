@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://static.wikia.nocookie.net/logopedia/images/d/d3/BelVita_breakfast_US_logo_2023.png/revision/latest/scale-to-width-down/300?cb=20230420132655
 alternatives:
-- Eti
+- eti
 stakeholders:
-- id: "Mondelez International, Inc"
+- id: mondelez-international-inc
   type: owner

@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022015/logo_chesters.png?itok=Kulzjg_b
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

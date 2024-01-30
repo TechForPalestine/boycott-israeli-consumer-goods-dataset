@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Bubly_logo_2018.png
 alternatives:
-- Kizilay
+- kizilay
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

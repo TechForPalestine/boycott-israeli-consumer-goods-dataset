@@ -13,5 +13,5 @@ logo_url: |-
   https://i.insider.com/5eac228d42278d707a3073d3
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Celebrations_logo_-_red.svg/1200px-Celebrations_logo_-_red.svg.png
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

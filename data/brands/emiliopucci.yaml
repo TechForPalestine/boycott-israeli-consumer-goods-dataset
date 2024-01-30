@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pucci_logo.svg/2560px-Pucci_logo.svg.png
 alternatives: []
 stakeholders:
-- id: LVMH
+- id: lvmh
   type: owner

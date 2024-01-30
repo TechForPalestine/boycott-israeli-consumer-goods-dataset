@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://lafabriqueb612.fr/wp-content/uploads/2017/04/logo_LU_02.png
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: "Mondelez International, Inc"
+- id: mondelez-international-inc
   type: owner

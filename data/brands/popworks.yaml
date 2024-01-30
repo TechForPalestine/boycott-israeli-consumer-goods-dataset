@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://pbs.twimg.com/profile_images/1374861075456344064/GSP4UG8V_400x400.jpg
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

@@ -13,5 +13,5 @@ logo_url: |-
   https://www.henkel.be/resource/image/22588/1x1/1000/1000/36a0a800ff0a8d70961a0e927eb58837/FC64D42630AB8CBFF380E101537EA8BB/loctite-logo.webp
 alternatives: []
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://static.wikia.nocookie.net/fritolay/images/4/4c/Maui_Style_Logo.png/revision/latest?cb=20150924153355&path-prefix=es
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

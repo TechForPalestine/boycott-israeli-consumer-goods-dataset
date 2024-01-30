@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://sport.powerbar.com/wp-content/uploads/powerbar-logo.png
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: Nestle
+- id: nestle
   type: owner

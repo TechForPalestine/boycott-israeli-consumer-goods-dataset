@@ -13,5 +13,5 @@ logo_url: |-
   https://shop.brusselsairport.be/medias/Logo-Bobbi-Brown.png?context=bWFzdGVyfHJvb3R8MTEwMTd8aW1hZ2UvcG5nfGg4MC9oYjgvOTAzNDQyNDcxMzI0Ni9Mb2dvX0JvYmJpLUJyb3duLnBuZ3wxYzY0YWE0MzU4NTJkZWUxZTVlMjk1ZGZiMDY3NWI2MzdiYTI4OTY1ZjhhZmNkNDMyZWY4MWRiNDMwZGMzN2M5
 alternatives: []
 stakeholders:
-- id: "Estee Lauder"
+- id: estee-lauder
   type: owner

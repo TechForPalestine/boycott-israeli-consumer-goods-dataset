@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/ATVPDKIKX0DER/97b94b04168436ab9a804d6070f99795.w3000.h3000.jpg
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

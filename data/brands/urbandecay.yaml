@@ -11,7 +11,7 @@ countries:
 categories: []
 logo_url:
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: L'Oreal
+- id: loreal
   type: owner

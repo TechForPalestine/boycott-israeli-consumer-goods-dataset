@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://assets.stickpng.com/images/60157d093900fa0004e9d8b1.png
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

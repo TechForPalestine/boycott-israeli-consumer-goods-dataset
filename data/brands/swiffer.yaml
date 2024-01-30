@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/en/e/ef/Swiffer_logo.svg
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

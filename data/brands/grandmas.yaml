@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://share.snacks.com/images/v2/webp/logos/grandmas-pdp.webp
 alternatives:
-- Torku
+- torku
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

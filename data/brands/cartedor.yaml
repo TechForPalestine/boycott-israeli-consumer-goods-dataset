@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/fr/5/58/CDO_logo.jpeg
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

@@ -13,5 +13,5 @@ logo_url: |-
   https://prd-cdn-emea1-joltx.pgsitecore.com/-/jssmedia/growing-families-version1/gf-tr/brand/logoeverydayme_tr.ashx?h=76&w=200&rev=-1&hash=85DA16A16C16EC660F75CBFE51DBB104
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://theangelicdigital.files.wordpress.com/2013/01/aussie-logo.png
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

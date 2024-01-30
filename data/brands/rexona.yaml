@@ -13,5 +13,5 @@ logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/d806c6c7edf6271cb15478eae7c34485f4f35d41-1080x1080.jpg?w=375&h=375&fit=crop&auto=format
 alternatives: []
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

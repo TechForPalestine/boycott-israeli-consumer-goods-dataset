@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.henkel.be/resource/image/214622/1x1/1000/1000/6aac5b37116440b0eb2c8b883ea367f4/AC066B0CBFDE347FB042913CD70B0F56/schwarzkopf-corporate.webp
 alternatives:
-- Duru
+- duru
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

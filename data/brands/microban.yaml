@@ -13,5 +13,5 @@ logo_url: |-
   https://images.ctfassets.net/su3f4fxan0r6/6dej9HKh8udBRNGOhPwDVA/9bd44b80ad6d4408466cc4b2efcf7463/Microban_US_EN_Microban24-Protection-That-Lives-On.png
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

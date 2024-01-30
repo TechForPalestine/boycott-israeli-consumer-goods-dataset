@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.nestle.com/sites/default/files/styles/thumbnail/public/asset-library/publishingimages/brands/chocolate-confectionery/milkybar-logo-round.png?itok=T2JexHQM
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: Nestle
+- id: nestle
   type: owner

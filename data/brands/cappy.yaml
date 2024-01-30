@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://hu.coca-colahellenic.com/content/dam/cch/hu/images/our-24-7-portfolio_new/Cappy%20logo%202020%20V2.png
 alternatives:
-- Meysu
+- meysu
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

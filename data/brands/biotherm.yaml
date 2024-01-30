@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://cdn.freebiesupply.com/logos/large/2x/biotherm-logo-png-transparent.png
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: L'Oreal
+- id: loreal
   type: owner

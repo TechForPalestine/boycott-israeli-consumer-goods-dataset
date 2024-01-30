@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/2f8428952599e230782f70a2ca0bfc3e5fa2b270-1080x1080.png?w=600&h=600&fit=crop&auto=format
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

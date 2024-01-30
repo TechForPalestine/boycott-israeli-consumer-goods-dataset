@@ -1,24 +1,18 @@
 name: SodaStream
 status: avoid
 description: |-
-  SodaStream has long been a BDS target due to their operation of factories on stolen land and their racial discrimination against Palestinian workers.[^1]
-  
-  [^1]: https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
 reasons:
 - operations_in_israel
 countries:
 - global
 categories: []
-website: https://sodastream.com/
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Soda_Stream_Logo.svg/2560px-Soda_Stream_Logo.svg.png
 alternatives:
-- Kizilay
-- Drinkmate
+- kizilay
 stakeholders:
-  - id: pepsico
-    type: owner
-    percent: 50
-  - id: strauss-group
-    type: owner
-    percent: 50
+- id: pepsico
+  type: owner

@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jack_Daniels_Logo.svg/1200px-Jack_Daniels_Logo.svg.png
 alternatives: []
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

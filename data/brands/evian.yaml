@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evian_logo.svg/2560px-Evian_logo.svg.png
 alternatives:
-- Spa
+- spa
 stakeholders:
-- id: Danone
+- id: danone
   type: owner

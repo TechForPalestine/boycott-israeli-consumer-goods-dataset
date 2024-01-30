@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ben_%26_Jerry%27s.svg/1024px-Ben_%26_Jerry%27s.svg.png
 alternatives:
-- Golf
+- golf
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

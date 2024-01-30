@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.duyvis.nl/prod/s3fs-public/2022-03/s8.png
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

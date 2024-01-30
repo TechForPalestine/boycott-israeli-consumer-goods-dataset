@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TAG_Heuer_Logo.svg/2366px-TAG_Heuer_Logo.svg.png
 alternatives: []
 stakeholders:
-- id: LVMH
+- id: lvmh
   type: owner

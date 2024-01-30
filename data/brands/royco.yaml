@@ -13,5 +13,5 @@ logo_url: |-
   https://cdn.cookielaw.org/logos/d1e11f1a-eba2-4782-b269-bc5eb85f98f4/f63bc57c-cb85-4487-98cd-38708ae6c1cc/3b66adab-86cc-44f9-aaa5-6f6f1cff6b55/royco.jpg
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

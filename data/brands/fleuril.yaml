@@ -13,5 +13,5 @@ logo_url: |-
   https://www.henkel.nl/resource/image/654722/1x1/1000/1000/7cff0cc8682d6301fc441957925469bc/7EC10E81BD8E769EE06E9F0AC73C877C/fleuril-logo-png.webp
 alternatives: []
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

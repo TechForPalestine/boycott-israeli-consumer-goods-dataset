@@ -13,5 +13,5 @@ logo_url: |-
   https://static.wikia.nocookie.net/logopedia/images/3/38/Winterfresh.svg/revision/latest/scale-to-width-down/300?cb=20221025103300
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

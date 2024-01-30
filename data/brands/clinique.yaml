@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.biz.uiowa.edu/aaf/wp-content/uploads/sites/24/2023/07/clinique-logo-png-transparent.png
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: "Estee Lauder"
+- id: estee-lauder
   type: owner

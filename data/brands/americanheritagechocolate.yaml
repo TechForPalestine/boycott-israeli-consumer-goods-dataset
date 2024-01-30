@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://american-heritage-chocolates.s3.amazonaws.com/assets/uploads/2018/10/29215446/FINAL-FULL-AHC-LOGO-1024x796.png
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

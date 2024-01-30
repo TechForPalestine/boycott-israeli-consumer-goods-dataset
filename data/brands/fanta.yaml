@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.waaslanddrinks.be/wp-content/uploads/2016/04/fanta-logo.png
 alternatives:
-- Meysu
+- meysu
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

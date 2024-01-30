@@ -13,5 +13,5 @@ logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berluti_logo_%282018%29.svg/2560px-Berluti_logo_%282018%29.svg.png
 alternatives: []
 stakeholders:
-- id: LVMH
+- id: lvmh
   type: owner

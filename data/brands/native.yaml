@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://static.wikia.nocookie.net/logopedia/images/0/00/Native_logo.jpg/revision/latest?cb=20201205150506
 alternatives:
-- Lush
+- lush
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

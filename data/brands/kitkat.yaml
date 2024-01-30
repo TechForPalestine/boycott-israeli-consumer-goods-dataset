@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.nestle.com/sites/default/files/styles/thumbnail/public/kitkat-logo-square-2023.png?itok=tQOCNFse
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: Nestle
+- id: nestle
   type: owner

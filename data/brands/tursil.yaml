@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.henkel.com.tr/resource/image/629994/1x1/1000/1000/c7b37e1ecee680e8e36e6edcc3c9a960/66296448F28CFBA34C3B0327063BE5CF/tursil-logo-png.webp
 alternatives:
-- Boron
+- boron
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

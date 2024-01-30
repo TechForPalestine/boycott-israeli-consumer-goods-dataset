@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCYxqxnftUBTYWuBpi6CUZ1w5X2stjNY3Dg&usqp=CAU
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

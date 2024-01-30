@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lay%27s_logo_2019.svg/1200px-Lay%27s_logo_2019.svg.png
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

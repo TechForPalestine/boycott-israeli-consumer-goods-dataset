@@ -13,5 +13,5 @@ logo_url: |-
   https://images.ctfassets.net/kpjl376cy4l0/5sNmHDOrOQCuYxNfAppqdd/1e4e436c499b6f79deff750940d41115/Ninjamas-NA_EN_Logo_Ninjamas-Logo_resized.png
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

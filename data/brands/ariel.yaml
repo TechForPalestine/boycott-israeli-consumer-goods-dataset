@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://seeklogo.com/images/A/Ariel-logo-B2F20EA234-seeklogo.com.png
 alternatives:
-- Bingo
+- bingo
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

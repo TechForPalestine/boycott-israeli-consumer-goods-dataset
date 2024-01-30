@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://dagligvarehandelen.no/sites/default/files/2014-09/1hava5sn2f690brb61117osjmjjldtch_0.jpg
 alternatives:
-- Torku
+- torku
 stakeholders:
-- id: "Mondelez International, Inc"
+- id: mondelez-international-inc
   type: owner

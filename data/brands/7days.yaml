@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.leclerc.rzeszow.pl/foto_shop/188/7-days_220713045433.jpg
 alternatives:
-- Eti
+- eti
 stakeholders:
-- id: "Mondelez International, Inc"
+- id: mondelez-international-inc
   type: owner

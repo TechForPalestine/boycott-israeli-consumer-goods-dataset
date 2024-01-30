@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://stock.wikimini.org/w/images/7/75/Logo_mikado.png
 alternatives:
-- Torku
+- torku
 stakeholders:
-- id: "Mondelez International, Inc"
+- id: mondelez-international-inc
   type: owner

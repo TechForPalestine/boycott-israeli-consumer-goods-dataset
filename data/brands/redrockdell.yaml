@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.redrockdeli.com.au/sites/brand-redrockdeli-com-au/themes/custom/pepsico_redrockdeli/redrockdelilogo.png
 alternatives:
-- Croky
+- croky
 stakeholders:
-- id: PepsiCo
+- id: pepsico
   type: owner

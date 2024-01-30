@@ -13,5 +13,5 @@ logo_url: |-
   https://images.ctfassets.net/wi6gwkhx363s/tWXfh4bYzghGQmH9ACHJ5/f26f0978f7ee5730b02161dcf1038007/Prilosec_Logo_V2.png
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

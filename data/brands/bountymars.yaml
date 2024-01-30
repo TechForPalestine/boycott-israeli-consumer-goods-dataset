@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Bounty-Logo.svg/2560px-Bounty-Logo.svg.png
 alternatives:
-- Tadelle
+- tadelle
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

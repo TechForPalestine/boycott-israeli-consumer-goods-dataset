@@ -13,5 +13,5 @@ logo_url: |-
   https://images.ctfassets.net/qdzb95n13bxg/5v9V5UMfpF1yJlQG5LffKh/b7b8a751a588da917abc07019497431d/Logo.png
 alternatives: []
 stakeholders:
-- id: "Procter and Gamble"
+- id: procter-and-gamble
   type: owner

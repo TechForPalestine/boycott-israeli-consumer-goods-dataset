@@ -13,5 +13,5 @@ logo_url: |-
   https://www.henkel.com/resource/image/32860/1x1/1000/1000/3e88a3895376b440d4a4d185d60e4115/3FC0231E36486B6AC6EB779974114FE9/dixan-logo.webp
 alternatives: []
 stakeholders:
-- id: Henkel
+- id: henkel
   type: owner

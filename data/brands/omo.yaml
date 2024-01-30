@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://cdn.sanity.io/images/92ui5egz/production/c7797bb23f41427d002b1aafaabc4d6df67dbf2f-1080x1080.jpg?w=375&h=375&fit=crop&auto=format
 alternatives:
-- Boron
+- boron
 stakeholders:
-- id: Unilever
+- id: unilever
   type: owner

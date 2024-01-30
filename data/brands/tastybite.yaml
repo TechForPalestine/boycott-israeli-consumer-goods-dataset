@@ -13,5 +13,5 @@ logo_url: |-
   https://static.wikia.nocookie.net/logopedia/images/3/3c/Tasty_Bite.png/revision/latest?cb=20200620190621
 alternatives: []
 stakeholders:
-- id: "Mars Inc"
+- id: mars-inc
   type: owner

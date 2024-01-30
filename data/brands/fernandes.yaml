@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://static-images.jumbo.com/product_images/251120211347_363622BLK-1_360x360_2.png
 alternatives:
-- Didi
+- didi
 stakeholders:
-- id: "The Coca-Cola Company"
+- id: the-coca-cola-company
   type: owner

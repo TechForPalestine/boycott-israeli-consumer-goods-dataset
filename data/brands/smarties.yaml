@@ -12,7 +12,7 @@ categories: []
 logo_url: |-
   https://www.nestle.com/sites/default/files/styles/thumbnail/public/smarties-logo-round-2022.png?itok=R1mC_Uc1
 alternatives:
-- Ulker
+- ulker
 stakeholders:
-- id: Nestle
+- id: nestle
   type: owner
