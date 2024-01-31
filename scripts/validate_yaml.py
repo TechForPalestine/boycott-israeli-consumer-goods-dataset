@@ -34,15 +34,15 @@ def main():
     brand_schema = load_yaml(os.path.join(root_path, "schemas/brand_schema.yaml"))
     brand_files = glob.glob(os.path.join(root_path, "data/brands/") + "*.yaml")
     print("Validating", len(brand_files), "brands")
+    failed = False
     for file in brand_files:
         if not validate_with_schema(file, brand_schema):
-            exit(1)
+            failed = True
     print("All brands are valid.")
 
     company_schema = load_yaml(os.path.join(root_path, "schemas/company_schema.yaml"))
     company_files = glob.glob(os.path.join(root_path, "data/companies/") + "*.yaml")
     print("Validating", len(company_files), "companies")
-    failed = False
     for file in company_files:
         if not validate_with_schema(file, company_schema):
             failed = True
