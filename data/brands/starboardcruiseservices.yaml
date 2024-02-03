@@ -1,0 +1,17 @@
+name: "Starboard Cruise Services"
+status: avoid
+description: |-
+  **Starboard Cruise Services** is owned by **LVMH**.
+
+  Bernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.bwconfidential.com/wp-content/uploads/2023/03/logo_starboard_final.png
+alternatives: []
+stakeholders:
+- id: lvmh
+  type: owner

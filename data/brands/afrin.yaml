@@ -1,0 +1,17 @@
+name: Afrin
+status: avoid
+description: |-
+  Owned by **Bayer**.
+
+  There is a partnership between **Bayer** and the Israeli Innovation Authority. The Israel Innovation Authority (IIA) is the support arm of the Israeli government, charged with fostering the development of industrial research and development in the State of Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://cdn.worldvectorlogo.com/logos/afrin.svg
+alternatives: []
+stakeholders:
+- id: bayer
+  type: owner

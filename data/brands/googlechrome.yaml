@@ -1,0 +1,19 @@
+name: "Google Chrome"
+status: avoid
+description: |-
+  **Google Chrome** is owned by **Google**
+
+  Amazon and Google are working together on **Project Nimbus**.
+  **Project Nimbus** is a $1.2bn contract to provide cloud services for the **Israeli military and government**. This technology allows for further surveillance of and **unlawful data collection** on Palestinians, and facilitates expansion of Israel's **illegal settlements** on Palestinian land.
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png
+alternatives:
+- firefox
+stakeholders:
+- id: google
+  type: owner

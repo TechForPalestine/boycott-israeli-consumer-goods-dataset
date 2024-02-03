@@ -1,0 +1,17 @@
+name: "Align Probiotic"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://images.ctfassets.net/iixu8n1snh6y/4HRKgnHW2rSWu6PrPz8Cnb/0a4e45413fe5c6e3291aa44bd3a86395/ALIGN_US_LOGO_noSpirals2.png
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

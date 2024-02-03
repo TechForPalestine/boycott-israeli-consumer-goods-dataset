@@ -1,0 +1,18 @@
+name: Gamesa
+status: avoid
+description: |-
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://seeklogo.com/images/G/gamesa__2008_-logo-38BF5A403B-seeklogo.com.png
+alternatives:
+- ulker
+stakeholders:
+- id: pepsico
+  type: owner

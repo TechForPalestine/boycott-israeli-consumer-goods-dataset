@@ -1,0 +1,17 @@
+name: "Witte Reus"
+status: avoid
+description: |-
+  Owned by **Henkel**.
+
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.henkel.nl/resource/image/655634/1x1/1000/1000/c0f89ca2ad37af0baa1c4c5c6302d5a8/FE99D799890B997AA617D94B0120C375/witte-reuss-logo-png.webp
+alternatives: []
+stakeholders:
+- id: henkel
+  type: owner

@@ -1,0 +1,17 @@
+name: Signal
+status: avoid
+description: |-
+  Owned by **Unilever**.
+
+  **Signal** and Ben & Jerry's are owned by **Unilever**. When Ben & Jerry's decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://logowik.com/content/uploads/images/signal-plus.jpg
+alternatives: []
+stakeholders:
+- id: unilever
+  type: owner

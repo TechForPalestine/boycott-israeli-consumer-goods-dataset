@@ -1,0 +1,17 @@
+name: Rindex
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/6/6e/Rindex_3en1.png/revision/latest?cb=20180527174839
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

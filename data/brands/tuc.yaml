@@ -1,0 +1,18 @@
+name: Tuc
+status: avoid
+description: |-
+  Owned by **Mondelez International, Inc.**
+
+  **Mondelez International Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early stage company based in Israel that has developed proprietary technology Mondelez said "brings real, simple ingredients together to offer multi-textural, sensorial experiences."
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/b/b0/LOGO_TUC.png/revision/latest?cb=20180620085625
+alternatives:
+- ulker
+stakeholders:
+- id: mondelez-international-inc
+  type: owner

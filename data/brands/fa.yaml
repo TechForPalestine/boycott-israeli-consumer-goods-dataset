@@ -1,0 +1,17 @@
+name: Fa
+status: avoid
+description: |-
+  Owned by **Henkel**.
+
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.henkel.be/resource/image/656276/1x1/1000/1000/91b5c67f851d9916797cc59fb24b9dc4/F9347DB8756FA957A4C6B5891569C238/fa-logo-be-png.webp
+alternatives: []
+stakeholders:
+- id: henkel
+  type: owner

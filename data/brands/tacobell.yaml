@@ -1,0 +1,17 @@
+name: "Taco Bell"
+status: avoid
+description: |-
+  Owned by **Yum! Brands**.
+
+  **Yum! Brands** is an investor in Israeli start ups.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://logowik.com/content/uploads/images/taco-bell5450.jpg
+alternatives: []
+stakeholders:
+- id: yum-brands
+  type: owner

@@ -1,0 +1,15 @@
+name: Ceresit
+status: avoid
+description: |-
+  Owned by **Henkel**.
+
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+alternatives: []
+stakeholders:
+- id: henkel
+  type: owner

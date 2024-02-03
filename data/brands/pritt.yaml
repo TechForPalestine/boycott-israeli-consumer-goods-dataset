@@ -1,0 +1,17 @@
+name: Pritt
+status: avoid
+description: |-
+  Owned by **Henkel**.
+
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.henkel.be/resource/image/26290/1x1/1000/1000/84da2a7f9cf3d1dd263adcaefc5db577/58BD597B54ADAF83B78BE6C777BADFE5/pritt-logo.webp
+alternatives: []
+stakeholders:
+- id: henkel
+  type: owner

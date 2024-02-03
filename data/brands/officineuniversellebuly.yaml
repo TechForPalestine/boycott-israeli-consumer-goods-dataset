@@ -1,0 +1,17 @@
+name: "Officine Universelle Buly"
+status: avoid
+description: |-
+  **Officine Universelle Buly** is owned by **LVMH**.
+
+  Bernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.buly1803.hk/themes/buly2018/img/logos/logo2020.png
+alternatives: []
+stakeholders:
+- id: lvmh
+  type: owner

@@ -1,0 +1,17 @@
+name: Safeguard
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2020/04/Safeguard-Logo.png
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

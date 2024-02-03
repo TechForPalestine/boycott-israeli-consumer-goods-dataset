@@ -1,0 +1,15 @@
+name: Bellator
+status: avoid
+description: |-
+  Owned by **Paramount Global**.
+
+  **Paramount Global** stated, 'We stand with the people of Israel and the global Jewish community."
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+alternatives: []
+stakeholders:
+- id: paramount-global
+  type: owner

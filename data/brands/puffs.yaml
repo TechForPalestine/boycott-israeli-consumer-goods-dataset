@@ -1,0 +1,17 @@
+name: Puffs
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/1/10/Puffs-2012.png/revision/latest/scale-to-width-down/250?cb=20201023124052
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

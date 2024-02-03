@@ -1,0 +1,18 @@
+name: "Hilo Life"
+status: avoid
+description: |-
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://images.nosh.com/logos/253616287.hilolife.logo-01..1..png
+alternatives:
+- croky
+stakeholders:
+- id: pepsico
+  type: owner
