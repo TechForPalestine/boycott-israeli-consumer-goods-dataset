@@ -1,0 +1,17 @@
+name: Comfort
+status: avoid
+description: |-
+  Owned by **Unilever**.
+
+  **Comfort** and Ben & Jerry's are owned by **Unilever**. When Ben & Jerry's decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://cdn.sanity.io/images/92ui5egz/production/6e33b168323d967b829798909621117f12607e99-1080x1080.jpg?w=375&h=375&fit=crop&auto=format
+alternatives: []
+stakeholders:
+- id: unilever
+  type: owner

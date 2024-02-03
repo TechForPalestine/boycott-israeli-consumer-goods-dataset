@@ -1,0 +1,17 @@
+name: Fresh
+status: avoid
+description: |-
+  **Fresh** is owned by **LVMH**.
+
+  Bernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.sephora.fr/on/demandware.static/-/Library-Sites-SephoraV2/default/dw6cdf784b/brands/Logos/FRESH_300_150_logo.jpg
+alternatives: []
+stakeholders:
+- id: lvmh
+  type: owner

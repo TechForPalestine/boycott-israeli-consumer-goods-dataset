@@ -1,0 +1,18 @@
+name: "Health Warrior"
+status: avoid
+description: |-
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.healthwarrior.com/cdn/shop/files/logo-healthwarrior.png?v=1634579847
+alternatives:
+- torku
+stakeholders:
+- id: pepsico
+  type: owner

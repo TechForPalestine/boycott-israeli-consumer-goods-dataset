@@ -1,0 +1,17 @@
+name: "La Roche Posay"
+status: avoid
+description: |-
+  Owned by **L'Oreal**.
+
+  34.70% of **L'Oreal** is owned by Mrs. Francoise Bettencourt Meyers and her family. 20.1% of **L'Oreal** is owned by **Nestle**. **Nestle** began investing in Israel in 1995 by buying 10% of Israeli food maker Osem Investments, increasing its ownership to 50.1% two years later giving it the controlling share and now owns a 53.8 percent stake in Osem Swiss food giant **Nestle** will set up a global research and development center for snack foods next year in Sderot, a town in Israel's Negev desert, the Maariv.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2020/09/La-Roche-Posay-Logo.png
+alternatives: []
+stakeholders:
+- id: loreal
+  type: owner

@@ -1,0 +1,17 @@
+name: Swoodoo
+status: avoid
+description: |-
+  Owned By **Kayak**, which is a sister company of **Booking.com**.
+
+  **Booking.com** allows listings in occupied Palestinian territory, and after announcing it will remove 200 of such listings, it reversed its decision, showing it is knowingly complicit in Israels occupation.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/f/f3/Swoodoo-logo.png
+alternatives: []
+stakeholders:
+- id: kayak
+  type: owner

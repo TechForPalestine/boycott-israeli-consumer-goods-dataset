@@ -1,0 +1,17 @@
+name: "Stella McCartney"
+status: avoid
+description: |-
+  **Stella McCartney** is owned by **LVMH**.
+
+  Bernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://cdn.cookielaw.org/logos/db3cf2f9-09f6-47ab-b58f-c5e38cd9dd46/6a6a57b4-fe7b-44c6-afe5-6fc7ba649017/f2ad86fb-014b-47ef-ae6d-e1121cb87910/STELLA-Logo_updated_SMC_GREEN.png
+alternatives: []
+stakeholders:
+- id: lvmh
+  type: owner

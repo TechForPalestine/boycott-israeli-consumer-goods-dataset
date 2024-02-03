@@ -1,0 +1,17 @@
+name: Actimel
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/d/dc/Actimel_Logo.png
+alternatives: []
+stakeholders:
+- id: danone
+  type: owner

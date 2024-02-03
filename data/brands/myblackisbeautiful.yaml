@@ -1,0 +1,17 @@
+name: "My Black Is Beautiful"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://mma.prnewswire.com/media/898010/MBIB_PLATFORM_GOLD_BLK.jpg?p=facebook
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

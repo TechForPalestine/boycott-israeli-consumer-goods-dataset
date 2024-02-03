@@ -1,0 +1,18 @@
+name: Bubly
+status: avoid
+description: |-
+  Owned by **PepsiCo**.
+
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/7/7b/Bubly_logo_2018.png
+alternatives:
+- kizilay
+stakeholders:
+- id: pepsico
+  type: owner

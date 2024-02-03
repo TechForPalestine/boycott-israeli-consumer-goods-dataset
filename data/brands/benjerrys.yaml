@@ -1,0 +1,18 @@
+name: "Ben & Jerry's"
+status: avoid
+description: |-
+  Owned by **Unilever**.
+
+  When **Ben & Jerry's** decided to stop selling its products in Israel, **Unilever** sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force **Ben & Jerry's** brand name to continue selling in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ben_%26_Jerry%27s.svg/1024px-Ben_%26_Jerry%27s.svg.png
+alternatives:
+- golf
+stakeholders:
+- id: unilever
+  type: owner

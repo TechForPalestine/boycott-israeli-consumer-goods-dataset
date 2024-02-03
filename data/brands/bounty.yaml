@@ -1,0 +1,17 @@
+name: Bounty
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/en/c/c5/Bounty_logo.png
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

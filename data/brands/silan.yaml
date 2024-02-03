@@ -1,0 +1,17 @@
+name: Silan
+status: avoid
+description: |-
+  Owned by **Henkel**.
+
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.henkel.be/resource/image/27920/1x1/1000/1000/dc8bf71e80d99921312b66f81675ba81/EAFF78A4316702A3E67FB47A944A5560/silan-logo.webp
+alternatives: []
+stakeholders:
+- id: henkel
+  type: owner

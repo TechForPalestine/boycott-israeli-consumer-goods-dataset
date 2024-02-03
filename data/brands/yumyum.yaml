@@ -1,0 +1,17 @@
+name: YumYum
+status: avoid
+description: |-
+  Owned by **Ajinomoto Group**.
+
+  **Ajinomoto Co.**, announced a partnership with Tel Aviv, Israel-based SuperMeat, a developer of poultry meat produced from animal cells.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.ajinomoto.com/cms_wp_ajnmt_global/wp-content/uploads/brands/png/img_brand_YumYum.png
+alternatives: []
+stakeholders:
+- id: ajinomoto-group
+  type: owner

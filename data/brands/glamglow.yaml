@@ -1,0 +1,17 @@
+name: Glamglow
+status: avoid
+description: |-
+  Glamglow is owned by **Estee Lauder**
+
+  **Ronald Lauder**, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the **World Jewish Congress**, and chairman of the Jewish National Fund, and is a **zionist** with extremist views and financially and politically supports **Israeli** occupation of Palestinian land.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://media.elcompanies.com/images/e/estee-lauder-companies/universal/our-brands/glamglow/brandintrologo-glamglow.png?h=257&iar=0&w=1486
+alternatives: []
+stakeholders:
+- id: estee-lauder
+  type: owner

@@ -1,0 +1,17 @@
+name: CocoaVia
+status: avoid
+description: |-
+  Owned by **Mars Inc**.
+
+  **Mars** will support Israeli start-ups and the formation of companies, and will work together with leading Israeli academic institutions, such as the Hebrew University, the Weizmann Institute, the Technion, Migall and Tel Hai College, among others, to further Foodtech innovations.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://straightforward.design/wp-content/uploads/2020/10/CocoaVia_logo_square-scaled.jpg
+alternatives: []
+stakeholders:
+- id: mars-inc
+  type: owner

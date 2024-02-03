@@ -1,0 +1,17 @@
+name: Alpro
+status: avoid
+description: |-
+  Owned by **Danone**.
+
+  **Danone** leads an investment of about NIS 12.5 million in Israel's Wilk, alongside Israeli milk firm Tara.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/6/6c/Alpro-2012.png/revision/latest?cb=20210807125043
+alternatives: []
+stakeholders:
+- id: danone
+  type: owner

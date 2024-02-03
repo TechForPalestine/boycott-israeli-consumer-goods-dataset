@@ -1,0 +1,17 @@
+name: Lemon-Dou
+status: avoid
+description: |-
+  Owned by **The Coca-Cola Company**.
+
+  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.cokebeverages.ph/img/cms/Brands/brand_lemon-dou.png
+alternatives: []
+stakeholders:
+- id: the-coca-cola-company
+  type: owner

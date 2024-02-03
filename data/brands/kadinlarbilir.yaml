@@ -1,0 +1,17 @@
+name: "Kadinlar Bilir"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://prd-cdn-emea1-joltx.pgsitecore.com/-/jssmedia/growing-families-version1/gf-tr/brand/logoeverydayme_tr.ashx?h=76&w=200&rev=-1&hash=85DA16A16C16EC660F75CBFE51DBB104
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

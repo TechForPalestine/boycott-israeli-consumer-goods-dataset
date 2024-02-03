@@ -1,0 +1,15 @@
+name: Fisher-Price
+status: avoid
+description: |-
+  Owned by **Mattel**.
+
+  "We unequivocally stand in solidarity with Israel in the global fight against terrorism," says a joint letter that was signed by 15 industry executives, including the CEO of **Mattel**.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+alternatives: []
+stakeholders:
+- id: mattel
+  type: owner

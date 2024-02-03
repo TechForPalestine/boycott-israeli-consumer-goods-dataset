@@ -1,0 +1,17 @@
+name: "This is L"
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/2/28/This_is_L._Inc._Company_Logo.jpg
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

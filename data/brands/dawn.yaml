@@ -1,0 +1,17 @@
+name: Dawn
+status: avoid
+description: |-
+  Owned by **Procter and Gamble**.
+
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://assets.stickpng.com/images/600c667189799d00044aee41.png
+alternatives: []
+stakeholders:
+- id: procter-and-gamble
+  type: owner

@@ -1,0 +1,17 @@
+name: "Emilio Pucci"
+status: avoid
+description: |-
+  **EMILIO PUCCI** is owned by **LVMH**.
+
+  Bernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pucci_logo.svg/2560px-Pucci_logo.svg.png
+alternatives: []
+stakeholders:
+- id: lvmh
+  type: owner

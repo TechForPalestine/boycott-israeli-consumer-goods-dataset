@@ -1,0 +1,15 @@
+name: Strepsils
+status: avoid
+description: |-
+  Owned by **Reckitt Benckiser**
+
+  **Reckitt Benckiser** signs a cooperation agreement with the Israel Innovation Authority.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+alternatives: []
+stakeholders:
+- id: reckitt-benckiser
+  type: owner

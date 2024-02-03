@@ -1,0 +1,17 @@
+name: "Tom Ford"
+status: avoid
+description: |-
+  Tom Ford is owned by **Estee Lauder**
+
+  **Ronald Lauder**, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the **World Jewish Congress**, and chairman of the Jewish National Fund, and is a **zionist** with extremist views and financially and politically supports **Israeli** occupation of Palestinian land.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories: []
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2021/06/Tom-Ford-logo.png
+alternatives: []
+stakeholders:
+- id: estee-lauder
+  type: owner

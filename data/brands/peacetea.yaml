@@ -1,0 +1,17 @@
+name: "Peace Tea"
+status: avoid
+description: |-
+  Owned by **The Coca-Cola Company**.
+
+  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories: []
+logo_url: |-
+  https://www.libertycoke.com/wp-content/uploads/2017/10/peace-tea.png
+alternatives: []
+stakeholders:
+- id: the-coca-cola-company
+  type: owner
