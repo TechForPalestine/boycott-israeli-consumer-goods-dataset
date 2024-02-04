@@ -1,0 +1,18 @@
+name: Komodor
+status: avoid
+description: |-
+  Komodor is an Israeli tech company[^1]
+
+  Don't buy Komodor products/services
+  Don't sell Komodor products/services
+  Don't work for Komodor
+  [^1]: https://buyisraelitech.com/database/komodor
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bf58f4b1-10eb-4214-b51c-a93647cfe646/komodor_4/w=450

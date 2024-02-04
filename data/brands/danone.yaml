@@ -1,0 +1,19 @@
+name: Danone
+status: avoid
+description: |-
+  Danone invests millions into the israeli food start up scene.[^1]
+
+  Don't buy Danone products.
+  Don't sell Danone products.
+  Don't work for danone.
+  [^1]: https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2020/03/Danone-Logo-2005.jpg
+alternatives_text: Supermarket own brand products

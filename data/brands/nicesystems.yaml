@@ -1,0 +1,18 @@
+name: Nice Systems
+status: avoid
+description: |-
+  Nice Systems is an Israeli tech company[^1]
+
+  Don't buy Nice Systems products/services
+  Don't sell Nice Systems products/services
+  Don't work for Nice Systems
+  [^1]: https://buyisraelitech.com/database/nice-systems
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2a6f5f19-6704-4d01-8ce2-0d21180bb879/Nice_Logo_2.svg/w=450

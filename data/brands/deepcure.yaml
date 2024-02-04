@@ -1,0 +1,18 @@
+name: DeepCure
+status: avoid
+description: |-
+  DeepCure is an Israeli tech company[^1]
+
+  Don't buy DeepCure products/services
+  Don't sell DeepCure products/services
+  Don't work for DeepCure
+  [^1]: https://buyisraelitech.com/database/deepcure
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9d35ab81-b87b-48c9-8d6f-4cf2d2d2294c/Screenshot_2023-10-30_at_13.46.14/w=450

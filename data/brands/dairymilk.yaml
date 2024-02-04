@@ -1,0 +1,21 @@
+name: Dairy Milk
+status: avoid
+description: |-
+  The owner of Dairy Milk, Mondelez, invests in Israeli start ups in Occupied Palestine.[^1]
+
+  Don't buy Dairy Milk products.
+  Don't sell Dairy Milk products
+  Don't work for Mondelez
+  [^1]: https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://images.ctfassets.net/zo243s55pyir/3clKilc2KlCbFteKgQ92FW/7f719d79e655fd319171cfebcbe08b40/CDM.png?fm=webp&q=80
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: mondelez
+  type: owner

@@ -1,0 +1,16 @@
+name: G4S
+status: avoid
+description: |-
+  G4S has now completely divested from israel after BDS pressure. But they have been complicit and helped the Israeli occupation for many years already.[^1]
+
+  Don't work for G4S
+  If you are in a decision making position, avoid contracting G4S.
+  [^1]: https://peoplesdispatch.org/2023/06/05/private-security-firm-g4s-to-divest-from-israel-after-years-long-campaign-by-bds-activists/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- contractor
+logo_url: |-
+  https://www.infologue.com/wp-content/uploads/2021/08/G4S-Logo.png

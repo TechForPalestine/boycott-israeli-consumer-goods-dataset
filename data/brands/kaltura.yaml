@@ -1,0 +1,18 @@
+name: Kaltura
+status: avoid
+description: |-
+  Kaltura is an Israeli tech company[^1]
+
+  Don't buy Kaltura products/services
+  Don't sell Kaltura products/services
+  Don't work for Kaltura
+  [^1]: https://buyisraelitech.com/database/kaltura
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b8eecf1c-dd6e-4647-ba25-cb29b24eff75/code_block_Zohar_Babin/w=450

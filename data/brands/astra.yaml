@@ -1,0 +1,21 @@
+name: Astra
+status: avoid
+description: |-
+  Astra is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  Don't buy Astra products
+  Don't sell Astra products
+  Don't work for Astra
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- healthcare
+logo_url: |-
+  https://cdn11.bigcommerce.com/s-3ajejz7ey6/images/stencil/600x600/products/627/1486/Astra_Superior_Stainless_Razor_Blades__02114.1646828321.jpg?c=2
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: gillette
+  type: owner

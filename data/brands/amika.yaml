@@ -1,0 +1,20 @@
+name: Amika
+status: avoid
+description: |-
+  Manufactured on occupied Palestinian land.[^1]
+
+  Don't buy Amika products
+  Don't sell Amika products
+  [^1]: https://heatmakessense.zendesk.com/hc/en-us/articles/4406612273563-Where-are-amika-products-made-
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+- healthcare
+logo_url: |-
+  https://www.loveamika.co.uk/c-images/fb-image.png
+alternatives_text: |-
+  Supermarket own brand products
+  Lush cosmetics

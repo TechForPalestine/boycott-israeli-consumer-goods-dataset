@@ -1,0 +1,18 @@
+name: Bold
+status: avoid
+description: |-
+  Bold is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  Don't buy Bold products
+  Don't sell Bold products
+  Don't work for Bold
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- household
+logo_url: |-
+  https://images.ctfassets.net/zyvr84rwvj68/6LLHcCt51Sc0m0s4SigqAE/dd76765a1e15c755772c625f9c171fe0/Bold-2in1.jpg
+alternatives_text: Supermarket own brand products

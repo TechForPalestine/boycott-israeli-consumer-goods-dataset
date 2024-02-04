@@ -1,0 +1,20 @@
+name: Airbnb
+status: avoid
+description: |-
+  Airbnb allows listings in occupied Palestinian territory, and after announcing it will remove 200 of such listings, it reversed its decision, showing it is knowingly complicit in Israels occupation.[^1]
+
+  Don't rent property on Airbnb.
+  Don't list property on Airbnb.
+  Delete the Airbnb app.
+  Don't work for Airbnb.
+  [^1]: https://www.amnesty.org/en/latest/press-release/2020/12/airbnb-listing-company-is-deeply-compromised-by-israeli-settlement-properties/
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- technology
+- travel
+logo_url: |-
+  https://s.yimg.com/uu/api/res/1.2/Bz8iDlw16Zf6PVc.y33xdg--~B/aD0zOTA7dz02MTA7YXBwaWQ9eXRhY2h5b24-/http://globalfinance.zenfs.com/Finance/US_AHTTP_ENTREPRENEUR_H_NEW_LIVE/1405612741-airbnb-why-new-logo_original.jpg
+alternatives_text: halalbooking.com

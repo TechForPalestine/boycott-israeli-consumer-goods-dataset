@@ -1,0 +1,24 @@
+name: Tresemme
+status: avoid
+description: |-
+  Tresemme is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.[^1]
+
+  Don't buy Tresemme products.
+  Don't sell Tresemme products
+  Don't work for Unilever
+  [^1]: https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- healthcare
+- cosmetics
+logo_url: |-
+  https://assets.stickpng.com/images/5a393116c488ac6062ac2ad2.png
+alternatives_text: |-
+  Supermarket own branded products
+  Lush cosmetics
+stakeholders:
+- id: unilever
+  type: owner

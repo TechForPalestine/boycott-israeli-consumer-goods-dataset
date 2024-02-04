@@ -1,0 +1,18 @@
+name: Monto
+status: avoid
+description: |-
+  Monto is an Israeli tech company[^1]
+
+  Don't buy Monto products/services
+  Don't sell Monto products/services
+  Don't work for Monto
+  [^1]: https://buyisraelitech.com/database/monto
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bd6581d6-6f08-42d3-8cdf-97872beb4bd1/Monto4/w=450

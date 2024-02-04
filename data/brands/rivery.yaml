@@ -1,0 +1,18 @@
+name: Rivery
+status: avoid
+description: |-
+  Rivery is an Israeli tech company[^1]
+
+  Don't buy Rivery products/services
+  Don't sell Rivery products/services
+  Don't work for Rivery
+  [^1]: https://buyisraelitech.com/database/rivery
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/12d77274-da46-4d5c-87ff-4c31842367a0/1613496076345/w=450

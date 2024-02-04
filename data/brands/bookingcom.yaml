@@ -1,0 +1,20 @@
+name: Booking.com
+status: avoid
+description: |-
+  Booking.com allows listings in occupied Palestinian territory, and after announcing it will remove 200 of such listings, it reversed its decision, showing it is knowingly complicit in Israels occupation.[^1]
+
+  Don't rent property on Booking.com.
+  Book directly with businesses. They usually offer discounts and similar terms for direct bookings.
+  Don't list property on Booking.com.
+  Don't work for Booking Holdings.
+  [^1]: https://www.aljazeera.com/news/2022/10/5/is-booking-com-reversal-palestine-corporate-hypocrisy
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- travel
+logo_url: |-
+  https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/0d/be/ee0dbe86-9a9d-d313-968e-b274af9c5ed8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/460x0w.webp
+alternatives_text: halalbooking.com

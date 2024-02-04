@@ -1,0 +1,18 @@
+name: Cybereason
+status: avoid
+description: |-
+  Cybereason is an Israeli tech company[^1]
+
+  Don't buy Cybereason products/services
+  Don't sell Cybereason products/services
+  Don't work for Cybereason
+  [^1]: https://buyisraelitech.com/database/cybereason
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/20131864-475a-4e66-8531-a82d6d8dbdf3/cybereason/w=450

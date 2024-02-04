@@ -1,0 +1,23 @@
+name: MAC Cosmetics
+status: avoid
+description: |-
+  MAC Cosmetics is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.[^1]
+
+  Don't buy products from the vast catalogue of Estee Lauder.
+  Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more.
+  Don't work for Estee Lauder brands.
+  [^1]: https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/logo-mac_prancheta_1.png?NPZfS4QSWg_6ySGSJKInsSXz2CFRKvhS&itok=2_JpKro7
+alternatives_text: |-
+  Lush cosmetics
+  Huda beauty
+stakeholders:
+- id: estee
+  type: owner

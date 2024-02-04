@@ -1,0 +1,18 @@
+name: DagsHub
+status: avoid
+description: |-
+  DagsHub is an Israeli tech company[^1]
+
+  Don't buy DagsHub products/services
+  Don't sell DagsHub products/services
+  Don't work for DagsHub
+  [^1]: https://buyisraelitech.com/database/dagshub
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8d06a5da-c070-4f7f-bf96-cd31ab42046a/dagshub_github/w=450

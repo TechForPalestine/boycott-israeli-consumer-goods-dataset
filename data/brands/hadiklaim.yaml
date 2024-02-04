@@ -1,0 +1,26 @@
+name: Hadiklaim
+status: avoid
+description: |-
+  Hadiklaim is an israeli brand which sells dates grown on stolen Palestinian land.[^1]
+
+  Don't buy dates from this brand.
+  Ask businesses to stop selling this brand
+  Only buy Medjoul dates from confirmed Palestinian owned businesses
+  Buy other variants of dates besides Medjoul if you can't confirm the origin
+  [^1]: https://www.ampalestine.org/dateboycott
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- dates
+logo_url: |-
+  https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/0beaf8640b1918f29ba3
+alternatives_text: |-
+  Yaffa
+  Ziyad
+  Various muslim charity date tins
+stakeholders:
+- id: an
+  type: owner

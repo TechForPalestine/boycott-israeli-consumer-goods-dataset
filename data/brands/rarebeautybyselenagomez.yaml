@@ -1,0 +1,21 @@
+name: Rare Beauty by Selena Gomez
+status: avoid
+description: |-
+  Scott Friedman who along with Selena Gomez is a co-founder of Rare Beauty, has been accused by the general public of supporting zionism. After initial backlash for her stance on the israeli genocide of Gaza and liking pro IDF posts, Selena Gomez posted on social media that Rare Beauty will donate to various causes including an israeli charity, Magen David Adom, to appease to her angry fans. We would advise to buy and support local brands.[^1]
+
+  Buy and support local cosmetics brands.
+  [^1]: https://www.newsweek.com/rare-beauty-sparks-boycott-calls-israel-hamas-war-1840545
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://s1.tryandreview.com/uploads/images/brands/fe33a974152b68a4d22073dd2ec79c176ab1cf0a.png
+alternatives_text: |-
+  Lush cosmetics
+  Huda beauty
+stakeholders:
+- id: scott
+  type: owner

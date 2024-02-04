@@ -1,0 +1,18 @@
+name: Seven Seas
+status: avoid
+description: |-
+  Seven Seas is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  Don't buy Seven Seas products
+  Don't sell Seven Seas products
+  Don't work for Seven Seas
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- healthcare
+logo_url: |-
+  https://static.wikia.nocookie.net/logopedia/images/2/24/Seven_Seas_%28vitamins%29_1.png
+alternatives_text: Supermarket own brand products

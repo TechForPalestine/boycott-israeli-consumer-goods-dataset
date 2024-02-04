@@ -1,0 +1,18 @@
+name: Zesty
+status: avoid
+description: |-
+  Zesty is an Israeli tech company[^1]
+
+  Don't buy Zesty products/services
+  Don't sell Zesty products/services
+  Don't work for Zesty
+  [^1]: https://buyisraelitech.com/database/zesty
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dd6d84de-86bf-494c-bbfb-2d1be99c59eb/download/w=450

@@ -1,0 +1,18 @@
+name: Indeitq
+status: avoid
+description: |-
+  Indeitq is an Israeli tech company[^1]
+
+  Don't buy Indeitq products/services
+  Don't sell Indeitq products/services
+  Don't work for Indeitq
+  [^1]: https://buyisraelitech.com/database/indeitq
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e77b92ff-69e0-480c-8204-434c36c7d68d/idenitq/w=450

@@ -1,0 +1,18 @@
+name: Dany
+status: avoid
+description: |-
+  Dany is an Israeli tech company[^1]
+
+  Don't buy Dany products/services
+  Don't sell Dany products/services
+  Don't work for Dany
+  [^1]: https://buyisraelitech.com/database/dany
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/93f1c15e-2f88-43a2-a2ee-be81befea2d4/Dany_Logo_600w/w=450

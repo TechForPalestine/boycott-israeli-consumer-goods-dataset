@@ -1,0 +1,18 @@
+name: Visa
+status: avoid
+description: |-
+  Visa has opened a research and development center in israel and invests heavily in the local economy.[^1]
+
+  Avoid using Visa card for online payments and chip and pin transactions. This does not include bank transfers or cash withdrawals.
+  Try to use cash where possible.
+  Use crypto payments where accepted
+  Don't work for Visa
+  [^1]: https://www.timesofisrael.com/credit-card-giant-visa-opens-israeli-rd-center/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+logo_url: |-
+  https://usa.visa.com/dam/VCOM/regional/ve/romania/blogs/hero-image/visa-logo-800x450.jpg

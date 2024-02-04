@@ -1,0 +1,18 @@
+name: FundGuard
+status: avoid
+description: |-
+  FundGuard is an Israeli tech company[^1]
+
+  Don't buy FundGuard products/services
+  Don't sell FundGuard products/services
+  Don't work for FundGuard
+  [^1]: https://buyisraelitech.com/database/fundguard
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- fintech
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/68d9df61-f97e-46da-b845-5bffd7e6eef2/FundGuard_LOGO_FINAL_blue/w=450

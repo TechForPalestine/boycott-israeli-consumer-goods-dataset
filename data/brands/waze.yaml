@@ -1,0 +1,20 @@
+name: Waze
+status: avoid
+description: |-
+  Founder, Uri Levine, is a staunch zionist who is also ex-IDF (also founded moovit). Waze was bought by Google who are also on the boycott list for building israels supercomputer with Amazon. Waze is owned by Google but their team and office is still based in israel. Waze is a revenue generator, because it serves ads on the map itself which means they make money when you use navigation. Google maps is free and not a revenue generator. It helps Google to target you with ads later, but if you do not click those ads, then you are not benefiting Google. So we recommend using Google maps, but not clicking on Google ads when you browse the internet..[^1]
+
+  Don't use Waze to navigate.
+  Don't work for Waze..
+  [^1]: https://twitter.com/UriLevine1
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- travel
+logo_url: |-
+  https://9to5google.com/2020/06/29/waze-logo-2020-brand-refresh/waze-logo-2020-1/
+alternatives_text: |-
+  Use Google maps which is also on the list, but they don't earn revenue from it like waze does through advertising
+  Amigo (unverified)

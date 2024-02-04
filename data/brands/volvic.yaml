@@ -1,0 +1,22 @@
+name: Volvic
+status: avoid
+description: |-
+  The owner of Volvic, Danone, invests millions into the israeli food start up scene.[^1]
+
+  Don't buy Volvic products.
+  Don't sell Volvic products.
+  Don't work for Volvic.
+  [^1]: https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://www.volvic.co.uk/fileadmin/user_upload/volvic_instagram.png
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: danone
+  type: owner

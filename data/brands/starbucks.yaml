@@ -1,0 +1,19 @@
+name: Starbucks
+status: avoid
+description: |-
+  Howard Shultz is the largest private owner of Starbucks shares and is a staunch zionist who invests heavily in Israels economy including a recent $1.7 Billion investment in cybersecurity startup Wiz.[^1]
+
+  Don't buy Starbucks.
+  Don't sell Starbucks On the Go.
+  Don't work for Starbucks.
+  [^1]: https://fortune.com/2021/04/07/wiz-howard-schultz-investment-fundraising-cybersecurity-startups-starbucks-ceo/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- coffee
+- drinks
+logo_url: |-
+  https://www.tailorbrands.com/wp-content/uploads/2020/11/starbucks-logo-2011.jpg
+alternatives_text: Caffe Nero

@@ -1,0 +1,19 @@
+name: Amazon
+status: avoid
+description: |-
+  Amazon is investing $7.2bn in data centers in israel via AWS[^1]
+
+  Don't spend money on amazon products including AWS
+  Do not work for Amazon
+  Do not buy Kindle books and other content from Amazon
+  Cancel your Amazon prime membership
+  [^1]: https://www.reuters.com/technology/amazon-invest-72-bln-israel-launches-aws-cloud-region-2023-08-01/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg
+alternatives_text: eBay (unverified)

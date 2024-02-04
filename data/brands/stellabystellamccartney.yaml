@@ -1,0 +1,27 @@
+name: STELLA by Stella McCartney
+status: avoid
+description: |-
+  The owner of STELLA by Stella McCartney's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies[^1]
+
+  Don't buy STELLA by Stella McCartney products
+  Don't sell STELLA by Stella McCartney products
+  Don't work for STELLA by Stella McCartney or LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://r.lvmh-static.com/uploads/2022/08/stella-logo.png
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: bernard
+  type: owner

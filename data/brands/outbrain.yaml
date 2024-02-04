@@ -1,0 +1,18 @@
+name: Outbrain
+status: avoid
+description: |-
+  Outbrain's CEO, Yaron Galai, is a staunch zionist who supports IDF action against innocent Palestinians.[^1]
+
+  Don't click on ads on sites that operate Outbrain (or Taboola).
+  Don't serve ads by Outbrain (or Taboola).
+  Don't advertise through Outbrain (or Taboola).
+  [^1]: https://twitter.com/yarongalai
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://opinionstage-res.cloudinary.com/images/f_auto,q_auto/v1641219211/Case-studies-outbrain-/Case-studies-outbrain-.jpg
+alternatives_text: MuslimAdNetwork.com

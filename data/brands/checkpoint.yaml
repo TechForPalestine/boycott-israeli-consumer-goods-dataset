@@ -1,0 +1,18 @@
+name: CheckPoint
+status: avoid
+description: |-
+  CheckPoint is an Israeli tech company[^1]
+
+  Don't buy CheckPoint products/services
+  Don't sell CheckPoint products/services
+  Don't work for CheckPoint
+  [^1]: https://buyisraelitech.com/database/checkpoint
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3d2986f4-38b2-40af-b5d2-e44cc92a14b8/chkp/w=450

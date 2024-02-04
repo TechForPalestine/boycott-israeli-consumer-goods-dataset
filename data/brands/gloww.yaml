@@ -1,0 +1,18 @@
+name: Gloww
+status: avoid
+description: |-
+  Gloww is an Israeli tech company[^1]
+
+  Don't buy Gloww products/services
+  Don't sell Gloww products/services
+  Don't work for Gloww
+  [^1]: https://buyisraelitech.com/database/gloww
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- hr
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3bdbc2ff-a349-4f15-9799-a07aacec1e93/Logo_dark/w=450

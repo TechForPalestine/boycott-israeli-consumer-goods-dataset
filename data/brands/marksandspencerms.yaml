@@ -1,0 +1,23 @@
+name: Marks and Spencer / M&S
+status: avoid
+description: |-
+  Marks & Spencer has been a pro zionist entity since its inception, with various members of its management openly declaring support for the zionist state. For over 100 years, they have been the biggest commercial conduit between Israel and the UK. More recently however, they have publicly distanced themselves from having 'political' ties and aims. And since the last statements in support of Israel were around the year 2000, it is difficult to tell how much their leadership supports Israel.[^1]
+
+  Don't shop at M&S.
+  Don't work for M&S.
+  [^1]: https://www.ihrc.org.uk/briefing-a-brief-chronology-of-the-marks-spencer-israel-relationship/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- supermarket
+- food
+- drinks
+- clothing
+- finance
+logo_url: |-
+  https://corporate.marksandspencer.com/sites/marksandspencer/files/styles/desktop/public/marksandspencer/logos/m-s-logo.png
+alternatives_text: |-
+  Morrisons
+  Co-op

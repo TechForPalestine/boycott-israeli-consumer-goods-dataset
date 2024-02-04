@@ -1,0 +1,18 @@
+name: Amdocs
+status: avoid
+description: |-
+  Amdocs is an Israeli tech company[^1]
+
+  Don't buy Amdocs products/services
+  Don't sell Amdocs products/services
+  Don't work for Amdocs
+  [^1]: https://buyisraelitech.com/database/amdocs
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/23b0aaec-90b3-4c23-a40b-3b10eb81ebca/amdocs/w=450

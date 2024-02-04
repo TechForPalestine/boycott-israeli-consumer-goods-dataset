@@ -1,0 +1,18 @@
+name: Aqua Security
+status: avoid
+description: |-
+  Aqua Security is an Israeli tech company[^1]
+
+  Don't buy Aqua Security products/services
+  Don't sell Aqua Security products/services
+  Don't work for Aqua Security
+  [^1]: https://buyisraelitech.com/database/aqua-security
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://www.aquasec.com/wp-content/uploads/2022/06/Aqua-Logo-Color-RGB-2022-300x300-1.jpg

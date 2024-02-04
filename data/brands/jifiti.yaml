@@ -1,0 +1,18 @@
+name: Jifiti
+status: avoid
+description: |-
+  Jifiti is an Israeli tech company[^1]
+
+  Don't buy Jifiti products/services
+  Don't sell Jifiti products/services
+  Don't work for Jifiti
+  [^1]: https://buyisraelitech.com/database/jifiti
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1306569d-4a60-4718-9852-af77972ef584/Jifiti_Logo_Blue/w=450

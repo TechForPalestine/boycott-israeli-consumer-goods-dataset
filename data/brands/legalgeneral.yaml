@@ -1,0 +1,19 @@
+name: Legal & General
+status: avoid
+description: |-
+  Legal & General invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians[^1]
+
+  Don't invest with Legal & General.
+  Don't keep your pension with Legal & General.
+  Don't use Legal & General insurance products.
+  Don't work for Legal & General.
+  [^1]: https://www.ethicalconsumer.org/money-finance/israel-deadly-investments
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+- insurance
+logo_url: |-
+  https://www.ssauk.com/static/1a44dd2e-2998-4ac6-b3e6862e16399b85/supplierdirectorydetaillogo_c3bb2391eae9a41b60845257246fad14/Legal-General.png

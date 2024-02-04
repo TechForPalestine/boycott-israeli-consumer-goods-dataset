@@ -1,0 +1,18 @@
+name: Cloudinary
+status: avoid
+description: |-
+  Cloudinary is an Israeli tech company[^1]
+
+  Don't buy Cloudinary products/services
+  Don't sell Cloudinary products/services
+  Don't work for Cloudinary
+  [^1]: https://buyisraelitech.com/database/cloudinary
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b9791a4c-fb30-4502-9181-aadc6ec6ca25/Screenshot_2023-10-30_at_13.50.49/w=450

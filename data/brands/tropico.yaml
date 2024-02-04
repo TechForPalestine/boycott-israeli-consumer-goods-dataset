@@ -1,0 +1,22 @@
+name: Tropico
+status: avoid
+description: |-
+  Coca-Cola Company which owns Tropico, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Tropico.
+  Don't sell Tropico
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://www.slogan.pub/img/brands/1/1_Tropico.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+stakeholders:
+- id: the
+  type: owner

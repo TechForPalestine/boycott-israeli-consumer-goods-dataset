@@ -1,0 +1,18 @@
+name: Gelt
+status: avoid
+description: |-
+  Gelt is an Israeli tech company[^1]
+
+  Don't buy Gelt products/services
+  Don't sell Gelt products/services
+  Don't work for Gelt
+  [^1]: https://buyisraelitech.com/database/gelt
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3b09c449-45b2-4a3c-89a7-318559b67730/Screenshot_2023-10-30_at_10.00.42/w=450

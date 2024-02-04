@@ -1,0 +1,18 @@
+name: Yotpo
+status: avoid
+description: |-
+  Yotpo is an Israeli tech company[^1]
+
+  Don't buy Yotpo products/services
+  Don't sell Yotpo products/services
+  Don't work for Yotpo
+  [^1]: https://buyisraelitech.com/database/yotpo
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/aa01775f-72d3-43e4-a404-74a1fdbf7600/Yotpo-logo.svg/w=450

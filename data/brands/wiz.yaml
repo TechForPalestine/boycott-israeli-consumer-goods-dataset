@@ -1,0 +1,18 @@
+name: Wiz
+status: avoid
+description: |-
+  Wiz is an Israeli tech company[^1]
+
+  Don't buy Wiz products/services
+  Don't sell Wiz products/services
+  Don't work for Wiz
+  [^1]: https://buyisraelitech.com/database/wiz
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b1fbb32c-c0cb-4893-b811-3cce6f52d6db/social_share_image.537ea7b6/w=450

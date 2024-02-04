@@ -1,0 +1,23 @@
+name: Rockstar Energy
+status: avoid
+description: |-
+  The owner of Rockstar Energy, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]
+
+  Don't buy Rockstar Energy products.
+  Don't sell Rockstar Energy products
+  Don't work for the PepsiCo Company
+  [^1]: https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2387/brand.gif
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: pepsico
+  type: owner

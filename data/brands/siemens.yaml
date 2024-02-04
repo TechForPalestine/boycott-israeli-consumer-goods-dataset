@@ -1,0 +1,16 @@
+name: Siemens
+status: avoid
+description: |-
+  Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.[^1]
+
+  Don't buy Siemens products.
+  Don't work for Siemens.
+  [^1]: https://www.ft.com/content/3e256794-b9a2-11de-a747-00144feab49a/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://logowik.com/content/uploads/images/316_siemens.jpg

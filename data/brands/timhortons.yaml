@@ -1,0 +1,18 @@
+name: Tim Hortons
+status: avoid
+description: |-
+  Tim Hortons is the sister company of Burger King, which supports IDF by providing free food and drinks to Israeli militants. See their instagram post (click translate) for reference.[^1]
+
+  Don't buy food or coffee at Tim Hortons.
+  Don't work for Tim Hortons.
+  [^1]: https://www.instagram.com/p/CyORRWHIqeH/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://fiu-original.b-cdn.net/fontsinuse.com/use-images/168/168197/168197.png?filename=Tim_Hortons_Maple_Leaf.png
+alternatives_text: Caffe Nero

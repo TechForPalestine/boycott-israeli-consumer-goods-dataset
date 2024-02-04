@@ -1,0 +1,26 @@
+name: Shams
+status: avoid
+description: |-
+  Shams is an israeli brand which sells dates grown on stolen Palestinian land.[^1]
+
+  Don't buy dates from this brand.
+  Ask businesses to stop selling this brand
+  Only buy Medjoul dates from confirmed Palestinian owned businesses
+  Buy other variants of dates besides Medjoul if you can't confirm the origin
+  [^1]: https://www.ampalestine.org/dateboycott
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- dates
+logo_url: |-
+  https://d36musakzcdau7.cloudfront.net/ourdesistore/Product/393795f0-8fc4-11ec-b3e8-2177376a7905/resize/SHAMS-DATES-2LB-SHAMS.jpg-1645452365.jpg.webp
+alternatives_text: |-
+  Yaffa
+  Ziyad
+  Various muslim charity date tins
+stakeholders:
+- id: an
+  type: owner

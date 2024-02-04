@@ -1,0 +1,20 @@
+name: Nestle
+status: avoid
+description: |-
+  Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.[^1]
+
+  Avoid Nestle products until they divest all operations in Occupied Palestine.
+  Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source.
+  [^1]: https://en.wikipedia.org/wiki/Osem_(company)
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://pbs.twimg.com/profile_images/1232679317634678785/68qsL0TI_400x400.jpg
+alternatives_text: |-
+  Supermarket own brand options.
+  For water, look for Saka or non-Nestle/Coca-Cola/Pepsico brands

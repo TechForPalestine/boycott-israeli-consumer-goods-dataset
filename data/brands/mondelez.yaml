@@ -1,0 +1,20 @@
+name: Mondelez
+status: avoid
+description: |-
+  Mondelez invests in Israeli start ups in Occupied Palestine.[^1]
+
+  Don't buy Mondelez products.
+  Don't sell Mondelez products
+  Don't work for Mondelez
+  [^1]: https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://s3-symbol-logo.tradingview.com/mondelez--600.png
+alternatives_text: |-
+  Supermarket own brand products. Eg. Morrisons

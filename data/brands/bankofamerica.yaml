@@ -1,0 +1,17 @@
+name: Bank of America
+status: avoid
+description: |-
+  Bank of America was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.[^1]
+
+  Don't bank with Bank of America
+  Don't work for Bank of America
+  Don't invest with Bank of America
+  [^1]: https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+logo_url: |-
+  https://icons.veryicon.com/png/o/business/bank-logo-collection/bank-of-america-logo.png

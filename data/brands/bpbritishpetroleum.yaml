@@ -1,0 +1,18 @@
+name: BP (British Petroleum)
+status: avoid
+description: |-
+  BP was recently awarded exploration rights off the coast of israel, which would include water which should be Palestinian controlled.[^1]
+
+  Don't use fuel from BP
+  Don't work for BP
+  Don't shop at BP forecourts
+  [^1]: https://www.reuters.com/business/energy/israel-awards-gas-exploration-licences-eni-bp-four-others-2023-10-29/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- energy
+logo_url: |-
+  https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png
+alternatives_text: Shell (divested from israel)

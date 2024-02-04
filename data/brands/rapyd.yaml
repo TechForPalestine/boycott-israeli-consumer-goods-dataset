@@ -1,0 +1,17 @@
+name: Rapyd
+status: avoid
+description: |-
+  Rapyd is an israeli company which operates on stolen Palestinian land and its zionist owner supports the occupation.[^1]
+
+  Don't use Rapyd.
+  Don't work for Rapyd.
+  [^1]: https://www.linkedin.com/posts/arik-shtilman-b0265_we-will-win-rapyd-supports-israel-activity-7117232062058627073-nBLf/?utm_source=share&utm_medium=member_desktop
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://asset.brandfetch.io/idof9qvLRk/idxKqLpmSt.jpeg
+alternatives_text: Stripe (unconfirmed)

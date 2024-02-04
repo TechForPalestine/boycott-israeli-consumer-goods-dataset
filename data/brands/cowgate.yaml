@@ -1,0 +1,22 @@
+name: Cow & Gate
+status: avoid
+description: |-
+  The owner of Cow & Gate, Danone, invests millions into the israeli food start up scene.[^1]
+
+  Don't buy Cow & Gate products.
+  Don't sell Cow & Gate products.
+  Don't work for Cow & Gate.
+  [^1]: https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://robclarke.com/wp-content/uploads/2018/10/cow_4.jpg
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: danone
+  type: owner

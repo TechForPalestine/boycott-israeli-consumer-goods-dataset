@@ -1,0 +1,18 @@
+name: Descope
+status: avoid
+description: |-
+  Descope is an Israeli tech company[^1]
+
+  Don't buy Descope products/services
+  Don't sell Descope products/services
+  Don't work for Descope
+  [^1]: https://buyisraelitech.com/database/descope
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5c252922-d9c5-41cc-8d08-1426a7153f6b/Screenshot_2023-10-31_at_8.54.31/w=450

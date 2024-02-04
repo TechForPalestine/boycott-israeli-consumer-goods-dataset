@@ -1,0 +1,19 @@
+name: Lipton Iced Tea
+status: avoid
+description: |-
+  Lipton Iced Tea is owned by Unilever and Pepsico. Unilever forced Ben & Jerry's to sell its products in Israel. Pepsico is an owner of Sabra foods and Sodastream. Both are targets of the boycott.[^1]
+
+  Don't buy Lipton Iced Tea products.
+  Don't sell Lipton Iced Tea products
+  Don't work for Unilever
+  Don't work for Pepsico
+  [^1]: https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/en/f/fc/LIPTON_PRIMARY_RGB_BMT.png
+alternatives_text: Supermarket own brand products

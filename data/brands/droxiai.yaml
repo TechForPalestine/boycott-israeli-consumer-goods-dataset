@@ -1,0 +1,18 @@
+name: Droxi.ai
+status: avoid
+description: |-
+  Droxi.ai is an Israeli tech company[^1]
+
+  Don't buy Droxi.ai products/services
+  Don't sell Droxi.ai products/services
+  Don't work for Droxi.ai
+  [^1]: https://buyisraelitech.com/database/droxiai
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/490f2bfd-767e-44ce-910f-1642fd64c1fb/droxi/w=450

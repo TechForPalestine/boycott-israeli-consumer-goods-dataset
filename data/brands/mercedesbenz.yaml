@@ -1,0 +1,16 @@
+name: Mercedes Benz
+status: avoid
+description: |-
+  Mercedes Benz opened a tech hub in Tel Aviv to develop connected cars technology, when it could have opened such a hub in any city in the world.[^1]
+
+  Don't buy cars from Mercedes Benz
+  Don't work for Mercedes Benz
+  [^1]: https://www.timesofisrael.com/mercedes-benz-opens-tech-hub-in-tel-aviv-to-secure-lead-in-connected-cars/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- car
+logo_url: |-
+  https://www.graduatesfirst.com/wp-content/uploads/2023/07/mercedes-benz-logo-7500641.png

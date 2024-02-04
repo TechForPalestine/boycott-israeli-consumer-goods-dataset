@@ -1,0 +1,17 @@
+name: Payoneer
+status: avoid
+description: |-
+  Payoneer is an israeli company which operates on stolen Palestinian land.[^1]
+
+  Don't use Payoneer.
+  Don't work for Payoneer.
+  [^1]: https://en.globes.co.il/en/article-payoneer-raises-180m-1001155495
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://static.vecteezy.com/system/resources/previews/027/127/484/original/payoneer-logo-payoneer-icon-transparent-free-png.png
+alternatives_text: Stripe (unconfirmed)

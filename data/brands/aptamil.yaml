@@ -1,0 +1,22 @@
+name: Aptamil
+status: avoid
+description: |-
+  The owner of Aptamil, Danone, invests millions into the israeli food start up scene.[^1]
+
+  Don't buy Aptamil products.
+  Don't sell Aptamil products.
+  Don't work for Aptamil.
+  [^1]: https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://m.media-amazon.com/images/S/gladiator-image-upload-prod/1/A1F83G8C2ARO7P/3bab32d28f3163d50886787666d98b3b.png
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: danone
+  type: owner

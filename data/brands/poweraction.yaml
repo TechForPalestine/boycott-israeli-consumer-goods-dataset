@@ -1,0 +1,19 @@
+name: Power Action
+status: avoid
+description: |-
+  Power Action wipes and other products are made in Occupied Palestine.[^1]
+
+  Don't buy Power Action products.
+  Don't sell Power Action products.
+  Pressure Home Bargains to stop stocking Power Action products.
+  [^1]: https://home.bargains/brand/poweraction/power-action
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- household
+logo_url: |-
+  https://media.home.bargains/brand-images/3/6/9/0/36907459caf36331f385a4772a62ee468006af37.png?x=200
+alternatives_text: |-
+  Supermarket own brand alternatives, eg. Morrisons

@@ -1,0 +1,18 @@
+name: CyberArk
+status: avoid
+description: |-
+  CyberArk is an Israeli tech company[^1]
+
+  Don't buy CyberArk products/services
+  Don't sell CyberArk products/services
+  Don't work for CyberArk
+  [^1]: https://buyisraelitech.com/database/cyberark
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/79c2c01b-ffba-4d2a-ba1f-99e8f08b12d1/cyberark/w=450

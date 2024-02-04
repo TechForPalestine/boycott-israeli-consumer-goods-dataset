@@ -1,0 +1,18 @@
+name: Axonius
+status: avoid
+description: |-
+  Axonius is an Israeli tech company[^1]
+
+  Don't buy Axonius products/services
+  Don't sell Axonius products/services
+  Don't work for Axonius
+  [^1]: https://buyisraelitech.com/database/ax
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7f7a827b-495e-4506-aef8-aad3d2d5659e/axonius_it-risk-management-solutions_1621351412990/w=450

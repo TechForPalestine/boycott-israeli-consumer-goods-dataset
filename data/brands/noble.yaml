@@ -1,0 +1,18 @@
+name: Noble
+status: avoid
+description: |-
+  Noble is an Israeli tech company[^1]
+
+  Don't buy Noble products/services
+  Don't sell Noble products/services
+  Don't work for Noble
+  [^1]: https://buyisraelitech.com/database/noble
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/781e8bc9-99ac-4306-9696-cc4c5bad7388/noble_logo_png/w=450

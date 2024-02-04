@@ -1,0 +1,23 @@
+name: Arwa
+status: avoid
+description: |-
+  Coca-Cola Company which owns Arwa, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Arwa.
+  Don't sell Arwa
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://static1.squarespace.com/static/5864860159cc68953ac8600c/t/5f453f211583ee7c9ab872a2/1598373670070/arwa_cover_small_social.jpg?format=1500w
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: the
+  type: owner

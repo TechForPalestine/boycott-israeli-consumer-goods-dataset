@@ -1,0 +1,18 @@
+name: Coralogix
+status: avoid
+description: |-
+  Coralogix is an Israeli tech company[^1]
+
+  Don't buy Coralogix products/services
+  Don't sell Coralogix products/services
+  Don't work for Coralogix
+  [^1]: https://buyisraelitech.com/database/coralogix
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/74413ad2-4ed2-45ea-8e6c-1c44be226211/coralogix/w=450

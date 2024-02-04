@@ -1,0 +1,18 @@
+name: TimeOS
+status: avoid
+description: |-
+  TimeOS is an Israeli tech company[^1]
+
+  Don't buy TimeOS products/services
+  Don't sell TimeOS products/services
+  Don't work for TimeOS
+  [^1]: https://buyisraelitech.com/database/timeos
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- productivity
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c3a72217-f47c-42a8-ad01-c1393651d207/timeOS/w=450

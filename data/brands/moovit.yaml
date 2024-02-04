@@ -1,0 +1,16 @@
+name: Moovit
+status: avoid
+description: |-
+  Founder, Uri Levine, is a zionist who is also ex-IDF (also founded waze).[^1]
+
+  Don't use Moovit to plan your journeys.
+  Don't work for Moovit.
+  [^1]: https://twitter.com/UriLevine1
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmGGog03Rp28l-WS8xL5iCUJakSfX14s_qdxOuOkJ&s

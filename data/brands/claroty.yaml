@@ -1,0 +1,18 @@
+name: Claroty
+status: avoid
+description: |-
+  Claroty is an Israeli tech company[^1]
+
+  Don't buy Claroty products/services
+  Don't sell Claroty products/services
+  Don't work for Claroty
+  [^1]: https://buyisraelitech.com/database/claroty
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/db78fb77-af1e-4bf8-ad4a-6320d60ce47c/claroty/w=450

@@ -1,0 +1,20 @@
+name: Microsoft
+status: avoid
+description: |-
+  Microsoft is opening a data center in israel and invests heavily in their economy.[^1]
+
+  Avoid paying for Microsoft products and use free alternatives where possible.
+  Don't buy Xbox products, games, subscriptions.
+  Don't work for Microsoft
+  [^1]: https://news.microsoft.com/europe/features/microsoft-to-launch-new-cloud-datacenter-region-in-israel/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png
+alternatives_text: |-
+  Libre Office
+  Playstation

@@ -1,0 +1,23 @@
+name: Unicef
+status: avoid
+description: |-
+  The head of Unicef, Catherine Russell is married to the chairman of BlackRock investments, one of the largest investors in weapons companies in the world. This is a major conflict of interest and Unicef should not be trusted.[^1]
+
+  Don't donate to Unicef fundraisers.
+  Don't run Unicef fundraisers in your place of work or community.
+  [^1]: https://en.wikipedia.org/wiki/Catherine_M._Russell#:~:text=Spouse-,Thomas%20E.%20Donilon,-Children
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- charity
+logo_url: |-
+  https://www.egnetwork.eu/wp-content/uploads/2021/03/Logo_Signature_Container_Circle_ENG_RGB.png
+alternatives_text: |-
+  Muslims Around The World
+  Ummah Welfare Trust
+  One Ummah
+stakeholders:
+- id: executive
+  type: owner

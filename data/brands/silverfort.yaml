@@ -1,0 +1,18 @@
+name: Silverfort
+status: avoid
+description: |-
+  Silverfort is an Israeli tech company[^1]
+
+  Don't buy Silverfort products/services
+  Don't sell Silverfort products/services
+  Don't work for Silverfort
+  [^1]: https://buyisraelitech.com/database/silverfort
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/0a972bba-0812-495a-928e-ed04dbb47a7a/Screenshot_2023-10-30_at_13.55.33/w=450

@@ -1,0 +1,18 @@
+name: PeerSpot
+status: avoid
+description: |-
+  PeerSpot is an Israeli tech company[^1]
+
+  Don't buy PeerSpot products/services
+  Don't sell PeerSpot products/services
+  Don't work for PeerSpot
+  [^1]: https://buyisraelitech.com/database/peerspot
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/efd2bec5-511a-49c8-903d-b9aecf499523/PeerSpot_Logo_Horizontal_Light-BG/w=450

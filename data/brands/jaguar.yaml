@@ -1,0 +1,20 @@
+name: Jaguar
+status: avoid
+description: |-
+  Jaguar Land Rover partners with TCS to open Open Innovation Programme in Israel[^1]
+
+  Don't buy new Jaguar cars.
+  Don't sell new Jaguar cars
+  Don't work for Jaguar Land Rover
+  [^1]: https://auto.economictimes.indiatimes.com/news/industry/jaguar-land-rover-partners-with-tcs-to-launch-open-innovation-programme-in-israel/100437173
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- car
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2019/12/Jaguar-Logo.png
+stakeholders:
+- id: jaguar
+  type: owner

@@ -1,0 +1,18 @@
+name: Nexite
+status: avoid
+description: |-
+  Nexite is an Israeli tech company[^1]
+
+  Don't buy Nexite products/services
+  Don't sell Nexite products/services
+  Don't work for Nexite
+  [^1]: https://buyisraelitech.com/database/nexite
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1c9e49a0-d1ad-4271-b654-8202fd63e6f0/download-1/w=450

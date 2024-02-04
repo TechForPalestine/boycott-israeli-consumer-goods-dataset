@@ -1,0 +1,18 @@
+name: Nvidia
+status: avoid
+description: |-
+  Nvidia is building a supercomputer for Israel, which will undoubtedly be used to continue its oppression of Palestinians and enforce their apartheid.[^1]
+
+  Don't use Nvidia products
+  Don't work for Nvidia
+  If you are a company decision maker, find alternatives to Nvidia products
+  [^1]: https://www.reuters.com/technology/nvidia-build-israeli-supercomputer-ai-demand-soars-2023-05-29
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-l@2x.png
+alternatives_text: AMD

@@ -1,0 +1,21 @@
+name: Teva Pharmaceuticals
+status: avoid
+description: |-
+  Teva Pharmaceuticals operates in Occupied Palestine.[^1]
+
+  Don't buy Teva Pharmaceuticals products.
+  Don't sell Teva Pharmaceuticals products.
+  Check the details on packaging before you buy over the counter.
+  Most Teva products are generic drugs and can be substituted for other brands easily.
+  Don't prescribe Teva Pharmaceuticals products.
+  [^1]: https://www.chemistanddruggist.co.uk/CD017184/Teva-links-to-Israel-prompt-boycott-by-UK-contractors
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- pharmaceuticals
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Teva_Pharmaceuticals_logo.png/2560px-Teva_Pharmaceuticals_logo.png
+alternatives_text: |-
+  Ask pharmacist for non Teva alternatives

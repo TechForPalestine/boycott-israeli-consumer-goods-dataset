@@ -1,0 +1,18 @@
+name: Forter
+status: avoid
+description: |-
+  Forter is an Israeli tech company[^1]
+
+  Don't buy Forter products/services
+  Don't sell Forter products/services
+  Don't work for Forter
+  [^1]: https://buyisraelitech.com/database/forter
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b8428789-f815-447a-be73-692d9ce25c1a/Forter_Logo_-_New_Blue/w=450

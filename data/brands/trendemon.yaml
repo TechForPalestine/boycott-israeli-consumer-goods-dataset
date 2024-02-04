@@ -1,0 +1,18 @@
+name: Trendemon
+status: avoid
+description: |-
+  Trendemon is an Israeli tech company[^1]
+
+  Don't buy Trendemon products/services
+  Don't sell Trendemon products/services
+  Don't work for Trendemon
+  [^1]: https://buyisraelitech.com/database/trendemon
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e70a06ad-65e0-483b-a26f-a4c86c825e73/TrenDemon_logo/w=450

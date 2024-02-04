@@ -1,0 +1,21 @@
+name: Enjoy Life
+status: avoid
+description: |-
+  The owner of Enjoy Life, Mondelez, invests in Israeli start ups in Occupied Palestine.[^1]
+
+  Don't buy Enjoy Life products.
+  Don't sell Enjoy Life products
+  Don't work for Mondelez
+  [^1]: https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://images.ctfassets.net/zo243s55pyir/3KCDiLTzI2Hl9SoBv8ZTwo/013c8d726daa2923c6c198accee095c2/EnjoyLife.png?fm=webp&q=80
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: mondelez
+  type: owner

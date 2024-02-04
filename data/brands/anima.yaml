@@ -1,0 +1,18 @@
+name: Anima
+status: avoid
+description: |-
+  Anima is an Israeli tech company[^1]
+
+  Don't buy Anima products/services
+  Don't sell Anima products/services
+  Don't work for Anima
+  [^1]: https://buyisraelitech.com/database/anima
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- productivity
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/217a9184-b333-4c8e-9ec4-232d09c79faa/anima/w=450

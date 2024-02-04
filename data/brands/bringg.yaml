@@ -1,0 +1,18 @@
+name: Bringg
+status: avoid
+description: |-
+  Bringg is an Israeli tech company[^1]
+
+  Don't buy Bringg products/services
+  Don't sell Bringg products/services
+  Don't work for Bringg
+  [^1]: https://buyisraelitech.com/database/bringg
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/73c7efd5-101c-4d33-973b-1983bdf76149/Bringg_Logo/w=450

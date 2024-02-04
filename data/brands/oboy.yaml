@@ -1,0 +1,21 @@
+name: O'boy
+status: avoid
+description: |-
+  The owner of O'boy, Mondelez, invests in Israeli start ups in Occupied Palestine.[^1]
+
+  Don't buy O'boy products.
+  Don't sell O'boy products
+  Don't work for Mondelez
+  [^1]: https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://images.ctfassets.net/zo243s55pyir/69AGgcoN97TghCWiayfiBm/8de863928e24ce6a8897658b8e19f98f/Oboy_new_logo.png?fm=webp&q=80
+alternatives_text: Supermarket own brand products
+stakeholders:
+- id: mondelez
+  type: owner

@@ -1,0 +1,18 @@
+name: AXA
+status: avoid
+description: |-
+  AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.[^1]
+
+  Don't take insurance from Axa.
+  If you already have AXA insurance, switch as soon as you can.
+  Don't work for AXA.
+  [^1]: https://bdsmovement.net/news/axa-continues-investments-in-israeli-apartheid-boycott-axa-now
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- insurance
+- finance
+logo_url: |-
+  https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/03/axa.png

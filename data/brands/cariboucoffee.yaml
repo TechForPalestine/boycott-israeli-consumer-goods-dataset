@@ -1,0 +1,20 @@
+name: Caribou Coffee
+status: avoid
+description: |-
+  The owners of Caribou Coffee, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.[^1]
+
+  Don't eat from Caribou Coffee.
+  Don't work for Caribou Coffee.
+  [^1]: https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://seeklogo.com/images/C/caribou-coffee-logo-77816BAC85-seeklogo.com.png
+stakeholders:
+- id: jab
+  type: owner

@@ -1,0 +1,17 @@
+name: Oracle
+status: avoid
+description: |-
+  Oracle donated money to israeli employees after the war started, with an additional 10,000 israeli shekels for employees who serve in the IDF.[^1]
+
+  Don't use Oracle products
+  Don't work for Oracle
+  If you are a company decision maker, find alternatives to Oracle products
+  [^1]: https://www.calcalistech.com/ctechnews/article/bj8f1tfbt/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://cdn.freebiesupply.com/logos/large/2x/oracle-1-logo-png-transparent.png

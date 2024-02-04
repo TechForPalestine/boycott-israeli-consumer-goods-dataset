@@ -1,0 +1,18 @@
+name: Mapme
+status: avoid
+description: |-
+  Mapme is an Israeli tech company[^1]
+
+  Don't buy Mapme products/services
+  Don't sell Mapme products/services
+  Don't work for Mapme
+  [^1]: https://buyisraelitech.com/database/mapme
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cdec2195-e2a2-4ed1-8faf-7afa0322299f/download/w=450

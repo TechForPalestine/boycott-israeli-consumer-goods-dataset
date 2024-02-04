@@ -1,0 +1,16 @@
+name: Spyglass Media Group
+status: avoid
+description: |-
+  Spyglass Media Group fired Melissa Barrera from the Scream movie franchise for opposing genocide of Palestinians.[^1]
+
+  Don't watch Spyglass Media Groups movies and shows.
+  Don't work for Spyglass Media Group.
+  [^1]: https://www.calcalistech.com/ctech/articles/0,7340,L-3918443,00.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- entertainment
+logo_url: |-
+  https://spyglassmediagroup.com/user/themes/spyglass/images/share.jpg

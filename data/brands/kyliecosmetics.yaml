@@ -1,0 +1,25 @@
+name: Kylie Cosmetics
+status: avoid
+description: |-
+  Kylie posted that she stands with Israel before deleting it following backlash from followers. [^1]
+
+  Don't buy Kylie Jenners products
+  Don't sell Kylie Jenners products
+  Don't work for Kylie Jenners
+  [^1]: https://www.dailymail.co.uk/tvshowbiz/article-12607295/Kylie-Jenner-posts-deletes-Instagram-Story-showing-support-Israel.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://miro.medium.com/v2/resize:fit:1000/1*gSiQUzv3VJq8DVtMiwX93Q.jpeg
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: kylie
+  type: owner

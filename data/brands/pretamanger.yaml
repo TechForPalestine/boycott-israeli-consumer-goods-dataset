@@ -1,0 +1,18 @@
+name: Pret-a-manger
+status: avoid
+description: |-
+  Pret is planning a major expansion into the occupied Palestinian lands.[^1]
+
+  Don't eat from Pret.
+  Don't work for Pret.
+  [^1]: https://www.foa.org.uk/campaign/pretapartheid
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- coffee
+- drinks
+logo_url: |-
+  https://assets-global.website-files.com/5fc66e869d342de866828246/608b0051cb53d41b16cdb8a7_8c91b58f-2c56-42fb-9992-b35e250d4b1aLogo.jpeg
+alternatives_text: Caffe Nero

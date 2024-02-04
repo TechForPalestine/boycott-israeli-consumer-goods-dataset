@@ -1,0 +1,18 @@
+name: Walkme
+status: avoid
+description: |-
+  Walkme is an Israeli tech company[^1]
+
+  Don't buy Walkme products/services
+  Don't sell Walkme products/services
+  Don't work for Walkme
+  [^1]: https://buyisraelitech.com/database/walkme
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/fa0352a4-f47a-41db-8b10-a6dbe34c4e72/walkme-logo/w=450

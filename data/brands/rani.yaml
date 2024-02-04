@@ -1,0 +1,23 @@
+name: Rani
+status: avoid
+description: |-
+  Coca-Cola Company which owns Rani, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Rani.
+  Don't sell Rani
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://aujan.com/wp-content/uploads/2015/03/rani1.jpg
+alternatives_text: |-
+  Supermarket own brand products, eg. Aldi, Morrisons
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: the
+  type: owner

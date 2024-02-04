@@ -1,0 +1,22 @@
+name: Coty
+status: avoid
+description: |-
+  The owners of Coty, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.[^1]
+
+  Don't buy from Coty brands.
+  Don't work for Coty.
+  [^1]: https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2020/10/Coty-Logo-2016.png
+alternatives_text: Huda Beauty
+stakeholders:
+- id: jab
+  type: owner

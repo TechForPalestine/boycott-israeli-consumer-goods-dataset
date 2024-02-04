@@ -1,0 +1,19 @@
+name: Ted Baker
+status: avoid
+description: |-
+  A five-year agreement since 2018 allows Delta Galil to develop, produce and distribute men's underwear, loungewear and thermal wear for Ted Baker exclusively worldwide.[^1]
+
+  Don't buy Ted Baker products unless they agree to not use Delta Galil or any other Israeli manufacturer.
+  Don't sell Ted Baker goods
+  Don't work for Ted Baker.
+  [^1]: https://www.businesswire.com/news/home/20180713005434/en/Ted-Baker-Signs-New-Licensing-Agreement-with-Delta-Galil
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+- fashion
+logo_url: |-
+  https://pbs.twimg.com/profile_images/1568200497495957504/KtOLABAq_400x400.jpg
+alternatives_text: Non designer label clothing

@@ -1,0 +1,23 @@
+name: Barbican
+status: avoid
+description: |-
+  Coca-Cola Company which owns Barbican, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Barbican.
+  Don't sell Barbican
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/9/AmazonStores/A21TJRUUN4KGV/e6a4dc4396b5e27b1abc99ce5dacb555.w600.h600.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: the
+  type: owner

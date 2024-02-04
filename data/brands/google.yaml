@@ -1,0 +1,22 @@
+name: Google
+status: avoid
+description: |-
+  Google and Amazon jointly won the Project Nimbus contract to provide cloud services to the Israeli military. This is a $1.2bn contract that will be used to continue the oppression of Palestinians.[^1]
+
+  Only use free Google products and if there is no alternative
+  Don't click on Google ads
+  Don't spend on Google ads or use Google adsense
+  Don't buy Google products
+  Don't work for Google
+  [^1]: https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://download.logo.wine/logo/Google/Google-Logo.wine.png
+alternatives_text: |-
+  Don't click on ads
+  DuckDuckGo

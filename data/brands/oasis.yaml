@@ -1,0 +1,24 @@
+name: Oasis
+status: avoid
+description: |-
+  Coca-Cola Company which owns Oasis, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Oasis.
+  Don't sell Oasis
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/11/Oasis-Logo.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Saka water (from Turkiye)
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: the
+  type: owner

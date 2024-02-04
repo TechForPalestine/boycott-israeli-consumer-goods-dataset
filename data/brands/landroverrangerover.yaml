@@ -1,0 +1,21 @@
+name: Land Rover (Range Rover)
+status: avoid
+description: |-
+  Jaguar Land Rover partners with TCS to open Open Innovation Programme in Israel[^1]
+
+  Don't buy new Land Rover cars.
+  Don't buy new Range Rover cars.
+  Don't sell new Land Rover cars
+  Don't work for Jaguar Land Rover
+  [^1]: https://auto.economictimes.indiatimes.com/news/industry/jaguar-land-rover-partners-with-tcs-to-launch-open-innovation-programme-in-israel/100437173
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- car
+logo_url: |-
+  https://i.pinimg.com/736x/27/2f/cd/272fcd3d1ac73529e35c8d9d420005fc.jpg
+stakeholders:
+- id: jaguar
+  type: owner

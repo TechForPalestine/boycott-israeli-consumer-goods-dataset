@@ -1,0 +1,28 @@
+name: Bulgari / Bvlgari
+status: avoid
+description: |-
+  The owner of Bulgari's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies[^1]
+
+  Don't buy Bulgari products
+  Don't sell Bulgari products
+  Don't work for Bulgari or LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://i.pinimg.com/474x/7f/c8/da/7fc8da6228e191ea00825ce5f374e565.jpg
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Non designer clothing and accessories
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: bernard
+  type: owner

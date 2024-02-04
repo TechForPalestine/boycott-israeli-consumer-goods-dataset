@@ -1,0 +1,23 @@
+name: Lloyds Bank
+status: avoid
+description: |-
+  Lloyds invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians[^1]
+
+  Don't bank with Lloyds.
+  Close your Lloyds accounts.
+  Don't use Lloyds lending options.
+  Cancel your Lloyds credit cards.
+  Don't work for Lloyds.
+  [^1]: https://www.ethicalconsumer.org/money-finance/israel-deadly-investments
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- insurance
+- finance
+logo_url: |-
+  https://www.lloydsbankinggroup.com/assets/images/site-wide/logos/png/lloyds-bank-300.png
+alternatives_text: |-
+  TSB Bank
+  Monzo

@@ -1,0 +1,18 @@
+name: Lavazza
+status: avoid
+description: |-
+  Lavazza has pressured football team Arsenal to silence its player, Mohamed Elneny, who posted support on social media for Palestine[^1]
+
+  Don't buy Lavazza products
+  Don't sell Lavazza products.
+  Don't buy Arsenal football shirts whilst Lavazza is a sponsor.
+  [^1]: https://www.skysports.com/amp/football/news/11095/12307323/arsenal-speak-to-mohamed-elneny-over-wider-implications-of-pro-palestinian-social-media-post-amid-sponsor-concern
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- coffee
+logo_url: |-
+  https://logowik.com/content/uploads/images/lavazza9192.logowik.com.webp
+alternatives_text: Caffe Nero

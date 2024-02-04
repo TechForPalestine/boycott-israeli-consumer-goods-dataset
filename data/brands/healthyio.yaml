@@ -1,0 +1,18 @@
+name: Healthy.io
+status: avoid
+description: |-
+  Healthy.io is an Israeli tech company[^1]
+
+  Don't buy Healthy.io products/services
+  Don't sell Healthy.io products/services
+  Don't work for Healthy.io
+  [^1]: https://buyisraelitech.com/database/healthyio
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8a6196b2-847a-46a9-95f3-cf38e335c2fb/sfwb8egozmz0ae5jo8di/w=450
