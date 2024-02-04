@@ -1,9 +1,11 @@
-name: "Topo Chico"
+name: Topo Chico
 status: avoid
 description: |-
   Owned by **The Coca-Cola Company**.
 
-  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
+  **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.[^1]
+
+  [^1]: http://www.inminds.com/boycott-coca-cola.html
 reasons:
 - operations_in_settlements
 countries:

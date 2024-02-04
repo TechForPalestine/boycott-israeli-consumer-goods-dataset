@@ -826,34 +826,6 @@
     }
   },
   {
-    "id": 451,
-    "attributes": {
-      "name": "SodaStream",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Soda_Stream_Logo.svg/2560px-Soda_Stream_Logo.svg.png",
-      "proof": "Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
-      "priority": false,
-      "createdAt": "2023-11-11T15:08:11.970Z",
-      "updatedAt": "2023-11-14T18:07:08.608Z",
-      "publishedAt": "2023-11-11T15:08:12.640Z",
-      "proofUrl": "https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
-      "tags": null,
-      "filename": "sodastream.webp",
-      "alternative": {
-        "data": {
-          "id": 24,
-          "attributes": {
-            "name": "Kızılay",
-            "imageUrl": "https://www.kizilayicecek.com.tr/media/5q4por04/kizilay_i%C3%A7ecek_logo.png",
-            "createdAt": "2023-11-12T11:05:38.236Z",
-            "updatedAt": "2023-11-14T19:56:07.340Z",
-            "publishedAt": "2023-11-12T11:05:38.885Z",
-            "filename": "kizilay.webp"
-          }
-        }
-      }
-    }
-  },
-  {
     "id": 452,
     "attributes": {
       "name": "Soulboost",
@@ -3236,24 +3208,6 @@
       "proofUrl": "https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
       "tags": null,
       "filename": "pearl-milling-company.webp",
-      "alternative": {
-        "data": null
-      }
-    }
-  },
-  {
-    "id": 41,
-    "attributes": {
-      "name": "PepsiCo",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Pepsico_logo.png",
-      "proof": "**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
-      "priority": false,
-      "createdAt": "2023-11-06T18:38:37.400Z",
-      "updatedAt": "2023-11-14T17:30:01.511Z",
-      "publishedAt": "2023-11-06T20:52:25.759Z",
-      "proofUrl": "https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
-      "tags": null,
-      "filename": "pepsico.webp",
       "alternative": {
         "data": null
       }
@@ -11784,24 +11738,6 @@
       "proofUrl": "https://www.instagram.com/p/CyORRWHIqeH/?img_index=1",
       "tags": null,
       "filename": "popeyes.webp",
-      "alternative": {
-        "data": null
-      }
-    }
-  },
-  {
-    "id": 3,
-    "attributes": {
-      "name": "Puma",
-      "imageUrl": "https://logowik.com/content/uploads/images/puma.jpg",
-      "proof": "Puma sponsors the Israel Football Association, which includes teams in Israel’s illegal settlements on occupied Palestinian land. This sponsership will end in 2024",
-      "priority": true,
-      "createdAt": "2023-11-06T17:07:19.766Z",
-      "updatedAt": "2024-01-02T21:26:33.184Z",
-      "publishedAt": "2023-11-06T17:17:30.198Z",
-      "proofUrl": "https://bdsmovement.net/boycott-puma",
-      "tags": null,
-      "filename": "puma.webp",
       "alternative": {
         "data": null
       }

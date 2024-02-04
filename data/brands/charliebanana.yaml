@@ -1,9 +1,11 @@
-name: "Charlie Banana"
+name: Charlie Banana
 status: avoid
 description: |-
   Owned by **Procter and Gamble**.
 
-  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.
+  **Procter and Gamble** opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
 reasons:
 - operations_in_israel
 countries:

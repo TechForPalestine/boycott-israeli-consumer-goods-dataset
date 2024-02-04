@@ -1,9 +1,11 @@
-name: "Cote d'Or"
+name: Cote d'Or
 status: avoid
 description: |-
   Owned by **Mondelez International, Inc.**
 
-  **Mondelez International Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early stage company based in Israel that has developed proprietary technology Mondelez said "brings real, simple ingredients together to offer multi-textural, sensorial experiences."
+  **Mondelez International Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early stage company based in Israel that has developed proprietary technology Mondelez said "brings real, simple ingredients together to offer multi-textural, sensorial experiences."[^1]
+
+  [^1]: https://www.foodbusinessnews.net/articles/17261-mondelez-invests-in-israel-food-tech-startup
 reasons:
 - operations_in_israel
 countries:

@@ -1,9 +1,11 @@
-name: "OGX Beauty"
+name: OGX Beauty
 status: avoid
 description: |-
   Owned by **Johnson & Johnson**.
 
-  **Johnson & Johnson** owns companies in Israel, engaging in various sectors including healthcare, pharmaceuticals, and medical devices, furthering its global presence in these critical industries.
+  **Johnson & Johnson** owns companies in Israel, engaging in various sectors including healthcare, pharmaceuticals, and medical devices, furthering its global presence in these critical industries.[^1]
+
+  [^1]: https://ourstory.jnj.com/johnson-johnson-consumer-inc-acquires-vogue-international-llc#:~:text=Johnson%20%26%20Johnson%20Archives-,Johnson%20%26%20Johnson%20Consumer%20Inc.,hair%20and%20personal%20care%20products
 reasons:
 - operations_in_israel
 countries:

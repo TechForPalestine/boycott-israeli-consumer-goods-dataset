@@ -1,9 +1,11 @@
-name: "Pluto TV"
+name: Pluto TV
 status: avoid
 description: |-
   Owned by **Paramount Global**.
 
-  **Paramount Global** stated, 'We stand with the people of Israel and the global Jewish community."
+  **Paramount Global** stated, 'We stand with the people of Israel and the global Jewish community."[^1]
+
+  [^1]: https://variety.com/2023/film/news/hollywood-studios-israel-palestine-hamas-attacks-1235753540/
 reasons:
 - operations_in_israel
 countries:

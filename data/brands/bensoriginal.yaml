@@ -1,9 +1,11 @@
-name: "Ben's Original"
+name: Ben's Original
 status: avoid
 description: |-
   Owned by **Mars Inc**.
 
-  **Mars** will support Israeli start-ups and the formation of companies, and will work together with leading Israeli academic institutions, such as the Hebrew University, the Weizmann Institute, the Technion, Migall and Tel Hai College, among others, to further Foodtech innovations.
+  **Mars** will support Israeli start-ups and the formation of companies, and will work together with leading Israeli academic institutions, such as the Hebrew University, the Weizmann Institute, the Technion, Migall and Tel Hai College, among others, to further Foodtech innovations.[^1]
+
+  [^1]: https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel
 reasons:
 - operations_in_israel
 countries:

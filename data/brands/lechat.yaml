@@ -1,9 +1,11 @@
-name: "Le chat"
+name: Le chat
 status: avoid
 description: |-
   Owned by **Henkel**.
 
-  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.
+  **Henkel** invests in Israeli technology namely by investing in Feelit. A company with its roots in Israel.[^1]
+
+  [^1]: https://www.henkel.com/press-and-media/press-releases-and-kits/2021-01-07-henkel-invests-in-technology-start-up-feelit-1141594
 reasons:
 - operations_in_israel
 countries:
