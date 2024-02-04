@@ -2141,13 +2141,7 @@
         "dates"
       ],
       "logo_url": "https://m.media-amazon.com/images/I/91XMctP5PKL.jpg",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "bonaqua": {
       "id": "bonaqua",
@@ -2809,13 +2803,7 @@
         "dates"
       ],
       "logo_url": "https://image.pitchbook.com/bFcn5EDrs27XHGn26QD5g2BNSKX1539722675938_200x200",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "carnation": {
       "id": "carnation",
@@ -4637,13 +4625,7 @@
         "dates"
       ],
       "logo_url": "https://pbs.twimg.com/profile_images/2718900474/0e9f77f92dcce4e473c0c379188ebdda_400x400.png",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "dell": {
       "id": "dell",
@@ -4735,13 +4717,7 @@
         "dates"
       ],
       "logo_url": "https://www.islam21c.com/wp-content/uploads/desert.png",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "dettol": {
       "id": "dettol",
@@ -7227,13 +7203,7 @@
         "dates"
       ],
       "logo_url": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/0beaf8640b1918f29ba3",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "halalbooking": {
       "id": "halalbooking",
@@ -8430,13 +8400,7 @@
         "dates"
       ],
       "logo_url": "https://m.media-amazon.com/images/S/abs-image-upload-na/c/AmazonStores/ATVPDKIKX0DER/d56dbd6248ccc3b710a1eb02e2214c79.w428.h420.jpg",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "kinhdo": {
       "id": "kinhdo",
@@ -12321,29 +12285,6 @@
         }
       ]
     },
-    "pepsi": {
-      "id": "pepsi",
-      "name": "Pepsi",
-      "status": "avoid",
-      "description": "Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]\n\n[^1]: https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
-      "reasons": [
-        "operations_in_israel"
-      ],
-      "countries": [
-        "global"
-      ],
-      "categories": [],
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/1509px-Pepsi_logo_2014.svg.png",
-      "alternatives": [
-        "meysu"
-      ],
-      "stakeholders": [
-        {
-          "id": "pepsico",
-          "type": "owner"
-        }
-      ]
-    },
     "peptobismol": {
       "id": "peptobismol",
       "name": "Pepto Bismol",
@@ -13193,13 +13134,7 @@
         "dates"
       ],
       "logo_url": "https://www.rapunzel.de/design/logo-rapunzel-naturkost-legau.png",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "rapyd": {
       "id": "rapyd",
@@ -14198,13 +14133,7 @@
         "dates"
       ],
       "logo_url": "https://d36musakzcdau7.cloudfront.net/ourdesistore/Product/393795f0-8fc4-11ec-b3e8-2177376a7905/resize/SHAMS-DATES-2LB-SHAMS.jpg-1645452365.jpg.webp",
-      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins",
-      "stakeholders": [
-        {
-          "id": "an",
-          "type": "owner"
-        }
-      ]
+      "alternatives_text": "Yaffa\nZiyad\nVarious muslim charity date tins"
     },
     "sheba": {
       "id": "sheba",
