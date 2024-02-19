@@ -1,0 +1,18 @@
+name: Intel
+status: avoid
+description: |-
+  Intel Invests heavily in israel including in towns stolen from Palestinians[^1]
+
+  Don't use Intel products
+  Don't work for Intel
+  If you are a company decision maker, find alternatives to Intel products
+  [^1]: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-israel.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://logos-world.net/wp-content/uploads/2021/09/Intel-Logo.png
+alternatives_text: AMD

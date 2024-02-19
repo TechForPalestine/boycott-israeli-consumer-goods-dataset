@@ -1,0 +1,21 @@
+name: Carrefour
+status: avoid
+description: |-
+  Carrefour made huge investments into Israel last year, opening 50 stores and is planning to open a further 100 by 2024.[^1]
+
+  Don't shop at Carrefour supermarkets.
+  Don't work for Carrefour.
+  [^1]: https://www.carrefour.com/en/news/2023/arrivee-de-carrefour-en-israel
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+- household
+- clothing
+- supermarket
+logo_url: |-
+  https://logowik.com/content/uploads/images/210_carrefour.jpg
+alternatives_text: Local supermarkets

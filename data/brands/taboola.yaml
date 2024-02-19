@@ -1,0 +1,18 @@
+name: Taboola
+status: avoid
+description: |-
+  Taboola's CEO, Adam Singolda, is a staunch zionist who tweets about Palestine supports being ISIS and terrorist sympathisers.[^1]
+
+  Don't click on ads on sites that operate Taboola (or outbrain).
+  Don't serve ads by Taboola (or outbrain).
+  Don't advertise through Taboola (or Outbrain).
+  [^1]: https://twitter.com/AdamSingolda
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://www.proggio.com/wp-content/uploads/2019/01/feat-Taboola.png
+alternatives_text: MuslimAdNetwork.com

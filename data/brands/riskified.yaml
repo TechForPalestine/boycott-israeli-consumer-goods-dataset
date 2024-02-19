@@ -1,0 +1,18 @@
+name: Riskified
+status: avoid
+description: |-
+  Riskified is an Israeli tech company[^1]
+
+  Don't buy Riskified products/services
+  Don't sell Riskified products/services
+  Don't work for Riskified
+  [^1]: https://buyisraelitech.com/database/riskified
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cc1c7dc6-28b3-443f-847e-f4bb585af9d1/Riskified_logo/w=450

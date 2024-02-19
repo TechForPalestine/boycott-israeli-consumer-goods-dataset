@@ -1,0 +1,23 @@
+name: LVMH
+status: avoid
+description: |-
+  LVMH owner Bernard Arnault invests in Israeli companies[^1]
+
+  Don't buy LVMH products
+  Don't sell LVMH products
+  Don't work for LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://r.lvmh-static.com/uploads/2010/01/lvmh_logotype_simple_n-1.jpg
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Non-designer clothing and accessories
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk

@@ -1,0 +1,18 @@
+name: Mesh Payments
+status: avoid
+description: |-
+  Mesh Payments is an Israeli tech company[^1]
+
+  Don't buy Mesh Payments products/services
+  Don't sell Mesh Payments products/services
+  Don't work for Mesh Payments
+  [^1]: https://buyisraelitech.com/database/mesh-payments
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f87f8307-4c5d-4f99-9ebe-c57afb52e787/Mesh-Payments-768x427/w=450

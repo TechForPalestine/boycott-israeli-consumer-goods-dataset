@@ -1,0 +1,18 @@
+name: Gong
+status: avoid
+description: |-
+  Gong is an Israeli tech company[^1]
+
+  Don't buy Gong products/services
+  Don't sell Gong products/services
+  Don't work for Gong
+  [^1]: https://buyisraelitech.com/database/gong
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8d52d9e8-4d41-4459-8842-275263982c44/gong6465/w=450

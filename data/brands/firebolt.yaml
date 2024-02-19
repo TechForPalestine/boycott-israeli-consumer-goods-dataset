@@ -1,0 +1,18 @@
+name: Firebolt
+status: avoid
+description: |-
+  Firebolt is an Israeli tech company[^1]
+
+  Don't buy Firebolt products/services
+  Don't sell Firebolt products/services
+  Don't work for Firebolt
+  [^1]: https://buyisraelitech.com/database/firebolt
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ef29ea4a-0aa3-4f07-b482-ffe8a4ae494c/Firebolt_logo.svg/w=450

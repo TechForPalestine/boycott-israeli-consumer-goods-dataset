@@ -1,0 +1,23 @@
+name: Dasani Water
+status: avoid
+description: |-
+  Coca-Cola Company which owns Dasani Water, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Dasani Water.
+  Don't sell Dasani Water
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/dasani-logo.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Saka water (from Turkiye)
+stakeholders:
+- id: the
+  type: owner

@@ -1,0 +1,18 @@
+name: Fintastic
+status: avoid
+description: |-
+  Fintastic is an Israeli tech company[^1]
+
+  Don't buy Fintastic products/services
+  Don't sell Fintastic products/services
+  Don't work for Fintastic
+  [^1]: https://buyisraelitech.com/database/fintastic
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ce5b4745-bbf2-4d8b-a4bf-d55f80eb0a8a/fintastic/w=450

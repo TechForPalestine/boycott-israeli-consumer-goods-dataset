@@ -40,7 +40,45 @@ properties:
     type: array
     items:
       type: string
-      enum: [food]
+      enum: 
+        - books
+        - car
+        - charity
+        - clothing
+        - cloud
+        - coffee
+        - commerce
+        - contractor
+        - cosmetics
+        - dates
+        - development
+        - drinks
+        - energy
+        - entertainment
+        - fashion
+        - finance
+        - fintech
+        - food
+        - hardware
+        - healthcare
+        - household
+        - hr
+        - insurance
+        - luxury
+        - manufacturer
+        - marketing
+        - media
+        - petcare
+        - pharmaceuticals
+        - politics
+        - productivity
+        - sales
+        - security
+        - semiconductors
+        - supermarket
+        - technology
+        - travel
+        - weapons
   website:
     type: string
     format: uri

@@ -1,0 +1,18 @@
+name: Caterpillar
+status: avoid
+description: |-
+  Caterpillar bulldozers have been used in the demolition of Palestinian homes. The D9 bulldozer was specifically designed for the IDF.[^1]
+
+  Don't buy Caterpillar clothes or machinery.
+  Don't sell Caterpillar clothes or machinery.
+  Don't work for Caterpillar.
+  [^1]: https://en.wikipedia.org/wiki/IDF_Caterpillar_D9
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- manufacturer
+- clothing
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2016/11/Colors-of-the-caterpillar-logo.jpg

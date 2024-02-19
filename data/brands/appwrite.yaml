@@ -1,0 +1,18 @@
+name: Appwrite
+status: avoid
+description: |-
+  Appwrite is an Israeli tech company[^1]
+
+  Don't buy Appwrite products/services
+  Don't sell Appwrite products/services
+  Don't work for Appwrite
+  [^1]: https://buyisraelitech.com/database/appwrite
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/69b88bc6-5241-4dcb-a12c-a8c5f8624a67/appwriteio-ar21/w=450

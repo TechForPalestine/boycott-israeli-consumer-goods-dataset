@@ -1,0 +1,22 @@
+name: Lidl
+status: avoid
+description: |-
+  The owner of Lidl is a zionist and a huge investor in israeli tech companies.[^1]
+
+  Don't shop at Lidl.
+  Don't work for Lidl.
+  [^1]: https://xmcyber.com/press-release/schwarz-group-acquires-israeli-hybrid-cloud-cybersecurity-innovator-xm-cyber/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- supermarket
+logo_url: |-
+  https://download.logo.wine/logo/Lidl/Lidl-Logo.wine.png
+alternatives_text: |-
+  Aldi Sud
+  Morrisons
+stakeholders:
+- id: dieter
+  type: owner

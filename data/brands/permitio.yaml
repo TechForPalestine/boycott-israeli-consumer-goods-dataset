@@ -1,0 +1,18 @@
+name: Permit.io
+status: avoid
+description: |-
+  Permit.io is an Israeli tech company[^1]
+
+  Don't buy Permit.io products/services
+  Don't sell Permit.io products/services
+  Don't work for Permit.io
+  [^1]: https://buyisraelitech.com/database/permitio
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/06987c8d-666e-4f4e-a3f5-1518a02a0302/permitio-SQ/w=450

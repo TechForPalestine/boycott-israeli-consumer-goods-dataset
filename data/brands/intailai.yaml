@@ -1,0 +1,18 @@
+name: Intail.ai
+status: avoid
+description: |-
+  Intail.ai is an Israeli tech company[^1]
+
+  Don't buy Intail.ai products/services
+  Don't sell Intail.ai products/services
+  Don't work for Intail.ai
+  [^1]: https://buyisraelitech.com/database/intail
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/153a5da3-08f4-4f78-9ce7-66f84ad3538d/intail.ai_Logo/w=450

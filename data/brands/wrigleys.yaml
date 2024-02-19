@@ -1,0 +1,21 @@
+name: Wrigley's
+status: avoid
+description: |-
+  The owner of Wrigley's, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.[^1]
+
+  Don't buy Wrigley's products.
+  Don't sell Wrigley's products.
+  Don't work for Mars.
+  [^1]: https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://1000logos.net/wp-content/uploads/2020/07/Wrigley-Logo.png
+alternatives_text: Supermarket own brand options.
+stakeholders:
+- id: mars
+  type: owner

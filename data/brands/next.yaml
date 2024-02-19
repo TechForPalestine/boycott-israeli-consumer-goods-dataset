@@ -1,0 +1,23 @@
+name: Next
+status: avoid
+description: |-
+  The Wolfson family is known for its charity which provides grants for science initiatives and cultural projects in israel. The family has controlled Next plc through various positions including Chairman David Wolfson and his son Simon Wolfson, the current CEO of Next.[^1]
+
+  Don't buy from Next.
+  Don't work for Next Plc
+  [^1]: https://www.wfct.org/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+- fashion
+logo_url: |-
+  https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767
+alternatives_text: |-
+  Local fashion brands
+  Unbranded clothing products
+stakeholders:
+- id: the
+  type: owner

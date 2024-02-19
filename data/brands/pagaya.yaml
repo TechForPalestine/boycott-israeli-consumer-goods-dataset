@@ -1,0 +1,18 @@
+name: Pagaya
+status: avoid
+description: |-
+  Pagaya is an Israeli tech company[^1]
+
+  Don't buy Pagaya products/services
+  Don't sell Pagaya products/services
+  Don't work for Pagaya
+  [^1]: https://buyisraelitech.com/database/pagaya
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/887381e4-7273-4a73-92b5-40bf8488988c/pagaya/w=450

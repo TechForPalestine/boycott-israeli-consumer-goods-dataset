@@ -1,0 +1,18 @@
+name: Sentra
+status: avoid
+description: |-
+  Sentra is an Israeli tech company[^1]
+
+  Don't buy Sentra products/services
+  Don't sell Sentra products/services
+  Don't work for Sentra
+  [^1]: https://buyisraelitech.com/database/sentra
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dcd8e76a-062c-4056-81b1-8c12db3cdb4d/Sentra-logo/w=450

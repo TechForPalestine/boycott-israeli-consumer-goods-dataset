@@ -1,0 +1,23 @@
+name: Bon Aqua
+status: avoid
+description: |-
+  Coca-Cola Company which owns Bon Aqua, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Bon Aqua.
+  Don't sell Bon Aqua
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://www.coca-colahellenic.com/content/dam/cch/us/images/our-24-7-portfolio/brand-image/bonaqua-logo-300x300-1.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Aldi
+  Highland Spring
+stakeholders:
+- id: the
+  type: owner

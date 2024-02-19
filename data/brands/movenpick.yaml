@@ -1,0 +1,22 @@
+name: Movenpick
+status: avoid
+description: |-
+  The owner of the Movenpick brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.[^1]
+
+  Don't buy Movenpick products
+  Avoid Nestle products until they divest all operations in Occupied Palestine.
+  Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source.
+  [^1]: https://en.wikipedia.org/wiki/Osem_(company)
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://www.nestle.com/sites/default/files/styles/thumbnail/public/movenpick-logo-round-2021.png
+alternatives_text: |-
+  Supermarket own brand products. Eg. Morrisons
+stakeholders:
+- id: nestle
+  type: owner

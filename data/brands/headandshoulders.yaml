@@ -1,0 +1,19 @@
+name: Head and Shoulders
+status: avoid
+description: |-
+  Head and Shoulders is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  Don't buy head and shoulders products
+  Don't sell head and shoulders products
+  Don't work for head and shoulders
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+- healthcare
+logo_url: |-
+  https://logowik.com/content/uploads/images/head-shoulders7079.jpg
+alternatives_text: Supermarket own brand products

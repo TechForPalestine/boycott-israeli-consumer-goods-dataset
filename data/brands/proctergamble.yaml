@@ -1,0 +1,23 @@
+name: Procter & Gamble
+status: avoid
+description: |-
+  Procter and Gamble opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.[^1]
+
+  Don't buy P&G products
+  Don't sell P&G products
+  Don't work for P&G
+  [^1]: https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- household
+- cosmetics
+- food
+- drinks
+- healthcare
+logo_url: |-
+  https://logowik.com/content/uploads/images/108_procterandgamble.jpg
+alternatives_text: |-
+  Supermarket own brand products. Eg. Morrisons

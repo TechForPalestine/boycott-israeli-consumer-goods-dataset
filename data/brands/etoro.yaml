@@ -1,0 +1,16 @@
+name: eToro
+status: avoid
+description: |-
+  Yoni Assia is the CEO of eToro and is a staunch zionist who supports the IDF.[^1]
+
+  Don't use eToro to trade stocks.
+  Don't work for eToro.
+  [^1]: https://twitter.com/yoniassia
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/93/5d/87935d18-1213-3914-55fc-bf9d404e5ac9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp

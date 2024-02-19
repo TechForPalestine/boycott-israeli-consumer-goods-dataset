@@ -1,0 +1,18 @@
+name: Salt Security
+status: avoid
+description: |-
+  Salt Security is an Israeli tech company[^1]
+
+  Don't buy Salt Security products/services
+  Don't sell Salt Security products/services
+  Don't work for Salt Security
+  [^1]: https://buyisraelitech.com/database/salt-security
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9230298b-5038-45ee-a943-715bcdf70079/Salt_logo_full_color_RGB_final_(1)/w=450

@@ -1,0 +1,20 @@
+name: Aldi Nord (not UK)
+status: avoid
+description: |-
+  Aldi Nord specifically (not Aldi Sud) partners with israeli startup Trigo to make autonomous stores.[^1]
+
+  Don't shop at Aldi Nord (North Germany, North East Europe, West Europe).
+  You can shop at Aldi Sud (UK, South Germany, South East Europe).
+  Don't work for Aldi Nord.
+  [^1]: https://www.trigoretail.com/customer-stories/aldi-nord-utrecht/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- supermarket
+logo_url: |-
+  https://logowik.com/content/uploads/images/aldi8490.jpg
+alternatives_text: |-
+  Aldi Sud
+  Morrisons

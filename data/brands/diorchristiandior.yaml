@@ -1,0 +1,28 @@
+name: Dior / Christian Dior
+status: avoid
+description: |-
+  The owner of Dior's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies[^1]
+
+  Don't buy Dior products
+  Don't sell Dior products
+  Don't work for Dior or LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://dynl.mktgcdn.com/p/KfI5g-nDtylqhtl1RdhWzG0DMJ7sGl0lGfr3EARlPtQ/500x500.jpg
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Non designer clothing and accessories
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: bernard
+  type: owner

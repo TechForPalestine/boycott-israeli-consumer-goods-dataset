@@ -1,0 +1,23 @@
+name: Kayak
+status: avoid
+description: |-
+  Booking.com, whos parent company Booking Holdings owns Kayak, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.[^1]
+
+  Don't book on Kayak.
+  Book directly with businesses. They usually offer discounts and similar terms for direct bookings.
+  Don't list your services on Kayak.
+  Don't work for Booking Holdings
+  [^1]: https://www.aljazeera.com/news/2022/10/5/is-booking-com-reversal-palestine-corporate-hypocrisy
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- travel
+logo_url: |-
+  https://www.kayak.co.uk/rimg/dimg/dynamic/376-1663588218-2020-2021_kayak_logo_k_square_kayak_77832.png
+alternatives_text: halalbooking.com
+stakeholders:
+- id: booking
+  type: owner

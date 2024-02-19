@@ -1,0 +1,17 @@
+name: Capital One
+status: avoid
+description: |-
+  Capital One was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.[^1]
+
+  Don't bank with Capital One
+  Don't work for Capital One
+  Don't invest with Capital One
+  [^1]: https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+logo_url: |-
+  https://www.capitalone.co.uk/cloud_assets/png/capital-one-logo.png

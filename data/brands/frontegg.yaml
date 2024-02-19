@@ -1,0 +1,18 @@
+name: Frontegg
+status: avoid
+description: |-
+  Frontegg is an Israeli tech company[^1]
+
+  Don't buy Frontegg products/services
+  Don't sell Frontegg products/services
+  Don't work for Frontegg
+  [^1]: https://buyisraelitech.com/database/frontegg
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8cd3716a-af79-4d55-a553-257fef68e81d/download-1/w=450

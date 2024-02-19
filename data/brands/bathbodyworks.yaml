@@ -1,0 +1,20 @@
+name: Bath & Body Works
+status: avoid
+description: |-
+  Les Wexner who owns L Brands, the parent company of Bath&Body Works, is a staunch ally of Israel, and a long time business partner of Jeffrey Epstein, the convicted child trafficker.[^1]
+
+  Don't buy Bath&Body Works products.
+  Don't work for Bath&Body Works.
+  [^1]: https://www.timesofisrael.com/the-relationship-between-epstein-and-jewish-philanthropist-wexner-explained/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://i.pinimg.com/originals/b1/df/c2/b1dfc2670f0ba2913a3aaca3b12630ae.jpg
+alternatives_text: |-
+  Lush cosmetics
+  Unbranded oil based perfumes
+  Sunnamusk

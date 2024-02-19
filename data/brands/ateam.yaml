@@ -1,0 +1,18 @@
+name: A.Team
+status: avoid
+description: |-
+  A.Team is an Israeli tech company[^1]
+
+  Don't buy A.Team products/services
+  Don't sell A.Team products/services
+  Don't work for A.Team
+  [^1]: https://buyisraelitech.com/database/ateam
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- hr
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32528a0b-67dc-4c3f-aa90-3084a099f8be/logo_a-teams/w=450

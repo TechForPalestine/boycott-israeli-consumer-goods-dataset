@@ -3,7 +3,9 @@ status: avoid
 description: |-
   Owned by **The Walt Disney Company**.
 
-  **The Walt Disney Company** Donates To Support Humanitarian Relief Following Terrorist Attacks In Israel.
+  **The Walt Disney Company** Donates To Support Humanitarian Relief Following Terrorist Attacks In Israel.[^1]
+
+  [^1]: https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/
 reasons:
 - operations_in_israel
 countries:

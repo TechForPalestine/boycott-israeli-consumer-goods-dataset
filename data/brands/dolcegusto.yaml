@@ -1,0 +1,21 @@
+name: Dolce Gusto
+status: avoid
+description: |-
+  The owner of the Dolce Gusto brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.[^1]
+
+  Don't buy Dolce Gusto products
+  Avoid Nestle products until they divest all operations in Occupied Palestine.
+  Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source.
+  [^1]: https://en.wikipedia.org/wiki/Osem_(company)
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- coffee
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/2/23/Nescafe_dolcegusto_logo.png
+alternatives_text: Caffe Nero
+stakeholders:
+- id: nestle
+  type: owner

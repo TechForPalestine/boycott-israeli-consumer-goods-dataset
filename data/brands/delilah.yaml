@@ -1,0 +1,23 @@
+name: Delilah
+status: avoid
+description: |-
+  Delilah is an israeli brand which sells dates grown on stolen Palestinian land.[^1]
+
+  Don't buy dates from this brand.
+  Ask businesses to stop selling this brand
+  Only buy Medjoul dates from confirmed Palestinian owned businesses
+  Buy other variants of dates besides Medjoul if you can't confirm the origin
+  [^1]: https://www.ampalestine.org/dateboycott
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- dates
+logo_url: |-
+  https://pbs.twimg.com/profile_images/2718900474/0e9f77f92dcce4e473c0c379188ebdda_400x400.png
+alternatives_text: |-
+  Yaffa
+  Ziyad
+  Various muslim charity date tins

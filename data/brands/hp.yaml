@@ -1,0 +1,17 @@
+name: HP
+status: avoid
+description: |-
+  Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.[^1]
+
+  Avoid buying HP products.
+  Don't work for HP.
+  [^1]: https://en.wikipedia.org/wiki/Hewlett-Packard_Israel
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://brandcentral.hp.com/content/dam/sites/brand-central/elem-logo/images/Logo_1_do.jpeg
+alternatives_text: Lenovo

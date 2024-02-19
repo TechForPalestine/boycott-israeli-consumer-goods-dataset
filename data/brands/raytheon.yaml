@@ -1,0 +1,16 @@
+name: Raytheon
+status: avoid
+description: |-
+  Supplies the IDF with the Iron Dome system. Enabling Israel to occupy Palestine with impunity and without fear of resistance.[^1]
+
+  Don't work for Raytheon
+  [^1]: https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/irondome
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- weapons
+- manufacturer
+logo_url: |-
+  https://i.redd.it/dbnb0o1q6ci81.png

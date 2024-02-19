@@ -1,0 +1,26 @@
+name: Tom Ford Beauty
+status: avoid
+description: |-
+  Tom Ford Beauty is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.[^1]
+
+  Don't buy products from the vast catalogue of Estee Lauder.
+  Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more.
+  Don't work for Estee Lauder brands.
+  [^1]: https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+- clothing
+logo_url: |-
+  https://media.licdn.com/dms/image/D4E0BAQH9tPiLt38cxA/company-logo_200_200/0/1695305566079?e=2147483647&v=beta&t=er2z4E0XEEsougatDEiiqIlaKhIJ4JnbpT2yTPKZqbM
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: estee
+  type: owner

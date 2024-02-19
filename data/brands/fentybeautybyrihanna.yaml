@@ -1,0 +1,27 @@
+name: Fenty Beauty by Rihanna
+status: avoid
+description: |-
+  The owner of Fenty's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies[^1]
+
+  Don't buy Fenty products
+  Don't sell Fenty products
+  Don't work for Fenty or LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://seeklogo.com/images/F/fenty-logo-C76A749839-seeklogo.com.png
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: rihanna
+  type: owner

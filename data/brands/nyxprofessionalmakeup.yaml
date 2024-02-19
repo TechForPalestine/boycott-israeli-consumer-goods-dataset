@@ -1,0 +1,21 @@
+name: NYX Professional Makeup
+status: avoid
+description: |-
+  NYX Professional is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.[^1]
+
+  Don't buy NYX Professional products
+  Don't sell NYX Professional products
+  Don't work for L'Oreal Groupe
+  [^1]: https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://lens-storage.storage.googleapis.com/png/74504afc12b6483d988c46d13fa2f6ca
+alternatives_text: Lush cosmetics
+stakeholders:
+- id: loreal
+  type: owner

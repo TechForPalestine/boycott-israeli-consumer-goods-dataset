@@ -1,0 +1,18 @@
+name: Finaloop
+status: avoid
+description: |-
+  Finaloop is an Israeli tech company[^1]
+
+  Don't buy Finaloop products/services
+  Don't sell Finaloop products/services
+  Don't work for Finaloop
+  [^1]: https://buyisraelitech.com/database/finaloop
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e7750211-3d2c-43aa-84cf-f967365dacdd/6374d36ed341423dd86154d2_Frame_34194.min/w=450

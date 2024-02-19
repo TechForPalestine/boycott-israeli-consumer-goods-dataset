@@ -1,0 +1,18 @@
+name: BigPanda
+status: avoid
+description: |-
+  BigPanda is an Israeli tech company[^1]
+
+  Don't buy BigPanda products/services
+  Don't sell BigPanda products/services
+  Don't work for BigPanda
+  [^1]: https://buyisraelitech.com/database/bigpanda
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9e6a12c9-aa3b-4e14-836b-431162780bfb/Screenshot_2023-10-30_at_13.54.10/w=450

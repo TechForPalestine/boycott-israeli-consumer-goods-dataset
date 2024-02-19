@@ -1,0 +1,18 @@
+name: Dig Security
+status: avoid
+description: |-
+  Dig Security is an Israeli tech company[^1]
+
+  Don't buy Dig Security products/services
+  Don't sell Dig Security products/services
+  Don't work for Dig Security
+  [^1]: https://buyisraelitech.com/database/dig-security
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/fb2ae7bd-7027-489a-975b-71db83712bf8/627cdd2ff3a0f536e717f411_Featured_Image/w=450

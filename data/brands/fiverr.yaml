@@ -1,0 +1,17 @@
+name: Fiverr
+status: avoid
+description: |-
+  CEO, Micha Kaufman, is a staunch zionist who supports the IDF.[^1]
+
+  Don't use Fiverr to purchase or offer services.
+  Don't work for Fiverr.
+  [^1]: https://twitter.com/michakaufman
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://mms.businesswire.com/media/20230510006090/en/827135/22/Fiverr_September_2020_Logo.jpg
+alternatives_text: Upwork

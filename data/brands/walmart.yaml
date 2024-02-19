@@ -1,0 +1,21 @@
+name: Walmart
+status: avoid
+description: |-
+  Walmart was quick to pledge $1m to Israeli victims and condemned Hamas, however did not donate anything towards charities operating in Gaza for the victims of Israel's genocide.[^1]
+
+  Don't shop at Walmart.
+  Don't work for Walmart
+  [^1]: https://www.jpost.com/business-and-innovation/article-770698
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+- healthcare
+- cosmetics
+- supermarket
+logo_url: |-
+  https://media.designrush.com/inspiration_images/345908/conversions/walmart_1-preview.jpg
+alternatives_text: Local small supermarkets

@@ -1,0 +1,20 @@
+name: Noon.com
+status: avoid
+description: |-
+  Mohamed Alabbar is a huge supporter of israel, contributing with investments and donations to settlements and infrastructure, and is a big voice for normalisation between the UAE and israel.[^1]
+
+  Don't buy from Noon.com.
+  Don't work for Noon.com
+  [^1]: https://www.jpost.com/health-and-wellness/article-745543
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://www.channelengine.com/hubfs/Imported_Blog_Media/noon-website.jpg
+alternatives_text: Local retailers
+stakeholders:
+- id: the
+  type: owner

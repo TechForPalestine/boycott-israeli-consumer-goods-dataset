@@ -1,0 +1,18 @@
+name: 8fig
+status: avoid
+description: |-
+  8fig is an Israeli tech company[^1]
+
+  Don't buy 8fig products/services
+  Don't sell 8fig products/services
+  Don't work for 8fig
+  [^1]: https://buyisraelitech.com/database/8fig
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3ddd5fbb-0020-43be-a1a3-e3353717d712/8fig-logo_cyan-green_RGB_cropped-300x191-1/w=450

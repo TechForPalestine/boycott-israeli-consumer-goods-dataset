@@ -1,0 +1,23 @@
+name: Royal Canin
+status: avoid
+description: |-
+  The owner of Royal Canin, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.[^1]
+
+  Don't buy Royal Canin products.
+  Don't sell Royal Canin products.
+  Don't work for Mars.
+  [^1]: https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- petcare
+logo_url: |-
+  https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-03/Logos_BUSINESS_SEGMENTS_23.png
+alternatives_text: |-
+  Supermarket own brand options.
+  Eat whole foods instead of confectionary.
+stakeholders:
+- id: mars
+  type: owner

@@ -1,0 +1,22 @@
+name: MoroccanOil
+status: avoid
+description: |-
+  Moroccan Oil obscures its manufacturing and origins. It poses as a moroccan brand, however its products are all manufactured in Isreal. [^1]
+
+  Don't buy MoroccanOil products
+  Don't sell MoroccanOil products
+  Don't work for MoroccanOil
+  [^1]: https://electronicintifada.net/blogs/sarah-irving/moroccanoil-israeli-hair-products-glamorize-apartheid
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+logo_url: |-
+  https://cdn.supadupa.me/shop/13/images/1908639/morrocan-oil-logo-gravity-_grande.png
+alternatives_text: |-
+  Any other argan oil brand which has no involvement with israel.
+stakeholders:
+- id: israeli
+  type: owner

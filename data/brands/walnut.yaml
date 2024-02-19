@@ -1,0 +1,18 @@
+name: Walnut
+status: avoid
+description: |-
+  Walnut is an Israeli tech company[^1]
+
+  Don't buy Walnut products/services
+  Don't sell Walnut products/services
+  Don't work for Walnut
+  [^1]: https://buyisraelitech.com/database/walnut
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1c974c40-34d9-4c32-9514-7a46a968828e/walnut_logo_freelogovectors.net_/w=450

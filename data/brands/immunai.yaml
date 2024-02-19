@@ -1,0 +1,18 @@
+name: Immunai
+status: avoid
+description: |-
+  Immunai is an Israeli tech company[^1]
+
+  Don't buy Immunai products/services
+  Don't sell Immunai products/services
+  Don't work for Immunai
+  [^1]: https://buyisraelitech.com/database/immunai
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/80c4e0ee-019f-4202-91cb-d9d260dcfa56/immunai-logo-full2x-100/w=450

@@ -1,0 +1,18 @@
+name: Ritual
+status: avoid
+description: |-
+  Ritual is an Israeli tech company[^1]
+
+  Don't buy Ritual products/services
+  Don't sell Ritual products/services
+  Don't work for Ritual
+  [^1]: https://buyisraelitech.com/database/ritual
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/70165f88-9dc3-4159-b500-ebac32ed571d/ritual/w=450

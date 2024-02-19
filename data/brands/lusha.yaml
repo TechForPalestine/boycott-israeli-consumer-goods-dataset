@@ -1,0 +1,18 @@
+name: Lusha
+status: avoid
+description: |-
+  Lusha is an Israeli tech company[^1]
+
+  Don't buy Lusha products/services
+  Don't sell Lusha products/services
+  Don't work for Lusha
+  [^1]: https://buyisraelitech.com/database/l
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5e2ca65d-faf2-4029-b403-581ec420da9a/Lusha_logo.svg/w=450

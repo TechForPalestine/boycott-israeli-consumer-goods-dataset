@@ -1,0 +1,20 @@
+name: Bayer Pharmaceuticals
+status: avoid
+description: |-
+  Bayer Pharmaceuticals invests in Israel.[^1]
+
+  Don't buy Bayer Pharmaceuticals products.
+  Don't sell Bayer Pharmaceuticals products.
+  Check the details on packaging before you buy over the counter.
+  Don't prescribe Bayer Pharmaceuticals products.
+  [^1]: https://www.timesofisrael.com/pharma-giant-bayer-scouts-israeli-startup-scene-in-search-of-competitive-edge/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- pharmaceuticals
+logo_url: |-
+  https://download.logo.wine/logo/Bayer/Bayer-Logo.wine.png
+alternatives_text: |-
+  Ask pharmacist for non Bayer alternatives

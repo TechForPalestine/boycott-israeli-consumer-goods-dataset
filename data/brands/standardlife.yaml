@@ -1,0 +1,22 @@
+name: Standard Life
+status: avoid
+description: |-
+  Standard Life invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians[^1]
+
+  Don't save or invest with Standard Life.
+  Don't keep your pension with Standard Life.
+  Don't use Standard Life insurance products.
+  Don't work for Standard Life.
+  [^1]: https://www.ethicalconsumer.org/money-finance/israel-deadly-investments
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+- insurance
+logo_url: |-
+  https://www.lincs-chamber.co.uk/wp-content/uploads/2018/02/Standard-Life-Assurance-logo.png
+stakeholders:
+- id: phoenix
+  type: owner

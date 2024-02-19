@@ -1,0 +1,17 @@
+name: SAP
+status: avoid
+description: |-
+  SAP donated money to israeli employees after the war started, with an additional 6,500 israeli shekels for each family member of the employee.[^1]
+
+  Don't use SAP products
+  Don't work for SAP
+  If you are a company decision maker, find alternatives to SAP products
+  [^1]: https://www.timesofisrael.com/multinational-tech-firms-from-sap-to-intel-to-give-israeli-workers-wartime-grant
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png

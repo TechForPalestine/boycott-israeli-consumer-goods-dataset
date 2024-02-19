@@ -1,0 +1,17 @@
+name: Scotia Bank
+status: avoid
+description: |-
+  Scotiabank's asset fund put $500 million into Elbit Systems Ltd, the Israeli weapons manufacturer.[^1]
+
+  Don't bank with Scotia Bank
+  Don't work for Scotia Bank
+  Don't invest with Scotia Bank
+  [^1]: https://mondoweiss.net/2023/06/canadas-scotiabank-is-funding-israeli-war-crimes/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+logo_url: |-
+  https://logosandtypes.com/wp-content/uploads/2020/08/Scotiabank.png

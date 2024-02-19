@@ -1,0 +1,18 @@
+name: Verbit
+status: avoid
+description: |-
+  Verbit is an Israeli tech company[^1]
+
+  Don't buy Verbit products/services
+  Don't sell Verbit products/services
+  Don't work for Verbit
+  [^1]: https://buyisraelitech.com/database/verbit
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- productivity
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2571a9fa-8d41-4c2c-9265-951f60d13c0b/ee8b3285-d5e6-4fee-9938-08c256c38e0b/w=450

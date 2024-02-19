@@ -1,0 +1,18 @@
+name: Dealhub
+status: avoid
+description: |-
+  Dealhub is an Israeli tech company[^1]
+
+  Don't buy Dealhub products/services
+  Don't sell Dealhub products/services
+  Don't work for Dealhub
+  [^1]: https://buyisraelitech.com/database/dealhub
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d0b783c6-c167-4c99-b063-6f792199fc83/58eb4414445216b812579c1bb013b69a/w=450

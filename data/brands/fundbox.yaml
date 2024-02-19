@@ -1,0 +1,18 @@
+name: Fundbox
+status: avoid
+description: |-
+  Fundbox is an Israeli tech company[^1]
+
+  Don't buy Fundbox products/services
+  Don't sell Fundbox products/services
+  Don't work for Fundbox
+  [^1]: https://buyisraelitech.com/database/fundbox
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8811d7a1-557b-46d9-8142-713d0fbbec55/Fundbox/w=450

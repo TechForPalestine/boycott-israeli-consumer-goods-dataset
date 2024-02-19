@@ -1,0 +1,21 @@
+name: Viber
+status: avoid
+description: |-
+  Founder, Talmon Marco, is a zionist who supports IDF operations in Gaza.[^1]
+
+  Don't use Viber to communicate.
+  Don't trust that viber is not sharing data with the Israeli intelligence services.
+  Don't work for Viber.
+  [^1]: https://twitter.com/duras
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://cdn-icons-png.flaticon.com/512/124/124016.png
+alternatives_text: Telegram
+stakeholders:
+- id: japanese
+  type: owner

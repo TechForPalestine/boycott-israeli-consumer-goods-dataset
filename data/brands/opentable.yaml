@@ -1,0 +1,23 @@
+name: Opentable
+status: avoid
+description: |-
+  Booking.com, whos parent company Booking Holdings owns Opentable, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.[^1]
+
+  Don't book on Opentable.
+  Book directly with restaurants. They usually offer discounts and similar terms for direct bookings.
+  Don't list your services on Opentable.
+  Don't work for Booking Holdings
+  [^1]: https://www.aljazeera.com/news/2022/10/5/is-booking-com-reversal-palestine-corporate-hypocrisy
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- food
+logo_url: |-
+  https://images.ctfassets.net/2d5q1td6cyxq/3PVUGEvFSzhz3ITHrcGA0q/154f94f5ad8fdeef15079efeee37238c/Mark_RGB_White-Tile-512.png
+alternatives_text: Book directly with restaurants
+stakeholders:
+- id: booking
+  type: owner

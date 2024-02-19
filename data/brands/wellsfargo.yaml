@@ -1,0 +1,17 @@
+name: Wells Fargo
+status: avoid
+description: |-
+  Wells Fargo was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.[^1]
+
+  Don't bank with Wells Fargo
+  Don't work for Wells Fargo
+  Don't invest with Wells Fargo
+  [^1]: https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- finance
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wells_Fargo_Logo_%282020%29.svg/800px-Wells_Fargo_Logo_%282020%29.svg.png

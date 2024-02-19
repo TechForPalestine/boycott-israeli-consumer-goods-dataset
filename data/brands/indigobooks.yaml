@@ -1,0 +1,20 @@
+name: Indigo Books
+status: avoid
+description: |-
+  The couple Gerry Schwartz and Heather Reisman are prominent business people in Canada and are both actively involved in supporting the state of israel.[^1]
+
+  Don't buy from Indigo Books.
+  Don't work for Indigo Books
+  [^1]: https://www.heseg.com/%D7%9E%D7%99%D7%99%D7%A1%D7%93%D7%99-%D7%94%D7%A7%D7%A8%D7%9F?lang=en
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- books
+logo_url: |-
+  https://scarboroughtowncentre.com/wp-content/uploads/2021/11/9b0e5b28fdeb73b86ea47ceca4e1ac79c75c51a5.png
+alternatives_text: Local book shops
+stakeholders:
+- id: heather
+  type: owner

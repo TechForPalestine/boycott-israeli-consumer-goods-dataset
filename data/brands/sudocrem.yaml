@@ -1,0 +1,25 @@
+name: Sudocrem
+status: avoid
+description: |-
+  Teva Pharmaceuticals operates in Occupied Palestine[^1]
+
+  Don't buy Sudocrem products
+  Don't sell Sudocrem products
+  [^1]: https://www.tevauk.com/patients/our-therapy-areas/consumer-healthcare/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+- healthcare
+- pharmaceuticals
+logo_url: |-
+  https://www.chemist.net/pub/media/brand/sudocrem_bd37.jpg
+alternatives_text: |-
+  Supermarket own brand products
+  Pharmacy own brand products
+  Ask pharmacist for non Teva alternatives
+stakeholders:
+- id: israeli
+  type: owner

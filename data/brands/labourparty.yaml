@@ -1,0 +1,23 @@
+name: Labour party
+status: avoid
+description: |-
+  Keir Starmer has made official statements that Labour stands with Israel.[^1]
+
+  Don't vote for Labour.
+  Don't donate to Labour.
+  Don't work for Labour.
+  [^1]: https://labour.org.uk/updates/press-releases/keir-starmers-statement-to-the-commons-on-israel-gaza/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- politics
+logo_url: |-
+  https://ih1.redbubble.net/image.977949166.6470/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
+alternatives_text: |-
+  Abstain
+  Vote for a small party with good values
+stakeholders:
+- id: keir
+  type: owner

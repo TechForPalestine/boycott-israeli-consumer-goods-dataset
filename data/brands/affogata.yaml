@@ -1,0 +1,18 @@
+name: Affogata
+status: avoid
+description: |-
+  Affogata is an Israeli tech company[^1]
+
+  Don't buy Affogata products/services
+  Don't sell Affogata products/services
+  Don't work for Affogata
+  [^1]: https://buyisraelitech.com/database/affogata
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- marketing
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/6561612e-d08d-4002-ab63-abf6d65030ef/Affogata-logo-NEW/w=450

@@ -1,0 +1,18 @@
+name: PDQ
+status: avoid
+description: |-
+  PDQ is an Israeli tech company[^1]
+
+  Don't buy PDQ products/services
+  Don't sell PDQ products/services
+  Don't work for PDQ
+  [^1]: https://buyisraelitech.com/database/pdq
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f65d3f7a-9067-4e5c-9939-cf291e601be1/pdq/w=450

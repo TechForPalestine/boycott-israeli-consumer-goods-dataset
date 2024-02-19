@@ -1,0 +1,18 @@
+name: Zara
+status: avoid
+description: |-
+  Zara's latest marketing campaign uses corpses in plastic wrapping, and warzone aesthetics, mocking the genocide by israel in Gaza. In a previous incident Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Zara did not made a statement distancing themselves from this association and allowed this ad campaign to run.[^1]
+
+  Don't buy Zara products
+  Don't sell Zara products
+  Don't work for Zara or its affiliates
+  [^1]: https://www.thenationalnews.com/lifestyle/fashion-beauty/2023/12/10/zara-campaign-boycott-gaza-palestine/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+logo_url: |-
+  https://static.dezeen.com/uploads/2019/02/new-zara-logo-hero-1.jpg

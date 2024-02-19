@@ -1,0 +1,19 @@
+name: Sadaf Foods
+status: avoid
+description: |-
+  Sadaf Foods sources produce from Occupied Palestine.[^1]
+
+  Don't buy Sadaf products
+  Don't sell Sadaf products
+  Tell your local store to stop selling Sadaf products
+  [^1]: https://boycottsadaf.com/why-boycott-sadaf/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+logo_url: |-
+  https://www.sadaf.com/cdn/shop/files/sadaf-logo_a5f4d83a-9320-4874-9e71-a4002d5e7f4a_600x.png
+alternatives_text: |-
+  Supermarket own brand products. Eg. Morrisons

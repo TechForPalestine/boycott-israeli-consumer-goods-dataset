@@ -1,0 +1,18 @@
+name: Logz.io
+status: avoid
+description: |-
+  Logz.io is an Israeli tech company[^1]
+
+  Don't buy Logz.io products/services
+  Don't sell Logz.io products/services
+  Don't work for Logz.io
+  [^1]: https://buyisraelitech.com/database/logzio
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f8fb9141-0cc8-4090-98a4-925f57d45d45/logz/w=450

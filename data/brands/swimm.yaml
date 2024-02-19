@@ -1,0 +1,18 @@
+name: Swimm
+status: avoid
+description: |-
+  Swimm is an Israeli tech company[^1]
+
+  Don't buy Swimm products/services
+  Don't sell Swimm products/services
+  Don't work for Swimm
+  [^1]: https://buyisraelitech.com/database/swimm
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f2d4191e-f32d-4dc9-a524-2de0602e9ab3/code_block_Shirley_Schoenfeld/w=450

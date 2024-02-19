@@ -1,0 +1,18 @@
+name: CEVA
+status: avoid
+description: |-
+  CEVA is an Israeli tech company[^1]
+
+  Don't buy CEVA products/services
+  Don't sell CEVA products/services
+  Don't work for CEVA
+  [^1]: https://buyisraelitech.com/database/ceva
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- semiconductors
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CEVA_Inc_Logo.svg/1200px-CEVA_Inc_Logo.svg.png

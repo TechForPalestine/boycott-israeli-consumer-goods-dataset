@@ -1,0 +1,18 @@
+name: Adidas
+status: avoid
+description: |-
+  Adidas uses israeli manufacturer, Delta Galil, to manufacture its underwear range.[^1]
+
+  Don't buy Adidas products.
+  Don't sell Adidas products.
+  Don't work for Adidas.
+  [^1]: https://adidasunderwear.com/pages/adidas-underwear-partnership/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+logo_url: |-
+  https://adidasunderwear.com/cdn/shop/files/Sportswear_Logo_BWp_180x.png
+alternatives_text: Unbranded sportswear

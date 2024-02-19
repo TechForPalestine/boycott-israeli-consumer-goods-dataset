@@ -1,0 +1,18 @@
+name: Honeybook
+status: avoid
+description: |-
+  Honeybook is an Israeli tech company[^1]
+
+  Don't buy Honeybook products/services
+  Don't sell Honeybook products/services
+  Don't work for Honeybook
+  [^1]: https://buyisraelitech.com/database/honeybook
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- productivity
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bea0ffa4-9343-4b2b-9bfe-2e4dc1896fd8/honeybook/w=450

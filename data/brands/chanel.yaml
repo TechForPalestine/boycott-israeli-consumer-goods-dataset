@@ -1,0 +1,27 @@
+name: Chanel
+status: avoid
+description: |-
+  Alain Wertheimer, condemned the attack on Israel but remained silent on the attacks on Gaza, also pledged $4m in Chanel's name.[^1]
+
+  Don't buy Chanel clothing, make up, shoes, perfumes, bags or any other products.
+  Don't sell Chanel products.
+  Don't work for Chanel.
+  [^1]: https://www.universityoffashion.com/blog/#:~:text=Chanel%20was%20donating%20%244%20million
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- cosmetics
+- clothing
+- fashion
+logo_url: |-
+  https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102013/chanel_black.png
+alternatives_text: |-
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+  Unbranded oil based perfumes
+stakeholders:
+- id: the
+  type: owner

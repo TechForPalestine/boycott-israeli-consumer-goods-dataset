@@ -1,0 +1,19 @@
+name: Skechers
+status: avoid
+description: |-
+  Michael S Greenberg, the president of Skechers, is a zionist who has posted pro israel content on his instagram.[^1]
+
+  Don't buy Skechers products
+  Don't sell Skechers products
+  Don't work for Skechers Groupe
+  [^1]: https://www.instagram.com/p/CzMMTQgLu9Q/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+- fashion
+logo_url: |-
+  https://logowik.com/content/uploads/images/skechers5769.logowik.com.webp
+alternatives_text: Other brand trainers/sneakers

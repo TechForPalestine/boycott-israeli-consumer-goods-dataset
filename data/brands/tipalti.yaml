@@ -1,0 +1,18 @@
+name: Tipalti
+status: avoid
+description: |-
+  Tipalti is an Israeli tech company[^1]
+
+  Don't buy Tipalti products/services
+  Don't sell Tipalti products/services
+  Don't work for Tipalti
+  [^1]: https://buyisraelitech.com/database/tipalti
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- finance
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5c7b5571-987e-490d-92ee-6a38fe046ac3/Tipalti_Logo.svg/w=450

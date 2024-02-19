@@ -1,0 +1,18 @@
+name: BAE Systems
+status: avoid
+description: |-
+  BAE Systems supplies many military hardware and software items to the Israeli Air Force. Including parts of the F-35 fighter jet and flares used in many of the aircraft.[^1]
+
+  Don't work for BAE Systems
+  [^1]: https://www.baesystems.com/en/product/electronic-warfare-and-support-equipment#:~:text=BAE%20Systems%20Rokar%20is%20the%20sole%20supplier%20of%20these%20systems%20to%20the%20Israeli%20Air%20Force.
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- weapons
+- manufacturer
+logo_url: |-
+  https://rocketandcloud.co.uk/wp-content/uploads/2022/02/bae-logo-6-1-550x360.png
+alternatives_text: |-
+  Work for an engineering company that has no involvement in producing weapons used in israel

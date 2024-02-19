@@ -1,0 +1,18 @@
+name: Apiiro
+status: avoid
+description: |-
+  Apiiro is an Israeli tech company[^1]
+
+  Don't buy Apiiro products/services
+  Don't sell Apiiro products/services
+  Don't work for Apiiro
+  [^1]: https://buyisraelitech.com/database/apiiro
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b63b8e87-5b99-4032-b885-a030a0e263bf/7509eead3518f9b45d72237c5d0bf6bab033ee25-1340x894/w=450

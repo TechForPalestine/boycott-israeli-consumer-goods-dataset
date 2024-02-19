@@ -1,0 +1,18 @@
+name: Firefly
+status: avoid
+description: |-
+  Firefly is an Israeli tech company[^1]
+
+  Don't buy Firefly products/services
+  Don't sell Firefly products/services
+  Don't work for Firefly
+  [^1]: https://buyisraelitech.com/database/firefly
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- cloud
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/238398dd-1cf0-48f0-aacb-3c0a92c429ec/LU_c4dVq_400x400/w=450

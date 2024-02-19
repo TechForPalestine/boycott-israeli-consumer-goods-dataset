@@ -1,0 +1,24 @@
+name: Tesco
+status: avoid
+description: |-
+  Tesco is partnering with an Israeli start, Trigo Retail, up to deliver till-less stores with several already open in London. Michael Gabay, the CEO of Trigo is a staunch zionist.[^1]
+
+  Don't buy Tesco products, especially from their GetGo stores.
+  Pressure Tesco to drop their partnership with Trigo, and to choose a local partner instead.
+  [^1]: https://www.businesswire.com/news/home/20211018005203/en/Trigo-Powers-Fully-Autonomous-Tesco-Grocery-Store-in-Central-London
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- supermarket
+- food
+- drinks
+- finance
+- insurance
+logo_url: |-
+  https://assets.website-files.com/622733c59bf20d8a074764f6/622733c59bf20dbdf4476887_Tesco.png
+alternatives_text: |-
+  Morrisons
+  Co-op
+  Aldi (Sud - UK and south Europe only)

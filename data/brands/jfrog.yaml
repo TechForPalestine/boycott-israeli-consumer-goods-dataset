@@ -1,0 +1,18 @@
+name: JFrog
+status: avoid
+description: |-
+  JFrog is an Israeli tech company[^1]
+
+  Don't buy JFrog products/services
+  Don't sell JFrog products/services
+  Don't work for JFrog
+  [^1]: https://buyisraelitech.com/database/jfrog
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/83e7624c-4f40-4476-a992-193d1691a05e/jfrog/w=450

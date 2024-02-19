@@ -1,0 +1,18 @@
+name: Salto
+status: avoid
+description: |-
+  Salto is an Israeli tech company[^1]
+
+  Don't buy Salto products/services
+  Don't sell Salto products/services
+  Don't work for Salto
+  [^1]: https://buyisraelitech.com/database/salto
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e57bb9a3-2a5e-423c-8faa-4a5870faf327/Salto_Logo/w=450

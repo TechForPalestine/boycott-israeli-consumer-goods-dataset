@@ -1,0 +1,18 @@
+name: Global-e
+status: avoid
+description: |-
+  Global-e is an Israeli tech company[^1]
+
+  Don't buy Global-e products/services
+  Don't sell Global-e products/services
+  Don't work for Global-e
+  [^1]: https://buyisraelitech.com/database/global-e
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- commerce
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/0897a85e-6485-405f-9922-d3ae8267fc80/global-e/w=450

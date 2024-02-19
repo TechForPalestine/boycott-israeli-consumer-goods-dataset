@@ -1,0 +1,18 @@
+name: Hyundai
+status: avoid
+description: |-
+  Hyundai heavy machinery has been used in the demolition of Palestinian neighbourhoods in Jerusalem, benefiting them commercially from the Israeli occupation.[^1]
+
+  Don't buy Hyundai cars or machinery.
+  Don't sell Hyundai cars or machinery.
+  Don't work for Hyundai.
+  [^1]: https://bdsmovement.net/news/boycott-hyundai-end-its-complicity-israel%E2%80%99s-ethnic-cleansing-palestinian-communities-jerusalem
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- car
+- manufacturer
+logo_url: |-
+  https://pbs.twimg.com/profile_images/821433960639008768/_M06NaeP_400x400.jpg

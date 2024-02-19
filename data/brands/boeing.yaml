@@ -1,0 +1,18 @@
+name: Boeing
+status: avoid
+description: |-
+  Provides Israel with Hellfire missiles, F-15 Eagle fighter jets, MK84 2000-lb bombs and Apache helicopters.[^1]
+
+  Don't work for Boeing
+  [^1]: https://investigate.afsc.org/company/boeing
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- weapons
+- manufacturer
+logo_url: |-
+  https://marvel-b1-cdn.bc0a.com/f00000000163918/www.care.org/wp-content/uploads/2021/10/Boeing.png
+alternatives_text: |-
+  Work for an engineering firm which doesn't manufacture weapons used by israel

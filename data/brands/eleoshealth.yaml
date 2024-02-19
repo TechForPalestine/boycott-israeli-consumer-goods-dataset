@@ -1,0 +1,18 @@
+name: Eleos Health
+status: avoid
+description: |-
+  Eleos Health is an Israeli tech company[^1]
+
+  Don't buy Eleos Health products/services
+  Don't sell Eleos Health products/services
+  Don't work for Eleos Health
+  [^1]: https://buyisraelitech.com/database/eleos-health
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5902437b-4f28-4863-ad31-916a0d371f38/eleos-logo-cmyk-OG/w=450

@@ -1,0 +1,20 @@
+name: Wix
+status: avoid
+description: |-
+  CEO Avishai Abrahami is a zionist who supports the IDF.[^1]
+
+  Don't use wix to build your website, use another service.
+  Don't work for Wix.
+  [^1]: https://twitter.com/avishai_ab
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://cdn-icons-png.flaticon.com/512/5968/5968762.png
+alternatives_text: |-
+  Wordpress
+  Weebly
+  Squarespace

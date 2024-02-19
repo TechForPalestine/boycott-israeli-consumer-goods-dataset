@@ -1,0 +1,18 @@
+name: K Health
+status: avoid
+description: |-
+  K Health is an Israeli tech company[^1]
+
+  Don't buy K Health products/services
+  Don't sell K Health products/services
+  Don't work for K Health
+  [^1]: https://buyisraelitech.com/database/k-health
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- healthcare
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ba8bc79c-909b-47e7-b15e-69cf65a0d86a/k-health-dark-blue/w=450

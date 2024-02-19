@@ -1,0 +1,17 @@
+name: Express VPN
+status: avoid
+description: |-
+  Express VPN is an israeli company owned by zionists who support the occupation of Palestine.[^1]
+
+  Don't use Express VPN.
+  Don't work for Express VPN.
+  [^1]: https://www.calcalistech.com/ctech/articles/0,7340,L-3918443,00.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://media.wired.co.uk/photos/606d9e95fd9831b13e447120/4:3/w_2664,h_1998,c_limit/wired-express-vpn.jpg
+alternatives_text: NordVPN

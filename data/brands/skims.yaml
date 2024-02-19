@@ -1,0 +1,23 @@
+name: Skims
+status: avoid
+description: |-
+  Kim Kardashian has shared a message to her 'Jewish friends' condemning the October 7th operation, but has not condemned israel for its genocide of Gaza. [^1]
+
+  Don't buy Skims products
+  Don't sell Skims products
+  Don't work for Skims
+  [^1]: https://www.instagram.com/p/CyRnmHgvhgv/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+- fashion
+logo_url: |-
+  https://pbs.twimg.com/profile_images/1619738248468922368/dYCNOxM__400x400.jpg
+alternatives_text: |-
+  Many non Kim related shapewear brands, also many non branded
+stakeholders:
+- id: kim
+  type: owner

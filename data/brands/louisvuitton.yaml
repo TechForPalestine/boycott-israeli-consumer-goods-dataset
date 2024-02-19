@@ -1,0 +1,28 @@
+name: Louis Vuitton
+status: avoid
+description: |-
+  The owner of Louis Vuitton's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies[^1]
+
+  Don't buy Louis Vuitton products
+  Don't sell Louis Vuitton products
+  Don't work for Louis Vuitton or LVMH
+  [^1]: https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- fashion
+- clothing
+- cosmetics
+logo_url: |-
+  https://media.designrush.com/inspiration_images/136124/conversions/_1519762849_545_990__1513771354_519_louis-v1_b31600c58738-mobile.jpg
+alternatives_text: |-
+  Unbranded oil based fragrances
+  Non designer clothing and accessories
+  Lush cosmetics
+  Huda beauty
+  Sunnamusk
+stakeholders:
+- id: bernard
+  type: owner

@@ -1,0 +1,18 @@
+name: Rupert
+status: avoid
+description: |-
+  Rupert is an Israeli tech company[^1]
+
+  Don't buy Rupert products/services
+  Don't sell Rupert products/services
+  Don't work for Rupert
+  [^1]: https://buyisraelitech.com/database/rupert
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- productivity
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7169f551-4a49-4888-970d-0c97a5716adf/rupert/w=450

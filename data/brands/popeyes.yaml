@@ -1,0 +1,19 @@
+name: Popeyes
+status: avoid
+description: |-
+  Popeyes is the sister company of Burger King, which supports IDF by providing free food and drinks to Israeli militants. See their instagram post (click translate) for reference.[^1]
+
+  Don't eat at Popeyes.
+  Don't work for Popeyes.
+  [^1]: https://www.instagram.com/p/CyORRWHIqeH/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://restaurantpropertysellers.com/wp-content/uploads/2021/11/popeyes-london-reviews.png
+alternatives_text: |-
+  Eat at local family owned businesses

@@ -1,0 +1,16 @@
+name: Lockheed Martin
+status: avoid
+description: |-
+  Lockheed Martin plays a significant role in the military ability of the State of Israel. They supply the IDF with F-16 fighter jets, F-35 fighter jets, CH-53K helicopters and other military hardware and software.[^1]
+
+  Don't work for Lockheed Martin
+  [^1]: https://www.lockheedmartin.com/en-il/index.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- weapons
+- manufacturer
+logo_url: |-
+  https://pbs.twimg.com/profile_images/1635287976044548108/tNkqLQPN_400x400.png

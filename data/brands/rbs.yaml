@@ -1,0 +1,23 @@
+name: RBS
+status: avoid
+description: |-
+  RBS invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians[^1]
+
+  Don't bank with RBS.
+  Close your RBS accounts.
+  Don't use RBS lending options.
+  Cancel your RBS credit cards.
+  Don't work for RBS.
+  [^1]: https://www.ethicalconsumer.org/money-finance/israel-deadly-investments
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- insurance
+- finance
+logo_url: |-
+  https://www.princessroyaltrainingawards.com/wp-content/uploads/2017/08/Logos-510x288-RBS.jpg
+alternatives_text: |-
+  TSB Bank
+  Monzo Bank

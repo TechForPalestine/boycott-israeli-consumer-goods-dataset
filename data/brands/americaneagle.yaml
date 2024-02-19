@@ -1,0 +1,18 @@
+name: American Eagle
+status: avoid
+description: |-
+  American Eagle posted an image of the Israeli Flag on their flagship billboard in Times Square showing their support for the apartheid state.[^1]
+
+  Don't buy products from American Eagle Outfitters.
+  Don't work for American Eagle Outfitters.
+  [^1]: https://www.linkedin.com/posts/craig-brommers-616b1b1_our-updated-american-eagle-times-square-flagship-activity-7116923792202833920-jt6L?utm_source=share&utm_medium=member_desktop
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- clothing
+- fashion
+logo_url: |-
+  https://logowik.com/content/uploads/images/american-eagle-outfitters7114.jpg
+alternatives_text: Buy non designer products

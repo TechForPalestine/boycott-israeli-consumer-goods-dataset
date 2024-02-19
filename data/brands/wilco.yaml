@@ -1,0 +1,18 @@
+name: Wilco
+status: avoid
+description: |-
+  Wilco is an Israeli tech company[^1]
+
+  Don't buy Wilco products/services
+  Don't sell Wilco products/services
+  Don't work for Wilco
+  [^1]: https://buyisraelitech.com/database/wilco
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- development
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9607275a-f45c-4c81-a71f-2471b2ee51e0/Wilco_Logo/w=450

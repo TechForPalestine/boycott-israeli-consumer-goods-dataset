@@ -1,0 +1,18 @@
+name: Motorola
+status: avoid
+description: |-
+  The IDF uses motorola as a main supplier for its communication equipment which enables them to effectively control the occupied Palestinians. They also manufacture the bomb fuses used in IDF bombs.[^1]
+
+  Don't buy Motorola devices.
+  Don't sell Motorola devices.
+  Don't work for Motorola.
+  [^1]: http://www.inminds.co.uk/boycott-motorola.php
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- manufacturer
+- technology
+logo_url: |-
+  https://cdn.lovesavingsgroup.com/logos/motorola.jpg

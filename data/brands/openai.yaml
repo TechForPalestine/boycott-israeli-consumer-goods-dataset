@@ -1,0 +1,20 @@
+name: OpenAI
+status: avoid
+description: |-
+  Sam Altman is a zionist. Many responses by the chat bot have proven to be pro zionist biased.[^1]
+
+  Only use the free version of chatGPT.
+  Only build products using OpenAI APIs.
+  Don't work for OpenAI.
+  [^1]: https://www.timesofisrael.com/openais-sam-altman-says-israel-will-have-huge-role-to-play-in-ai-revolution/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+logo_url: |-
+  https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg
+stakeholders:
+- id: zionist
+  type: owner

@@ -1,4 +1,4 @@
-name: "Dr. Pepper"
+name: Dr. Pepper
 status: avoid
 description: |-
   Owned by **The Coca-Cola Company**. (Only in United Kingdom, Japan, and South Korea)
@@ -6,7 +6,9 @@ description: |-
 
   **Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.
 
-  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.
+  **PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]
+
+  [^1]: http://www.inminds.com/boycott-coca-cola.html
 reasons:
 - operations_in_settlements
 countries:

@@ -1,0 +1,20 @@
+name: Espresso House
+status: avoid
+description: |-
+  The owners of Espresso House, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.[^1]
+
+  Don't eat from Espresso House.
+  Don't work for Espresso House.
+  [^1]: https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://images.squarespace-cdn.com/content/v1/62ab2d73fb56ea653d2d8ca1/5da2adb4-ad25-4789-be03-dcf952ed58e5/Espresso+House+Compressed.jpg
+stakeholders:
+- id: jab
+  type: owner

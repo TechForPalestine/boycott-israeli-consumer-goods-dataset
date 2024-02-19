@@ -1,9 +1,11 @@
-name: "Kemal Kukrer"
+name: Kemal Kukrer
 status: avoid
 description: |-
   Owned by **Ajinomoto Group**.
 
-  **Ajinomoto Co.**, announced a partnership with Tel Aviv, Israel-based SuperMeat, a developer of poultry meat produced from animal cells.
+  **Ajinomoto Co.**, announced a partnership with Tel Aviv, Israel-based SuperMeat, a developer of poultry meat produced from animal cells.[^1]
+
+  [^1]: https://www.meatpoultry.com/articles/26314-ajinomoto-enters-joint-venture-with-cell-based-meat-company
 reasons:
 - operations_in_israel
 countries:

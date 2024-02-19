@@ -1,0 +1,18 @@
+name: Papaya Global
+status: avoid
+description: |-
+  Papaya Global is an Israeli tech company[^1]
+
+  Don't buy Papaya Global products/services
+  Don't sell Papaya Global products/services
+  Don't work for Papaya Global
+  [^1]: https://buyisraelitech.com/database/papaya-global
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- hr
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b7759c98-086a-497d-8160-e038e56ee8cd/Papaya_Global_logo/w=450

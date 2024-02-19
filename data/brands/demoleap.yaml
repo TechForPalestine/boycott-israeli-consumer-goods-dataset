@@ -1,0 +1,18 @@
+name: Demoleap
+status: avoid
+description: |-
+  Demoleap is an Israeli tech company[^1]
+
+  Don't buy Demoleap products/services
+  Don't sell Demoleap products/services
+  Don't work for Demoleap
+  [^1]: https://buyisraelitech.com/database/demoleap
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- sales
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/94dd0e83-88ce-40e2-aab9-15693ec5cea7/Demoleap_Logo/w=450

@@ -1,0 +1,18 @@
+name: Tufin
+status: avoid
+description: |-
+  Tufin is an Israeli tech company[^1]
+
+  Don't buy Tufin products/services
+  Don't sell Tufin products/services
+  Don't work for Tufin
+  [^1]: https://buyisraelitech.com/database/tufin
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- technology
+- security
+logo_url: |-
+  https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e210e21d-ef05-45a1-b138-954b52d4e14c/tufinlogo-1/w=450

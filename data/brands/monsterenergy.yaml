@@ -1,0 +1,23 @@
+name: Monster Energy
+status: avoid
+description: |-
+  Coca-Cola Company which is the largest shareholder of Monster Energy, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.[^1]
+
+  Don't buy Monster Energy drinks.
+  Don't sell Monster Energy drinks
+  Don't work for the Coca-Cola Company
+  [^1]: https://www.foa.org.uk/campaign/boycottcocacola
+reasons:
+- operations_in_settlements
+countries:
+- global
+categories:
+- drinks
+logo_url: |-
+  https://static.vecteezy.com/system/resources/previews/027/076/245/original/monster-energy-logo-transparent-free-png.png
+alternatives_text: |-
+  Supermarket own brand products, eg. Morrisons
+  Barr Drinks (owner of Irn Bru)
+stakeholders:
+- id: the
+  type: owner

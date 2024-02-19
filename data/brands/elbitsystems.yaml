@@ -1,0 +1,19 @@
+name: Elbit Systems
+status: avoid
+description: |-
+  Builds drones which are used in the killing of innoncent Palestinians.[^1]
+
+  Don't work for Elbit Systems.
+  You probably can't buy killer drones from them anyway.
+  [^1]: https://elbitsystems.com/about-us-introduction/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- weapons
+- manufacturer
+logo_url: |-
+  https://static.stocktitan.net/company-logo/ESLT-lg.png
+alternatives_text: |-
+  Work for an engineering company which doesn't produce weapons for israel

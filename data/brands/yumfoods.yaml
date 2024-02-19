@@ -1,0 +1,19 @@
+name: Yum Foods
+status: avoid
+description: |-
+  Yum Brands is an investor in Israeli start ups.[^1]
+
+  Don't eat food from Yum Brands restaurants.
+  Don't work in Yum Brands restaurants
+  [^1]: https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yum%21_Brands_logo.svg/1200px-Yum%21_Brands_logo.svg.png
+alternatives_text: |-
+  Eat at local family owned businesses

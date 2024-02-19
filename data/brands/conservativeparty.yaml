@@ -1,0 +1,24 @@
+name: Conservative party
+status: avoid
+description: |-
+  Rishi Sunak has made official statements that Conservatives stand with Israel. He also sent military assistance to help Israel in its genocide of Gaza.[^1]
+
+  Don't vote for Conservatives.
+  Don't donate to Conservatives.
+  Don't work for Conservatives.
+  [^1]: https://www.theguardian.com/world/2023/oct/14/sunak-promises-israel-unqualified-support-in-face-of-evil-but-fails-to-mention-plight-of-gaza/
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- politics
+logo_url: |-
+  https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ik2bctvydwmkecjghspk
+alternatives_text: |-
+  Abstain from voting
+  Vote for a small party
+  Also don't vote Labour
+stakeholders:
+- id: rishi
+  type: owner

@@ -1,0 +1,20 @@
+name: Peet's Coffee
+status: avoid
+description: |-
+  The owners of Peet's Coffee, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.[^1]
+
+  Don't eat from Peet's Coffee.
+  Don't work for Peet's Coffee.
+  [^1]: https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation
+reasons:
+- operations_in_israel
+countries:
+- global
+categories:
+- food
+- drinks
+logo_url: |-
+  https://dg6qn11ynnp6a.cloudfront.net/wp-content/uploads/2019/10/04114953/18274759_10154462185956190_6773480231895222987_n.jpg
+stakeholders:
+- id: jab
+  type: owner
