@@ -1,0 +1,12 @@
+name: "Sweetgreen"
+status: avoid
+reasons: []
+countries: [us]
+website: https://www.sweetgreen.com/
+logo_url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Sweetgreen_logo.svg
+description: |-
+  Sweetgreen is an American fast casual restaurant chain that is famous for its salads.[^1]
+  Jonathan Neman, CEO of restaurant chain Sweetgreen, vowed never to hire Harvard students who support ceasefire.[^2]
+  
+  [^1]: https://en.wikipedia.org/wiki/Sweetgreen
+  [^2]: https://apnews.com/article/israel-hamas-war-palestinians-companies-harvard-daecf3a387a689339dc41f35b773e063
